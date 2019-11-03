@@ -1,7 +1,7 @@
 # Instalando virtualenv (encapsulador de ambiente)
 `sudo pip3 install virtualenv`
 
-# Configurando ambiente ***"
+# Configurando ambiente
 `virtualenv env`
 
 # Ativando env
