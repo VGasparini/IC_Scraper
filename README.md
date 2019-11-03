@@ -4,11 +4,14 @@
 # Configurando ambiente
 `virtualenv env`
 
-# Ativando env
+# Ativando env (necessário toda vez que for usar)
 `source env/bin/activate`
 
-# Instalando biblioteca
+# Instalando biblioteca (só no primeiro uso)
 `pip3 install scrapy`
 
 # Desativar env
 `deactivate`
+
+# Rodando 
+`scrapy runspider authors.py -o output.json`
