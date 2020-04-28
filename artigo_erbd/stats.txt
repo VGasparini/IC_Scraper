@@ -1,0 +1,2487 @@
+Jaro (0~1) | Levenshtein (0~inf) | Damerau (0~inf)
+--- Adilson Valhdick ---
+    Alisson S. Maia: 0.6838 | 9.0000 | 9.0000
+
+--- Adriana Zanella Martinhago ---
+    Leandro Balby Marinho: 0.6674 | 15.0000 | 15.0000
+    Ana Paula Reinaldo: 0.7007 | 15.0000 | 15.0000
+    Adriana Mexicano: 0.7569 | 14.0000 | 14.0000
+    Rafaelli Coutinho: 0.6114 | 15.0000 | 15.0000
+    Adriano Veloso: 0.6996 | 16.0000 | 16.0000
+
+--- Adriano Petry ---
+    Adriano Veloso: 0.7784 | 5.0000 | 5.0000
+    Ilia Petrov: 0.6559 | 7.0000 | 7.0000
+    Mariano Salvetti: 0.6635 | 8.0000 | 8.0000
+    Adriana Mexicano: 0.7051 | 8.0000 | 8.0000
+    Aline Paes: 0.6985 | 8.0000 | 8.0000
+
+--- Adriano Silva ---
+    Arlei Silva: 0.8368 | 5.0000 | 5.0000
+    Adriana S. Vivacqua: 0.7478 | 9.0000 | 9.0000
+    Mário J. Silva: 0.7784 | 6.0000 | 6.0000
+    Aristênio Saraiva: 0.7705 | 9.0000 | 9.0000
+    Adriano Veloso: 0.7784 | 5.0000 | 5.0000
+
+--- Aldo von Wangenheim ---
+    Aldo von Wangenheim: 1.0000 | 0.0000 | 0.0000
+
+--- Aldri Santos ---
+    Walter Santos: 0.8141 | 5.0000 | 5.0000
+    Lineu Santos: 0.7778 | 5.0000 | 5.0000
+    Salomão Santos: 0.6210 | 6.0000 | 6.0000
+    Adriano Veloso: 0.7235 | 9.0000 | 9.0000
+    Aline Rode dos Santos: 0.6923 | 11.0000 | 11.0000
+
+--- Alencar Machado ---
+    Rodrigo Machado: 0.6222 | 7.0000 | 7.0000
+    Javam C. Machado: 0.6838 | 8.0000 | 8.0000
+    Helena Galhardas: 0.6639 | 9.0000 | 9.0000
+    Alexander Ocsa: 0.6735 | 9.0000 | 9.0000
+    Fábio Andre Machado Porto: 0.6489 | 16.0000 | 16.0000
+
+--- Alessandro Pinto Carneiro ---
+    Alessandreia Marta de Oliveira: 0.7363 | 15.0000 | 15.0000
+    Alejandro P. Buchmann: 0.7184 | 14.0000 | 14.0000
+    Evandrino G. Barros: 0.6322 | 16.0000 | 16.0000
+    Alejandro A. Vaisman: 0.6721 | 14.0000 | 14.0000
+    Leandro Balby Marinho: 0.5756 | 14.0000 | 13.0000
+
+--- Alex M. G. de Almeida ---
+    Virgílio A. F. Almeida: 0.6724 | 11.0000 | 11.0000
+    Humberto Mossri de Almeida: 0.6636 | 12.0000 | 12.0000
+    Derick M. de Oliveira: 0.6587 | 11.0000 | 11.0000
+    Douglas E. M. de Oliveira: 0.6946 | 12.0000 | 12.0000
+    Jussara M. Almeida: 0.6207 | 11.0000 | 11.0000
+
+--- Alex Sandro Romeo de Souza Poletto ---
+    Andrei de Souza Inácio: 0.6076 | 18.0000 | 18.0000
+    Allan José de Souza Bezerra: 0.6314 | 17.0000 | 17.0000
+    Cleidson R. B. de Souza: 0.6091 | 20.0000 | 20.0000
+    Herminio Camargo de Souza Junior: 0.5772 | 20.0000 | 20.0000
+    Atslands Rego da Rocha: 0.5399 | 22.0000 | 22.0000
+
+--- Alex Sandro Roschildt Pinto ---
+    Alexandre Ricardo Nardi: 0.6586 | 14.0000 | 14.0000
+    Alejandro A. Vaisman: 0.6079 | 16.0000 | 16.0000
+    Leandro Balby Marinho: 0.5463 | 17.0000 | 17.0000
+    Alejandro P. Buchmann: 0.6093 | 17.0000 | 17.0000
+
+--- Alexander Vinson ---
+    Alexander Ocsa: 0.8244 | 5.0000 | 5.0000
+    Alejandro A. Vaisman: 0.7696 | 10.0000 | 10.0000
+    Alexandre Ricardo Nardi: 0.7295 | 13.0000 | 12.0000
+    Alexandre A. B. Lima: 0.7155 | 11.0000 | 11.0000
+
+--- Alexandre Amaral ---
+    Alexandre A. B. Lima: 0.8208 | 9.0000 | 9.0000
+    Alexandre Ricardo Nardi: 0.7926 | 10.0000 | 10.0000
+    Alexander Ocsa: 0.7941 | 7.0000 | 6.0000
+    Alejandro A. Vaisman: 0.7556 | 9.0000 | 9.0000
+    Alexandre Tagliari Lazzaretti: 0.7621 | 16.0000 | 16.0000
+
+--- Alexandre Tagliari Lazzaretti ---
+    Alexandre Tagliari Lazzaretti: 1.0000 | 0.0000 | 0.0000
+    Alexandre Ricardo Nardi: 0.7163 | 14.0000 | 14.0000
+    Alexandre A. B. Lima: 0.6800 | 16.0000 | 16.0000
+    Alexander Ocsa: 0.6914 | 18.0000 | 18.0000
+    Alessandreia Marta de Oliveira: 0.7397 | 19.0000 | 19.0000
+
+--- Alisson Rosa ---
+    Alisson S. Maia: 0.7833 | 6.0000 | 6.0000
+    Flavio Costa: 0.6270 | 7.0000 | 7.0000
+    Denilson Barbosa: 0.6597 | 8.0000 | 8.0000
+    Melissa Lemos: 0.6774 | 8.0000 | 8.0000
+    Aline Rode dos Santos: 0.6698 | 13.0000 | 13.0000
+
+--- Alvaristo Padilha ---
+    Alisson S. Maia: 0.7098 | 11.0000 | 11.0000
+    Aristênio Saraiva: 0.6588 | 11.0000 | 11.0000
+    Narciso Arruda: 0.6390 | 11.0000 | 11.0000
+    Tamires Brito Da Silva: 0.6248 | 13.0000 | 13.0000
+
+--- Álvaro Freitas Moreira ---
+    Álvaro Freitas Moreira: 1.0000 | 0.0000 | 0.0000
+    Viviane Pereira Moreira: 0.6826 | 9.0000 | 9.0000
+    Leonardo O. Moreira: 0.6045 | 12.0000 | 12.0000
+    Eduardo Terra Morelli: 0.7201 | 12.0000 | 12.0000
+    Renato Ferreira: 0.6429 | 12.0000 | 12.0000
+
+--- Álvaro Osvaldo Teixeira Martínez ---
+
+--- Ana Amaral ---
+    Ana Carolina Salgado: 0.6917 | 13.0000 | 13.0000
+    Mariana Ramada: 0.5905 | 9.0000 | 9.0000
+    Davi Guimaraes: 0.6762 | 9.0000 | 9.0000
+    Anastasia Ailamaki: 0.6648 | 11.0000 | 11.0000
+    Ana Paula Reinaldo: 0.6487 | 11.0000 | 11.0000
+
+--- Ana Carolina Salgado ---
+    Ana Carolina Salgado: 1.0000 | 0.0000 | 0.0000
+    Ana Carolina Almeida: 0.8458 | 6.0000 | 6.0000
+    Carla Delgado: 0.6472 | 9.0000 | 9.0000
+    Ana Paula Reinaldo: 0.7783 | 10.0000 | 10.0000
+    Arlei Silva: 0.5841 | 13.0000 | 13.0000
+
+--- Ana Magela Rodriguez Almeida ---
+    Ana Carolina Almeida: 0.7365 | 13.0000 | 13.0000
+    Jussara Marques de Almeida: 0.6628 | 17.0000 | 17.0000
+    Reinaldo Almeida: 0.7113 | 17.0000 | 17.0000
+    Daniel Rodrigues: 0.6820 | 16.0000 | 16.0000
+    Ana Paula Reinaldo: 0.7576 | 16.0000 | 16.0000
+
+--- Ana T. Winck ---
+    Adriana S. Vivacqua: 0.6126 | 11.0000 | 11.0000
+
+--- André Aráujo ---
+    André Medeiros: 0.7460 | 7.0000 | 7.0000
+    André Casimiro: 0.7460 | 7.0000 | 7.0000
+    André Costa: 0.7399 | 6.0000 | 6.0000
+    Gilmar Araujo: 0.7073 | 7.0000 | 7.0000
+    André C. Hora: 0.7190 | 7.0000 | 7.0000
+
+--- André Dias Bastos ---
+    André Medeiros: 0.6871 | 9.0000 | 9.0000
+    André Casimiro: 0.7342 | 8.0000 | 8.0000
+    André Costa: 0.7455 | 9.0000 | 9.0000
+    Gabriel André D. Dubois Brito: 0.6021 | 18.0000 | 18.0000
+    André C. Hora: 0.7035 | 10.0000 | 10.0000
+
+--- André L. Andrade Menolli ---
+    André L. C. Mendonça: 0.7940 | 11.0000 | 11.0000
+    André C. Hora: 0.7379 | 14.0000 | 14.0000
+    Pedro O. S. Vaz de Melo: 0.6510 | 14.0000 | 14.0000
+
+--- André Luciano Rakowski ---
+    Luciano Rossi: 0.7117 | 10.0000 | 10.0000
+    Adriano Veloso: 0.6229 | 12.0000 | 12.0000
+    André Luiz da Costa Carvalho: 0.6725 | 16.0000 | 16.0000
+    André Medeiros: 0.6840 | 14.0000 | 14.0000
+    André Casimiro: 0.6563 | 14.0000 | 14.0000
+
+--- André Luis Castro de Freitas ---
+    Ausberto S. Castro Vera: 0.6448 | 17.0000 | 17.0000
+    André Luiz da Costa Carvalho: 0.7262 | 15.0000 | 15.0000
+    André Casimiro: 0.7207 | 18.0000 | 18.0000
+    André Costa: 0.7370 | 18.0000 | 18.0000
+    André L. C. Mendonça: 0.6857 | 16.0000 | 16.0000
+
+--- André Oliveira ---
+    Mauro Oliveira: 0.8095 | 4.0000 | 4.0000
+    Jonice Oliveira: 0.6937 | 5.0000 | 5.0000
+    Daniel de Oliveira: 0.6777 | 8.0000 | 8.0000
+    André Medeiros: 0.7249 | 6.0000 | 6.0000
+    André Casimiro: 0.7762 | 6.0000 | 6.0000
+
+--- André Prisco ---
+    André Medeiros: 0.7825 | 7.0000 | 7.0000
+    André Casimiro: 0.8159 | 6.0000 | 6.0000
+    André Costa: 0.7563 | 5.0000 | 5.0000
+    André C. Hora: 0.7190 | 7.0000 | 7.0000
+    André Santanchè: 0.6833 | 8.0000 | 8.0000
+
+--- André S. Rosa ---
+    André C. Hora: 0.8462 | 3.0000 | 3.0000
+    André S. Gonzaga: 0.8446 | 5.0000 | 5.0000
+    André Costa: 0.8368 | 5.0000 | 5.0000
+    André L. C. Mendonça: 0.7564 | 10.0000 | 10.0000
+    André Medeiros: 0.7289 | 7.0000 | 7.0000
+
+--- André Santanchè ---
+    André Santanchè: 1.0000 | 0.0000 | 0.0000
+    André Costa: 0.7119 | 7.0000 | 7.0000
+    André S. Gonzaga: 0.7306 | 8.0000 | 8.0000
+    André C. Hora: 0.6684 | 9.0000 | 9.0000
+
+--- André Schwerz ---
+    André Santanchè: 0.7641 | 8.0000 | 8.0000
+    André Medeiros: 0.7289 | 7.0000 | 7.0000
+    André S. Gonzaga: 0.7051 | 8.0000 | 8.0000
+    André C. Hora: 0.6923 | 6.0000 | 6.0000
+    André Casimiro: 0.6795 | 7.0000 | 7.0000
+
+--- Angelo Frozza ---
+    Angelo Fausti: 0.7949 | 5.0000 | 5.0000
+    Angelo Brayner: 0.7784 | 6.0000 | 6.0000
+
+--- Ângelo N. V. Crestani ---
+    Celso A. A. Kaestner: 0.7651 | 11.0000 | 11.0000
+    Paulo J. F. Carreira: 0.6960 | 12.0000 | 12.0000
+    Angelo Fausti: 0.7070 | 12.0000 | 12.0000
+    Angelo Brayner: 0.6968 | 14.0000 | 14.0000
+    Karla A. V. Borges: 0.6207 | 13.0000 | 13.0000
+
+--- Anselmo Maciel Nunes ---
+    Angelo Fausti: 0.6231 | 12.0000 | 12.0000
+    Adeline M. Maciel: 0.6511 | 14.0000 | 14.0000
+    Angelo Brayner: 0.6606 | 12.0000 | 12.0000
+    Ronaldo Menezes: 0.6702 | 13.0000 | 13.0000
+
+--- Antonio Alves ---
+    Antónia Lopes: 0.7578 | 5.0000 | 5.0000
+    Antonio Mourão: 0.7289 | 6.0000 | 6.0000
+    Marcos Antonio Vaz Salles: 0.5730 | 14.0000 | 14.0000
+    João Antonio Ferreira: 0.5958 | 12.0000 | 12.0000
+    Antonio L. Furtado: 0.6866 | 10.0000 | 10.0000
+
+--- Augusto B. Corrêa ---
+    Augusto Ferreia de Souza: 0.7175 | 14.0000 | 14.0000
+    Thiago B. Ferreira: 0.6765 | 11.0000 | 11.0000
+    Paulo T. Guerra: 0.6357 | 10.0000 | 10.0000
+    Edmilson M. Moreira: 0.6677 | 12.0000 | 12.0000
+    Ausberto S. Castro Vera: 0.6741 | 13.0000 | 13.0000
+
+--- Augusto Ferreia de Souza ---
+    Augusto Ferreia de Souza: 1.0000 | 0.0000 | 0.0000
+    Críston Pereira de Souza: 0.8085 | 8.0000 | 8.0000
+    Rodrigo Tavares de Souza: 0.7407 | 12.0000 | 12.0000
+    Jairo Francisco de Souza: 0.7075 | 13.0000 | 13.0000
+    Jéssica Andressa de Souza: 0.6022 | 12.0000 | 12.0000
+
+--- Aurélio Hoppe ---
+    Felipe Hoppe Levin: 0.5616 | 12.0000 | 12.0000
+
+--- Bruni R. L. Machado ---
+    Javam C. Machado: 0.7171 | 9.0000 | 9.0000
+    Thiago R. P. Prado: 0.6940 | 11.0000 | 11.0000
+    Maria Luiza Machado Campos: 0.6156 | 17.0000 | 17.0000
+    Rodrigo Machado: 0.7102 | 10.0000 | 10.0000
+    Francisco D. B. S. Praciano: 0.5531 | 15.0000 | 15.0000
+
+--- Bruno Agostinho ---
+    Bruno Pinto: 0.7919 | 6.0000 | 6.0000
+    Bruno Martins: 0.7453 | 6.0000 | 6.0000
+    Gustavo Coutinho: 0.6972 | 9.0000 | 9.0000
+    Bruno Guilherme: 0.6889 | 9.0000 | 9.0000
+    Paulo Igor Alves Godinho: 0.6278 | 14.0000 | 14.0000
+
+--- Bruno Eduardo Soares ---
+    Carlos Eduardo Santos Pires: 0.7089 | 12.0000 | 12.0000
+    Eduardo N. Borges: 0.7023 | 12.0000 | 12.0000
+    Eduardo Valle: 0.6564 | 11.0000 | 11.0000
+    Eduardo Mendes: 0.6271 | 10.0000 | 10.0000
+    João Eduardo Ferreira: 0.7325 | 10.0000 | 10.0000
+
+--- Bruno S. Velasco ---
+    Bruno de C. Leal: 0.7311 | 9.0000 | 9.0000
+    Bruno Tomazela: 0.6981 | 8.0000 | 8.0000
+    Bruno Martins: 0.7051 | 9.0000 | 9.0000
+    Hugo S. Santos: 0.6464 | 9.0000 | 9.0000
+    Adriano Veloso: 0.6981 | 9.0000 | 9.0000
+
+--- Bruno Visioli ---
+    Bruno Pinto: 0.7809 | 5.0000 | 5.0000
+    Bruno Martins: 0.7436 | 7.0000 | 7.0000
+    Bruno Tomazela: 0.7289 | 7.0000 | 7.0000
+    Bruno Guilherme: 0.7162 | 8.0000 | 8.0000
+
+--- Carina F. Dorneles ---
+    Carina F. Dorneles: 1.0000 | 0.0000 | 0.0000
+    Tatiana S. Gonçalves: 0.7000 | 9.0000 | 9.0000
+    Cristina Boeres: 0.6906 | 10.0000 | 10.0000
+    Rodrigo F. Borges: 0.6479 | 9.0000 | 9.0000
+    Mariano P. Consens: 0.6667 | 9.0000 | 9.0000
+
+--- Carina Guimarãoes ---
+    Davi Guimaraes: 0.7432 | 6.0000 | 6.0000
+    Dilson Almeida Guimarães: 0.6832 | 13.0000 | 13.0000
+    Carina F. Dorneles: 0.7224 | 8.0000 | 8.0000
+    Tiago Guimaraes Moraes: 0.6533 | 13.0000 | 12.0000
+    Cristina Boeres: 0.7026 | 11.0000 | 11.0000
+
+--- Carla Berkenbrock ---
+    Carlos Bedregal: 0.7098 | 10.0000 | 10.0000
+    Carla Delgado: 0.6953 | 9.0000 | 9.0000
+    Marcela Xavier Ribeiro: 0.6248 | 14.0000 | 14.0000
+    Daniela Pereira: 0.5430 | 11.0000 | 11.0000
+    Cristina Boeres: 0.6183 | 14.0000 | 14.0000
+
+--- Carlos A. S. Rocha ---
+    Lais M. A. Rocha: 0.7423 | 6.0000 | 6.0000
+    Leonardo C. da Rocha: 0.6882 | 9.0000 | 9.0000
+    Kary A. C. S. Ocaña: 0.6272 | 10.0000 | 10.0000
+    Lincoln S. Rocha: 0.7056 | 8.0000 | 8.0000
+    Carlos A. Heuser: 0.7269 | 8.0000 | 8.0000
+
+--- Carlos Andrew Bezerra ---
+    Carla Ilane Moreira Bezerra: 0.7150 | 12.0000 | 12.0000
+    Carlos A. Heuser: 0.7460 | 10.0000 | 10.0000
+    Carlos Bedregal: 0.7773 | 11.0000 | 11.0000
+    Allan José de Souza Bezerra: 0.6954 | 15.0000 | 15.0000
+    Fábio de Lima Bezerra: 0.6587 | 12.0000 | 12.0000
+
+--- Carlos Eduardo Pantoja ---
+    Carlos Eduardo Paulino Silva: 0.8745 | 9.0000 | 9.0000
+    Carlos Eduardo Santos Pires: 0.8499 | 8.0000 | 8.0000
+    Carlos Favacho: 0.6896 | 12.0000 | 12.0000
+    Roberto Carlos dos Santos Pacheco: 0.6254 | 21.0000 | 21.0000
+    Carlos Bedregal: 0.6737 | 13.0000 | 13.0000
+
+--- Carlos Eduardo Santos Pires ---
+    Carlos Eduardo Santos Pires: 1.0000 | 0.0000 | 0.0000
+    Roberto Carlos dos Santos Pacheco: 0.6756 | 19.0000 | 19.0000
+    Carlos Eduardo Paulino Silva: 0.8214 | 10.0000 | 10.0000
+    Kairo Luiz dos Santos Bonicenha: 0.7020 | 17.0000 | 17.0000
+    Marcelino Pereira dos Santos Silva: 0.6994 | 18.0000 | 18.0000
+
+--- Carlos H. Arima ---
+    Carlos A. Heuser: 0.8222 | 7.0000 | 7.0000
+    Carlos Bedregal: 0.7333 | 7.0000 | 7.0000
+    Carla V. Ruiz: 0.7162 | 7.0000 | 7.0000
+    Paulo R. P. Amora: 0.7183 | 9.0000 | 9.0000
+    Paulo H. Oliveira: 0.7183 | 9.0000 | 9.0000
+
+--- Carlos Henrique Candido ---
+    Paulo Henrique dos Santos: 0.7279 | 12.0000 | 12.0000
+    Pedro Henrique Bugatti: 0.6293 | 12.0000 | 12.0000
+    Carlos Filipe Júnior: 0.6981 | 11.0000 | 11.0000
+    Henrique Viana: 0.7031 | 13.0000 | 13.0000
+    Carlos A. Heuser: 0.7413 | 15.0000 | 15.0000
+
+--- Carlos A. Heuser ---
+    Carlos A. Heuser: 1.0000 | 0.0000 | 0.0000
+    Celso A. A. Kaestner: 0.7556 | 11.0000 | 11.0000
+    Paulo T. Guerra: 0.6838 | 9.0000 | 9.0000
+    Carlos Bedregal: 0.7306 | 8.0000 | 8.0000
+    Marcos R. Nesso Jr.: 0.7171 | 9.0000 | 9.0000
+
+--- Carlos Souza Junior ---
+    Herminio Camargo de Souza Junior: 0.6714 | 15.0000 | 15.0000
+    Carlos Filipe Júnior: 0.7268 | 7.0000 | 7.0000
+    Carlos A. Heuser: 0.6838 | 10.0000 | 10.0000
+    Damires Souza: 0.6479 | 12.0000 | 12.0000
+    Carlos Favacho: 0.6685 | 10.0000 | 10.0000
+
+--- Carlos Vinicius F. Gracioli ---
+    Carlos Favacho: 0.7007 | 16.0000 | 16.0000
+    João Carlos Pinheiro: 0.5823 | 20.0000 | 20.0000
+
+--- Carmem S. Hara ---
+    Carmem S. Hara: 1.0000 | 0.0000 | 0.0000
+    Elaine R. Faria: 0.7016 | 8.0000 | 8.0000
+    Daniel S. Kaster: 0.6905 | 9.0000 | 9.0000
+    Carlos A. Heuser: 0.6610 | 9.0000 | 9.0000
+    Eduardo S. Ogasawara: 0.6606 | 12.0000 | 12.0000
+
+--- Caroline Tomasini ---
+    Carlos Filipe Júnior: 0.6767 | 13.0000 | 13.0000
+    Aline Paes: 0.5611 | 11.0000 | 11.0000
+    Paolo Capitani: 0.6342 | 11.0000 | 11.0000
+    Rafael Pasquini: 0.5987 | 12.0000 | 11.0000
+
+--- Cassio Prazeres ---
+    Lucas Peres: 0.7119 | 9.0000 | 9.0000
+    Melissa Paes: 0.7463 | 10.0000 | 10.0000
+    Diego Pereira: 0.7271 | 11.0000 | 11.0000
+
+--- César Feijó Nadvorny ---
+
+--- Cezar Molinar ---
+
+--- Christian Krambeck ---
+    Christian Mathis: 0.7662 | 7.0000 | 7.0000
+    Cristiano D. Ferreira: 0.7183 | 12.0000 | 12.0000
+    Christian Cesar Bones: 0.7548 | 10.0000 | 10.0000
+    Cristina Boeres: 0.7209 | 10.0000 | 9.0000
+    Cristina Bender: 0.7209 | 10.0000 | 9.0000
+
+--- Cinzia Cappiello ---
+    Fernando Campello: 0.7377 | 9.0000 | 9.0000
+    Ana Paula Appel: 0.6838 | 12.0000 | 12.0000
+
+--- Cirano Iochpe ---
+
+--- Cláudio Lima ---
+    Diego Lima: 0.7611 | 6.0000 | 6.0000
+    Cláudia Ferlin: 0.7606 | 7.0000 | 7.0000
+    Cláudio Ananias Ferraz: 0.7293 | 12.0000 | 12.0000
+    Claudia Deco: 0.7361 | 6.0000 | 6.0000
+
+--- Cleiton Lima ---
+    Diego Lima: 0.7806 | 5.0000 | 5.0000
+    Weiling Li: 0.6183 | 7.0000 | 7.0000
+    Vitor Viana: 0.6447 | 7.0000 | 7.0000
+    Arlei Silva: 0.6818 | 8.0000 | 8.0000
+    Evelin Giuliana Lima: 0.6222 | 12.0000 | 12.0000
+
+--- Cleto May ---
+
+--- Cleusa Maria Andrade Scrofernecker ---
+
+--- Clodis Boscarioli ---
+    Claudia Roncancio: 0.6588 | 9.0000 | 9.0000
+    João Foscarini: 0.6130 | 8.0000 | 8.0000
+    Cláudia Ferlin: 0.6500 | 11.0000 | 11.0000
+    Carlos Bedregal: 0.6516 | 12.0000 | 12.0000
+
+--- Cristian Tristão ---
+    Christian Mathis: 0.8056 | 8.0000 | 8.0000
+    Christian Cesar Bones: 0.7460 | 11.0000 | 11.0000
+    Cristina Boeres: 0.7944 | 9.0000 | 8.0000
+    Cristina Bender: 0.7306 | 9.0000 | 8.0000
+    Cristiane A. Yaguinuma: 0.6932 | 12.0000 | 12.0000
+
+--- Cristiano Cervi ---
+    Cristiano D. Ferreira: 0.8286 | 8.0000 | 8.0000
+    Cristina Boeres: 0.8111 | 6.0000 | 6.0000
+    Cristina Bender: 0.7919 | 7.0000 | 7.0000
+    Christian Cesar Bones: 0.7773 | 10.0000 | 10.0000
+    Christian Mathis: 0.7639 | 7.0000 | 7.0000
+
+--- Cristiano da Cunha Ribas ---
+    Christian Mathis: 0.7847 | 12.0000 | 12.0000
+    Cristiano D. Ferreira: 0.6946 | 11.0000 | 11.0000
+    Cristiane A. Yaguinuma: 0.7245 | 13.0000 | 13.0000
+    Aristênio Saraiva: 0.6520 | 14.0000 | 14.0000
+    Cristina Boeres: 0.6699 | 14.0000 | 14.0000
+
+--- Cristiano Politowski ---
+    Christian Mathis: 0.7556 | 10.0000 | 10.0000
+    Cristina Boeres: 0.7005 | 10.0000 | 10.0000
+    Cristiano D. Ferreira: 0.6913 | 11.0000 | 11.0000
+    Adriano Veloso: 0.6381 | 12.0000 | 12.0000
+    Bruno Pinto: 0.5841 | 13.0000 | 13.0000
+
+--- Daiane Hemerich ---
+    Daniela Pereira: 0.7313 | 9.0000 | 9.0000
+    Sebastian Michel: 0.6306 | 13.0000 | 13.0000
+    Vivianne Medeiros: 0.6357 | 10.0000 | 9.0000
+    Diego Pereira: 0.6746 | 9.0000 | 9.0000
+
+--- Dalvan Griebler ---
+    Daniela Pereira: 0.7313 | 12.0000 | 12.0000
+    Daniel S. Kaster: 0.6639 | 11.0000 | 11.0000
+
+--- Daniel Anderle ---
+    Daniela Pereira: 0.7937 | 7.0000 | 7.0000
+    Daniela Alvarez: 0.8094 | 6.0000 | 6.0000
+    Daniel de Oliveira: 0.8135 | 9.0000 | 9.0000
+    Daniel Rodrigues: 0.7464 | 7.0000 | 7.0000
+    Daniel S. Kaster: 0.7351 | 8.0000 | 8.0000
+
+--- Daniel Kuhn ---
+    Daniel S. Kaster: 0.7424 | 8.0000 | 8.0000
+    Daniel Rodrigues: 0.7424 | 8.0000 | 8.0000
+    Daniel A. Furtado: 0.7326 | 9.0000 | 9.0000
+    Daniel Hasan Dalip: 0.7239 | 10.0000 | 10.0000
+    Daniela Pereira: 0.7010 | 8.0000 | 8.0000
+
+--- Daniel Lichtnow ---
+    Daniel A. Furtado: 0.7098 | 9.0000 | 9.0000
+    Daniela Pereira: 0.6889 | 9.0000 | 9.0000
+    Daniel Silva Jr.: 0.6778 | 8.0000 | 8.0000
+    Daniel S. Kaster: 0.6778 | 9.0000 | 9.0000
+    Daniel Rodrigues: 0.6838 | 9.0000 | 9.0000
+
+--- Daniel Notari ---
+    Daniel Rodrigues: 0.7981 | 7.0000 | 7.0000
+    Daniela Pereira: 0.7786 | 7.0000 | 7.0000
+    Daniela Alvarez: 0.7271 | 6.0000 | 6.0000
+    Daniel S. Kaster: 0.7647 | 8.0000 | 8.0000
+    Daniel A. Furtado: 0.7525 | 8.0000 | 8.0000
+
+--- Daniel Orlandi Mincato ---
+    Daniel de Oliveira: 0.7717 | 12.0000 | 12.0000
+    Daniel Hasan Dalip: 0.7198 | 12.0000 | 12.0000
+    Daniela Pereira: 0.7141 | 13.0000 | 13.0000
+    Daniel S. Kaster: 0.6989 | 14.0000 | 14.0000
+    Maristela Holanda: 0.6116 | 15.0000 | 15.0000
+
+--- Daniel Rosa Soares ---
+    Daniel Rodrigues: 0.7778 | 7.0000 | 7.0000
+    Daniela Alvarez: 0.7512 | 8.0000 | 8.0000
+    Daniel Hasan Dalip: 0.6801 | 8.0000 | 8.0000
+    Daniela Pereira: 0.7209 | 10.0000 | 10.0000
+    Daniel Silva Jr.: 0.7359 | 9.0000 | 9.0000
+
+--- Daniel S. de Oliveira ---
+    Daniel de Oliveira: 0.9339 | 3.0000 | 3.0000
+    César S. de Oliveira: 0.7290 | 6.0000 | 6.0000
+    Derick M. de Oliveira: 0.7750 | 5.0000 | 5.0000
+    Gabriel P. Oliveira: 0.7901 | 7.0000 | 7.0000
+    Wendel Muniz de Oliveira: 0.7216 | 8.0000 | 8.0000
+
+--- Daniel S. Kaster ---
+    Daniel S. Kaster: 1.0000 | 0.0000 | 0.0000
+    Daniel Silva Jr.: 0.8056 | 7.0000 | 7.0000
+    Daniel R. Figueiredo: 0.7458 | 9.0000 | 9.0000
+    Celso A. A. Kaestner: 0.6246 | 11.0000 | 11.0000
+    Daniel A. Furtado: 0.7908 | 7.0000 | 7.0000
+
+--- Daniela Leal Musa ---
+    Daniela Pereira: 0.7516 | 7.0000 | 7.0000
+    Daniela Alvarez: 0.7632 | 8.0000 | 8.0000
+    Daniel A. Furtado: 0.6922 | 10.0000 | 10.0000
+    Daniel de Oliveira: 0.7224 | 9.0000 | 9.0000
+    Daniel Hasan Dalip: 0.7521 | 10.0000 | 10.0000
+
+--- Danilo Carlo ---
+    Diego Carvalho: 0.7492 | 7.0000 | 7.0000
+    Denilson Barbosa: 0.7708 | 7.0000 | 7.0000
+    Daniela Alvarez: 0.7093 | 7.0000 | 7.0000
+    Denio Duarte: 0.7222 | 6.0000 | 6.0000
+    Fernando Cardoso: 0.5972 | 9.0000 | 9.0000
+
+--- Darlan Andrade ---
+    Rossana M. C. Andrade: 0.7395 | 11.0000 | 11.0000
+    Daniela Alvarez: 0.7270 | 9.0000 | 9.0000
+    Leonardo Andrade Ribeiro: 0.6874 | 15.0000 | 15.0000
+    Sandra de Amo: 0.6673 | 12.0000 | 12.0000
+    Carla Delgado: 0.6302 | 7.0000 | 7.0000
+
+--- Darlan Florêncio de Arruda ---
+    Narciso Arruda: 0.6618 | 15.0000 | 15.0000
+    Jairo Francisco de Souza: 0.7286 | 14.0000 | 14.0000
+
+--- Deise Saccol ---
+    Denilson Sell: 0.7190 | 8.0000 | 8.0000
+    Lineu Santos: 0.6111 | 7.0000 | 7.0000
+    Dennis E. Shasha: 0.6736 | 10.0000 | 10.0000
+
+--- Deivith Maia Soares ---
+    Davi Guimaraes: 0.7276 | 11.0000 | 11.0000
+    Cristina Boeres: 0.5801 | 11.0000 | 11.0000
+    Thiago Salles: 0.5538 | 13.0000 | 13.0000
+
+--- Demóstenes Z. Rodríguez ---
+    Daniel Rodrigues: 0.6184 | 13.0000 | 13.0000
+    José F. Rodrigues Jr.: 0.5588 | 16.0000 | 16.0000
+
+--- Denio Duarte ---
+    Denio Duarte: 1.0000 | 0.0000 | 0.0000
+    Denilson Barbosa: 0.7222 | 9.0000 | 9.0000
+    Denilson Sell: 0.7073 | 9.0000 | 9.0000
+    Davi Guimaraes: 0.6944 | 8.0000 | 8.0000
+    Daniela Alvarez: 0.6500 | 9.0000 | 9.0000
+
+--- Denizar Souza ---
+    Damires Souza: 0.8671 | 5.0000 | 5.0000
+    Rafael Souza: 0.7190 | 7.0000 | 7.0000
+    Denilson Barbosa: 0.6775 | 10.0000 | 10.0000
+    Leonardo Murta: 0.6873 | 10.0000 | 10.0000
+    Ligiane A. de Souza: 0.6985 | 12.0000 | 12.0000
+
+--- Diego Hoss ---
+    Diogo Mattos: 0.6659 | 6.0000 | 6.0000
+    Diego Lima: 0.7333 | 4.0000 | 4.0000
+    Diego Carvalho: 0.7333 | 8.0000 | 8.0000
+    Luciano Rossi: 0.6872 | 7.0000 | 7.0000
+    Diego Pereira: 0.6872 | 7.0000 | 7.0000
+
+--- Diego Kreutz ---
+    Diego Pereira: 0.7190 | 5.0000 | 5.0000
+    Diego Lima: 0.7000 | 6.0000 | 6.0000
+    Diego Carvalho: 0.6944 | 7.0000 | 7.0000
+    Diogo Rennó: 0.6263 | 6.0000 | 6.0000
+    Davi Arnaut: 0.6818 | 8.0000 | 8.0000
+
+--- Diego Magno da Silva ---
+    Paulo Caetano da Silva: 0.6773 | 8.0000 | 8.0000
+    João Carlos da Silva: 0.6385 | 8.0000 | 8.0000
+    Altigran Soares da Silva: 0.6764 | 12.0000 | 12.0000
+    Daniel Nascimento Ramos da Silva: 0.6369 | 17.0000 | 17.0000
+    Joel da Silva: 0.6775 | 10.0000 | 10.0000
+
+--- Dinei A. Rockenbach ---
+    Lincoln S. Rocha: 0.6550 | 12.0000 | 12.0000
+    Lais M. A. Rocha: 0.6504 | 12.0000 | 12.0000
+
+--- Diogo Luis Von Grafen Ruberto ---
+    Diogo R. B. Nascimento: 0.6441 | 17.0000 | 17.0000
+
+--- Diovane Soligo ---
+    Viviane Moreira Orengo: 0.6896 | 13.0000 | 13.0000
+    Dan Suciu: 0.5873 | 8.0000 | 8.0000
+    Vivianne Medeiros: 0.6390 | 10.0000 | 10.0000
+    Viviane P. Moreira: 0.5470 | 11.0000 | 11.0000
+
+--- Douglas Dyllon J. de Macedo ---
+    Douglas E. M. de Oliveira: 0.7585 | 14.0000 | 14.0000
+    Douglas E. V. Pires: 0.6642 | 15.0000 | 15.0000
+    Paulo J. Azevedo: 0.6204 | 17.0000 | 17.0000
+    Douglas Torquato: 0.6983 | 16.0000 | 16.0000
+
+--- Douglas Machado ---
+    Rodrigo Machado: 0.6778 | 6.0000 | 6.0000
+    Javam C. Machado: 0.6097 | 8.0000 | 8.0000
+    Douglas Torquato: 0.7306 | 6.0000 | 6.0000
+    Guilherme Medeiros Machado: 0.6279 | 16.0000 | 16.0000
+    Diogo Mattos: 0.6500 | 10.0000 | 10.0000
+
+--- Douglas Negrini ---
+    Nicolas Ferranti: 0.6838 | 8.0000 | 8.0000
+    Douglas Torquato: 0.7208 | 8.0000 | 8.0000
+    Douglas E. M. de Oliveira: 0.7244 | 14.0000 | 14.0000
+    Douglas E. V. Pires: 0.7405 | 10.0000 | 10.0000
+
+--- Duncan Ruiz ---
+    Dan Suciu: 0.7471 | 6.0000 | 6.0000
+    Luciano Rossi: 0.6773 | 8.0000 | 8.0000
+    Carla V. Ruiz: 0.6690 | 7.0000 | 7.0000
+
+--- Edécio Iepsen ---
+
+--- Eder Pazinatto ---
+    Esther Pacitti: 0.7619 | 7.0000 | 7.0000
+    Bruno Pinto: 0.6169 | 9.0000 | 9.0000
+    Walter Santos: 0.6039 | 10.0000 | 10.0000
+    Vagner Pagotti: 0.7359 | 9.0000 | 9.0000
+
+--- Edimar Manica ---
+    Eduardo Mendes: 0.6795 | 8.0000 | 8.0000
+    Vitor Viana: 0.6297 | 8.0000 | 8.0000
+    Rodrigo Machado: 0.5912 | 11.0000 | 11.0000
+
+--- Edit Grassiani ---
+    Ederson Garcia: 0.6762 | 10.0000 | 10.0000
+
+--- Edson Padoin ---
+    Ederson Garcia: 0.7460 | 6.0000 | 6.0000
+    Edmilson M. Moreira: 0.5709 | 11.0000 | 11.0000
+
+--- Eduardo Battistella ---
+    Eduardo Valle: 0.8238 | 8.0000 | 8.0000
+    Eduardo Terra Morelli: 0.7165 | 10.0000 | 10.0000
+    Eduardo A. Ribas: 0.7252 | 10.0000 | 10.0000
+    Eduardo S. Ogasawara: 0.7096 | 10.0000 | 10.0000
+    Eduardo Cunha de Almeida: 0.7163 | 13.0000 | 13.0000
+
+--- Eduardo N. Borges ---
+    Eduardo N. Borges: 1.0000 | 0.0000 | 0.0000
+    Rodrigo F. Borges: 0.6928 | 7.0000 | 7.0000
+    Eduardo A. Ribas: 0.7782 | 6.0000 | 6.0000
+    Eduardo S. Ogasawara: 0.7793 | 10.0000 | 10.0000
+    Eduardo Mendes: 0.7675 | 7.0000 | 7.0000
+
+--- Eduardo da Silva ---
+    Joel da Silva: 0.6314 | 7.0000 | 7.0000
+    Eduardo Valle: 0.7981 | 6.0000 | 6.0000
+    Eduardo A. Ribas: 0.7614 | 6.0000 | 6.0000
+    Carlos Eduardo Paulino Silva: 0.6688 | 13.0000 | 13.0000
+    Ricardo da Silva Torres: 0.7156 | 10.0000 | 10.0000
+
+--- Eduardo Johann ---
+    Eduardo Valle: 0.7784 | 6.0000 | 6.0000
+    Eduardo Mendes: 0.7619 | 6.0000 | 6.0000
+    Eduardo A. Ribas: 0.7351 | 8.0000 | 8.0000
+    Eduardo N. Borges: 0.7241 | 8.0000 | 8.0000
+    Eduardo L. G. Escovar: 0.7302 | 12.0000 | 12.0000
+
+--- Eduardo Kroth ---
+    Eduardo Valle: 0.7436 | 5.0000 | 5.0000
+    Eduardo N. Borges: 0.7525 | 8.0000 | 8.0000
+    Eduardo Mendes: 0.7289 | 6.0000 | 6.0000
+    Eduardo Terra Morelli: 0.7485 | 11.0000 | 11.0000
+    Eduardo R. D. Neto: 0.7416 | 9.0000 | 9.0000
+
+--- Eduardo Studzinski Estima de Castro ---
+    Eduardo Cunha de Almeida: 0.7080 | 21.0000 | 21.0000
+
+--- Eduardo Vaz Bozzi ---
+    Eduardo Valle: 0.7858 | 7.0000 | 7.0000
+    Eduardo N. Borges: 0.7647 | 7.0000 | 7.0000
+    Eduardo Terra Morelli: 0.7591 | 10.0000 | 10.0000
+    Eduardo A. Ribas: 0.7479 | 8.0000 | 8.0000
+    Eduardo R. D. Neto: 0.7146 | 10.0000 | 10.0000
+
+--- Edvaldo C. Mantovanelli ---
+    Eduardo Terra Morelli: 0.7108 | 11.0000 | 11.0000
+    Ronaldo C. Prati: 0.6461 | 13.0000 | 13.0000
+    Ronaldo dos Santos Mello: 0.6624 | 11.0000 | 11.0000
+    Tiago F. Mansueli: 0.7084 | 12.0000 | 12.0000
+    Edmilson M. Moreira: 0.6472 | 14.0000 | 14.0000
+
+--- Elielson B. de Souza ---
+    Cleidson R. B. de Souza: 0.8016 | 7.0000 | 6.0000
+    Elaine P. M. de Sousa: 0.7770 | 8.0000 | 8.0000
+    Ligiane A. de Souza: 0.6932 | 8.0000 | 8.0000
+    J. Filipe L. de Sousa: 0.6538 | 10.0000 | 10.0000
+    Jordão M. de Souza: 0.7278 | 8.0000 | 8.0000
+
+--- Elis C. Nakonetchnei ---
+    Eli Cortez: 0.6917 | 12.0000 | 12.0000
+
+--- Elisa Mannes ---
+    Melissa Paes: 0.7778 | 6.0000 | 6.0000
+    Melissa Lemos: 0.7073 | 8.0000 | 8.0000
+    Eduardo Mendes: 0.6468 | 8.0000 | 8.0000
+    Patrícia Martins: 0.5784 | 11.0000 | 11.0000
+    Christian Mathis: 0.6389 | 9.0000 | 9.0000
+
+--- Eliza A. Nunes ---
+    Vitor C. Neves: 0.6667 | 8.0000 | 8.0000
+    Santiago Augusto Nunes: 0.5563 | 13.0000 | 13.0000
+    Marcília A. Campos: 0.6303 | 11.0000 | 11.0000
+    Karla A. V. Borges: 0.6303 | 11.0000 | 11.0000
+    Dorgival O. Guedes: 0.6772 | 10.0000 | 10.0000
+
+--- Elvis Kesley de Assis ---
+
+--- Émerson Homrich ---
+    Ederson Garcia: 0.7106 | 8.0000 | 7.0000
+
+--- Erick Lopes ---
+    Gabriel Lopes: 0.6976 | 5.0000 | 5.0000
+    Aretusa Lopes: 0.5821 | 6.0000 | 6.0000
+    Antónia Lopes: 0.7249 | 7.0000 | 7.0000
+    Nick Koudas: 0.6970 | 6.0000 | 6.0000
+    Eriko Werbet: 0.6923 | 7.0000 | 7.0000
+
+--- Eugênio de Oliveira Simonetto ---
+    Jonice de Oliveira Sampaio: 0.6852 | 12.0000 | 12.0000
+    Márcio Tadeu Oliveira Júnior: 0.6376 | 16.0000 | 16.0000
+    Daniel de Oliveira: 0.6502 | 16.0000 | 16.0000
+    Roberto Oliveira dos Santos: 0.6459 | 17.0000 | 17.0000
+    Wendel Muniz de Oliveira: 0.6276 | 20.0000 | 20.0000
+
+--- Euler Oliveira ---
+    Mauro Oliveira: 0.7965 | 5.0000 | 5.0000
+    Paulo H. Oliveira: 0.8109 | 6.0000 | 6.0000
+    Jonice Oliveira: 0.7270 | 6.0000 | 6.0000
+    Derick M. de Oliveira: 0.6789 | 12.0000 | 12.0000
+    Daniel de Oliveira: 0.6777 | 8.0000 | 8.0000
+
+--- Evandro Franzen ---
+    Fernando S. França: 0.6300 | 11.0000 | 11.0000
+    Evandrino G. Barros: 0.7102 | 10.0000 | 10.0000
+    Elverton C. Fazzion: 0.6643 | 12.0000 | 12.0000
+    Eduardo Valle: 0.6746 | 9.0000 | 9.0000
+    Alejandro P. Buchmann: 0.6762 | 14.0000 | 14.0000
+
+--- Everton Sparenberger Dias ---
+    Ederson Garcia: 0.7048 | 15.0000 | 15.0000
+
+--- Fabiano Gama Paes ---
+    Fabiano Baldo: 0.7406 | 8.0000 | 8.0000
+    Fabiano A. F. Graças: 0.7793 | 9.0000 | 9.0000
+    Mariana Ramada: 0.6500 | 8.0000 | 8.0000
+    Davi Guimaraes: 0.6500 | 9.0000 | 9.0000
+    Fabiano C. Botelho: 0.7146 | 10.0000 | 10.0000
+
+--- Fabio dos Santos ---
+    Fábio G. Santos: 0.7667 | 4.0000 | 4.0000
+    Aline Rode dos Santos: 0.7080 | 9.0000 | 9.0000
+    Salomão Santos: 0.6464 | 6.0000 | 6.0000
+    Ronaldo dos Santos Mello: 0.6565 | 11.0000 | 11.0000
+    Katia C. Lage dos Santos: 0.6565 | 11.0000 | 11.0000
+
+--- Fabio Lopes ---
+    Gabriel Lopes: 0.7998 | 4.0000 | 4.0000
+    Fabio Kon: 0.8047 | 4.0000 | 4.0000
+    Flavio Costa: 0.7399 | 6.0000 | 6.0000
+    Fabiano Baldo: 0.7249 | 7.0000 | 7.0000
+    Aretusa Lopes: 0.6297 | 7.0000 | 7.0000
+
+--- Fábio Pasquali ---
+    Fábio M. Costa: 0.6726 | 8.0000 | 8.0000
+    Fábio Porto: 0.7121 | 7.0000 | 7.0000
+    Fábio G. Santos: 0.7016 | 9.0000 | 9.0000
+    Fabiano Baldo: 0.6456 | 10.0000 | 10.0000
+    Tiago F. Mansueli: 0.6675 | 11.0000 | 11.0000
+
+--- Fabiola Jaeger ---
+    Fabiola S. F. Pereira: 0.7395 | 10.0000 | 10.0000
+    Gabriela Ruberg: 0.6937 | 8.0000 | 8.0000
+    Fabio Kon: 0.6984 | 8.0000 | 8.0000
+    Fabiano Baldo: 0.7043 | 8.0000 | 8.0000
+    Fábio de Lima Bezerra: 0.6534 | 12.0000 | 12.0000
+
+--- Fabrício Santos da Silva ---
+    Paulo Caetano da Silva: 0.7146 | 11.0000 | 11.0000
+    João Carlos da Silva: 0.6361 | 10.0000 | 10.0000
+    Arlei Lopes da Silva: 0.6183 | 11.0000 | 11.0000
+    Marcelino Pereira dos Santos Silva: 0.7039 | 19.0000 | 19.0000
+    Ismael Santana Silva: 0.6024 | 12.0000 | 12.0000
+
+--- Fabrício Viero de Araújo ---
+    Tiago Brasileiro Araújo: 0.7458 | 15.0000 | 15.0000
+    Filipe de Lima Arcanjo: 0.6209 | 16.0000 | 16.0000
+    David Araújo: 0.4722 | 14.0000 | 14.0000
+    José Gildo de Araújo Júnior: 0.5713 | 18.0000 | 18.0000
+    Marcos Roberto Ribeiro: 0.6356 | 17.0000 | 17.0000
+
+--- Felipe Lanzarin ---
+    Fellipe L. Fonseca: 0.7407 | 10.0000 | 10.0000
+    Felipe Hoppe Levin: 0.7074 | 9.0000 | 9.0000
+    Felipe Alves Louza: 0.7407 | 11.0000 | 11.0000
+    Felipe T. Brito: 0.7333 | 7.0000 | 7.0000
+    Felipe Coimbra Bacelar: 0.6838 | 13.0000 | 13.0000
+
+--- Felipe Pinto da Silva ---
+    Tamires Brito Da Silva: 0.7439 | 9.0000 | 9.0000
+    Joel da Silva: 0.6991 | 11.0000 | 11.0000
+    Arlei Lopes da Silva: 0.7290 | 10.0000 | 9.0000
+    Tatiane Lima da Silva: 0.6540 | 9.0000 | 9.0000
+    Daniel Nascimento Ramos da Silva: 0.6769 | 17.0000 | 17.0000
+
+--- Felipe Victolla Silveira ---
+    Tamires Brito Da Silva: 0.6339 | 13.0000 | 13.0000
+    Arlei Lopes da Silva: 0.6421 | 15.0000 | 14.0000
+    Joel da Silva: 0.6470 | 15.0000 | 15.0000
+    Felipe Alves Louza: 0.7033 | 15.0000 | 15.0000
+    Daniel de Oliveira: 0.6008 | 15.0000 | 14.0000
+
+--- Fernanda Figueira ---
+    Fernando S. França: 0.7353 | 9.0000 | 9.0000
+    Fernando Mourão: 0.7516 | 8.0000 | 8.0000
+    Fernanda Campos: 0.7516 | 8.0000 | 8.0000
+    Fernando Morgado: 0.7479 | 9.0000 | 9.0000
+    Vaninha Vieira: 0.6342 | 8.0000 | 8.0000
+
+--- Fernanda Gomes ---
+    Fernanda Campos: 0.8579 | 4.0000 | 4.0000
+    Fernando Campello: 0.8266 | 7.0000 | 7.0000
+    Fernando Cardoso: 0.7941 | 7.0000 | 7.0000
+    Arnaud Giacometti: 0.7342 | 10.0000 | 10.0000
+    Janaína Gomide: 0.6762 | 8.0000 | 8.0000
+
+--- Fernando Gielow ---
+    Fernando Campello: 0.8353 | 6.0000 | 6.0000
+    Fernando Wagner Filho: 0.8029 | 10.0000 | 10.0000
+    Fernando Mourão: 0.7778 | 6.0000 | 6.0000
+    Fernando Morgado: 0.7639 | 7.0000 | 7.0000
+    Fernando Cardoso: 0.7639 | 6.0000 | 6.0000
+
+--- Fernando José Braz ---
+    Fernando Morgado: 0.8056 | 8.0000 | 8.0000
+    Fernando S. França: 0.7778 | 8.0000 | 8.0000
+    Fernando Mourão: 0.7815 | 7.0000 | 7.0000
+    Fernando Cardoso: 0.7936 | 9.0000 | 9.0000
+    Fernanda Campos: 0.7209 | 10.0000 | 10.0000
+
+--- Fernando Maneghetti ---
+    Fernando Wagner Filho: 0.7901 | 9.0000 | 9.0000
+    Fernando Morgado: 0.7661 | 8.0000 | 8.0000
+    Fernando Campello: 0.7420 | 8.0000 | 8.0000
+    Fernando S. França: 0.7300 | 10.0000 | 10.0000
+    Fernando Mourão: 0.7310 | 9.0000 | 9.0000
+
+--- Fernando Moro ---
+    Fernando Mourão: 0.9556 | 2.0000 | 2.0000
+    Fernando Morgado: 0.9375 | 3.0000 | 3.0000
+    Fernando Cardoso: 0.8632 | 5.0000 | 5.0000
+    Fernando Cordeiro Lemos: 0.8149 | 11.0000 | 11.0000
+    Fernando Campello: 0.7858 | 7.0000 | 7.0000
+
+--- Fernando Simon ---
+    Fernando Campello: 0.8109 | 7.0000 | 7.0000
+    Fernando Mourão: 0.7937 | 6.0000 | 6.0000
+    Fernanda Campos: 0.7603 | 5.0000 | 5.0000
+    Fernando S. França: 0.7989 | 7.0000 | 7.0000
+    Fernando Morgado: 0.7798 | 7.0000 | 7.0000
+
+--- Fhabiana Thieli dos Santos Machado ---
+    Ronaldo dos Santos Mello: 0.6117 | 18.0000 | 18.0000
+    Kairo Luiz dos Santos Bonicenha: 0.6612 | 19.0000 | 19.0000
+    Régis Michel dos Santos Sousa: 0.6093 | 17.0000 | 17.0000
+    Roberto Carlos dos Santos Pacheco: 0.6402 | 16.0000 | 16.0000
+    Katia C. Lage dos Santos: 0.7042 | 19.0000 | 19.0000
+
+--- Filipe Roberto Silva ---
+    Filipe de Sá Mesquita: 0.7051 | 13.0000 | 13.0000
+    Arlei Lopes da Silva: 0.6385 | 11.0000 | 10.0000
+    J. Filipe L. de Sousa: 0.5849 | 13.0000 | 13.0000
+    Aline Rode dos Santos: 0.6405 | 12.0000 | 12.0000
+    Roberto Walter: 0.5714 | 12.0000 | 12.0000
+
+--- Flávio R. Bayer ---
+    Flávio R. C. Sousa: 0.7815 | 8.0000 | 8.0000
+    Glívia A. R. Barbosa: 0.6556 | 11.0000 | 11.0000
+    Flavio B. Gonzaga: 0.7183 | 9.0000 | 9.0000
+    Sílvio B. Melo: 0.7106 | 9.0000 | 9.0000
+    Fábio M. Costa: 0.7016 | 8.0000 | 8.0000
+
+--- Frantchesco Cecchin ---
+    Francisco D. B. S. Praciano: 0.6087 | 18.0000 | 18.0000
+
+--- Gabriely Simette ---
+    Gabriel Lopes: 0.7516 | 7.0000 | 7.0000
+    Gabriel Spadon: 0.7351 | 7.0000 | 7.0000
+    Gabriela Ruberg: 0.7208 | 7.0000 | 7.0000
+    Gabriel P. Oliveira: 0.7171 | 9.0000 | 9.0000
+    Gabriel Silva Gonçalves: 0.7219 | 13.0000 | 13.0000
+
+--- Geomar Schreiner ---
+    Rebeca Schroeder: 0.6500 | 8.0000 | 8.0000
+    Leonardo O. Moreira: 0.6787 | 12.0000 | 12.0000
+    Tanara Lauschner: 0.6250 | 11.0000 | 11.0000
+    Leonardo Sápiras: 0.6250 | 11.0000 | 11.0000
+    Leonardo Ribeiro: 0.6250 | 11.0000 | 11.0000
+
+--- Gian L. M. Flores ---
+    Viviane P. Moreira: 0.7146 | 12.0000 | 12.0000
+    Karla A. V. Borges: 0.7146 | 10.0000 | 10.0000
+    Eder C. M. Gomes: 0.6973 | 8.0000 | 8.0000
+    Glívia A. R. Barbosa: 0.7020 | 12.0000 | 12.0000
+    Osvaldo L. H. M. Fonseca: 0.6149 | 14.0000 | 14.0000
+
+--- Giancarlo Lucca ---
+    Ricardo Ávila: 0.6329 | 8.0000 | 8.0000
+    Paolo Ciaccia: 0.6530 | 10.0000 | 10.0000
+
+--- Giovane N. M. Costa ---
+    Fábio M. Costa: 0.7579 | 10.0000 | 10.0000
+    Elaine P. M. de Sousa: 0.7421 | 12.0000 | 12.0000
+    Viviane P. Moreira: 0.7300 | 10.0000 | 10.0000
+    Fábio C. M. Ricotta: 0.6711 | 12.0000 | 12.0000
+    Thiago N. C. Cardoso: 0.6755 | 12.0000 | 12.0000
+
+--- Giuliano Alves Massaro ---
+    Luciana B. Maroun: 0.6551 | 14.0000 | 14.0000
+    Felipe Alves Louza: 0.6128 | 12.0000 | 12.0000
+    Alex Alves Freitas: 0.5985 | 14.0000 | 14.0000
+
+--- Glauber da Silva ---
+    Joel da Silva: 0.6930 | 6.0000 | 6.0000
+    Paulo Caetano da Silva: 0.6729 | 11.0000 | 11.0000
+    Thanner Soares Silva: 0.7155 | 9.0000 | 9.0000
+    João Carlos da Silva: 0.7278 | 10.0000 | 10.0000
+    Paulo C. Silva: 0.6464 | 7.0000 | 7.0000
+
+--- Gláucio R. Vivian ---
+    Mário J. Silva: 0.7241 | 9.0000 | 9.0000
+    Júlio C. Nievola: 0.6973 | 11.0000 | 11.0000
+    Nivio Ziviani: 0.6953 | 10.0000 | 10.0000
+    Paulo H. Oliveira: 0.5922 | 11.0000 | 11.0000
+    Paulo C. Silva: 0.6130 | 10.0000 | 10.0000
+
+--- Graça Bressan ---
+    Cristina Boeres: 0.6160 | 11.0000 | 11.0000
+
+--- Greisse Moser ---
+    Melissa Lemos: 0.7019 | 9.0000 | 9.0000
+    Gabriel Lopes: 0.6603 | 9.0000 | 9.0000
+    Gabriela Ruberg: 0.5731 | 10.0000 | 10.0000
+    Cristina Boeres: 0.6900 | 10.0000 | 10.0000
+
+--- Guilherme Dal Bianco ---
+    Guilherme Vale Menezes: 0.7788 | 9.0000 | 9.0000
+    Guilherme Ferreira: 0.7278 | 9.0000 | 9.0000
+    Guilherme Alves: 0.7611 | 9.0000 | 9.0000
+    Michele A. Brandão: 0.6444 | 11.0000 | 11.0000
+    Guilherme Medeiros Machado: 0.7635 | 14.0000 | 14.0000
+
+--- Guilherme Vanzin Hoffmann ---
+    Guilherme Vale Menezes: 0.7384 | 12.0000 | 12.0000
+    Guilherme Ferreira: 0.6878 | 14.0000 | 14.0000
+    Guilherme Medeiros Machado: 0.7034 | 14.0000 | 14.0000
+    Guilherme Alves: 0.6889 | 15.0000 | 15.0000
+
+--- Guillermo Hess ---
+    Guilherme Alves: 0.7603 | 6.0000 | 6.0000
+    Guilherme Vale Menezes: 0.7013 | 12.0000 | 12.0000
+    Bruno Guilherme: 0.6603 | 12.0000 | 12.0000
+    Guilherme de Castro Mendes Gomes: 0.7163 | 20.0000 | 20.0000
+    Guilherme Ferreira: 0.6772 | 9.0000 | 9.0000
+
+--- Gustavo Costa Meireles ---
+    Gustavo Coutinho: 0.7652 | 10.0000 | 10.0000
+    Gustavo Campos: 0.7731 | 11.0000 | 11.0000
+    Flavio Costa: 0.5715 | 14.0000 | 14.0000
+    Gustavo Zanini Kantorski: 0.7023 | 15.0000 | 15.0000
+    Gustavo Penha: 0.7079 | 13.0000 | 13.0000
+
+--- Gustavo Zanini Kantorski ---
+    Gustavo Zanini Kantorski: 1.0000 | 0.0000 | 0.0000
+    Gustavo Tallarida: 0.7075 | 13.0000 | 13.0000
+    Gustavo Campos: 0.7480 | 13.0000 | 13.0000
+    Gustavo Coutinho: 0.6944 | 13.0000 | 13.0000
+    Gustavo Penha: 0.6953 | 14.0000 | 14.0000
+
+--- Gustavo R. Forgiarini ---
+    Gustavo Coutinho: 0.7371 | 11.0000 | 11.0000
+    Gustavo Tallarida: 0.6933 | 10.0000 | 10.0000
+    Gustavo Zanini Kantorski: 0.7470 | 13.0000 | 13.0000
+    Gustavo Penha: 0.7151 | 12.0000 | 12.0000
+    Cristiano D. Ferreira: 0.6865 | 13.0000 | 13.0000
+
+--- Helena Ribeiro ---
+    Leonardo Ribeiro: 0.7032 | 6.0000 | 6.0000
+    Marcela Xavier Ribeiro: 0.6898 | 11.0000 | 11.0000
+    Leonardo Andrade Ribeiro: 0.6268 | 13.0000 | 13.0000
+    Gabriela Ruberg: 0.6365 | 9.0000 | 9.0000
+    Helena Galhardas: 0.6905 | 8.0000 | 8.0000
+
+--- Helton Alixandre Raiciki ---
+    Alexandre Ricardo Nardi: 0.6416 | 18.0000 | 18.0000
+    Leonardo Andrade Ribeiro: 0.6611 | 16.0000 | 16.0000
+
+--- Henrico B. Brum ---
+    Alejandro P. Buchmann: 0.6810 | 14.0000 | 14.0000
+    Evandrino G. Barros: 0.6542 | 10.0000 | 10.0000
+    Rodrigo F. Borges: 0.5430 | 9.0000 | 9.0000
+    Marcos E. B. Broinizi: 0.6392 | 14.0000 | 14.0000
+    Karin K. Breitman: 0.5987 | 11.0000 | 11.0000
+
+--- Henrique Santos ---
+    Henrique Viana: 0.8397 | 5.0000 | 5.0000
+    Paulo Henrique dos Santos: 0.7111 | 10.0000 | 10.0000
+    Lineu Santos: 0.8530 | 6.0000 | 6.0000
+    Walter Santos: 0.7641 | 8.0000 | 8.0000
+    Hugo S. Santos: 0.7476 | 7.0000 | 7.0000
+
+--- Hilton Parantunes ---
+    Aline Paes: 0.7152 | 11.0000 | 11.0000
+
+--- Holisson S. da Cunha ---
+    Alisson S. Maia: 0.7444 | 8.0000 | 8.0000
+    Cleidson R. B. de Souza: 0.6102 | 13.0000 | 13.0000
+    Moisés G. de Carvalho: 0.7051 | 13.0000 | 13.0000
+    Danusa R. B. Cunha: 0.6722 | 10.0000 | 10.0000
+    Ellison R. M. Siqueira: 0.6040 | 12.0000 | 12.0000
+
+--- Horacio Legal-Ayala ---
+
+--- Hugo Bulegon ---
+    Diogo Tuler Forlani: 0.6126 | 11.0000 | 11.0000
+    Renato Bueno: 0.6746 | 8.0000 | 8.0000
+
+--- Igor A. Pereira ---
+    Diego Pereira: 0.7120 | 7.0000 | 7.0000
+    Thiago B. Ferreira: 0.7512 | 8.0000 | 8.0000
+    João L. M. Pereira: 0.7815 | 7.0000 | 7.0000
+    Fabiola S. F. Pereira: 0.6312 | 10.0000 | 10.0000
+    Renato C. Ferreira: 0.6074 | 9.0000 | 9.0000
+
+--- Igor Eduardo Viana Rudel ---
+    Eduardo Valle: 0.6470 | 13.0000 | 13.0000
+    Eduardo Cunha de Almeida: 0.6852 | 18.0000 | 18.0000
+    Eduardo Mendes: 0.6268 | 13.0000 | 13.0000
+    Carlos Eduardo Santos Pires: 0.6617 | 14.0000 | 14.0000
+    Eduardo Terra Morelli: 0.6242 | 14.0000 | 14.0000
+
+--- Igor Lemos Vicente ---
+    Igor Modesto: 0.7130 | 10.0000 | 10.0000
+
+--- Ismael Martiny ---
+    Patrícia Martins: 0.6071 | 9.0000 | 9.0000
+    Ismael Santana Silva: 0.7483 | 10.0000 | 10.0000
+    Israel Guerra: 0.6873 | 8.0000 | 8.0000
+    Bruno Martins: 0.6319 | 7.0000 | 7.0000
+    Nathan Mariano: 0.6190 | 9.0000 | 9.0000
+
+--- Jacques Schreiber ---
+    Rebeca Schroeder: 0.7479 | 10.0000 | 10.0000
+
+--- Jacson L. Matte ---
+    Renan G. Cattelan: 0.6728 | 10.0000 | 10.0000
+    Alisson S. Maia: 0.6889 | 8.0000 | 8.0000
+    Daniel S. Kaster: 0.6778 | 9.0000 | 9.0000
+    Tarcisio G. Clemente: 0.6463 | 12.0000 | 12.0000
+    Tiago F. Mansueli: 0.5987 | 11.0000 | 11.0000
+
+--- Jader Osvino Fiegenbaum ---
+
+--- Jansser Costa ---
+    André Costa: 0.6976 | 6.0000 | 6.0000
+    Flavio Costa: 0.6596 | 7.0000 | 7.0000
+    Alexander Ocsa: 0.6319 | 9.0000 | 9.0000
+    Mateus Barcellos Costa: 0.6413 | 13.0000 | 13.0000
+    Ricardo G. Cota: 0.6208 | 10.0000 | 10.0000
+
+--- Jaqueline Nande ---
+    Aline Paes: 0.5794 | 9.0000 | 9.0000
+    Karliane O. Vale: 0.5944 | 11.0000 | 11.0000
+    Gabrielle Karine Canalle: 0.5611 | 14.0000 | 14.0000
+    Elaine Naomi Watanabe: 0.6476 | 15.0000 | 15.0000
+    Adeline M. Maciel: 0.6680 | 11.0000 | 11.0000
+
+--- Jardel Gugel ---
+    Israel Guerra: 0.7190 | 7.0000 | 7.0000
+    Gabriela Ruberg: 0.6917 | 8.0000 | 8.0000
+
+--- Jean Luca Bez ---
+    Vera Lucia M. Falquete: 0.7005 | 14.0000 | 14.0000
+    Lucas Peres: 0.5579 | 10.0000 | 10.0000
+
+--- Jeane Paz ---
+    Aline Paes: 0.5889 | 5.0000 | 5.0000
+    Vagner Pagotti: 0.6429 | 9.0000 | 9.0000
+    Alexander Ocsa: 0.6984 | 9.0000 | 9.0000
+    Daniela Pereira: 0.6529 | 11.0000 | 11.0000
+
+--- Jeferson Kasper ---
+    Ederson Garcia: 0.7016 | 8.0000 | 8.0000
+    Celso A. A. Kaestner: 0.6463 | 13.0000 | 13.0000
+
+--- Jefferson O. Andrade ---
+    Rossana M. C. Andrade: 0.7307 | 11.0000 | 11.0000
+    Leonardo Andrade Ribeiro: 0.6421 | 17.0000 | 17.0000
+
+--- João Fernandes ---
+    João Ferreira: 0.7945 | 6.0000 | 6.0000
+    José Antônio Fernandes de Macêdo: 0.6501 | 19.0000 | 19.0000
+    Fernanda Campos: 0.5995 | 12.0000 | 12.0000
+    João Eugenio Marynowski: 0.7244 | 14.0000 | 14.0000
+    Fernando Cardoso: 0.6464 | 13.0000 | 13.0000
+
+--- João Victor Guinelli ---
+    João Foscarini: 0.7180 | 11.0000 | 11.0000
+    João Carlos Pinheiro: 0.7154 | 11.0000 | 11.0000
+    Victor Ströele: 0.5865 | 11.0000 | 11.0000
+    Vitor Viana: 0.5841 | 13.0000 | 13.0000
+
+--- Joaquim Assunção ---
+    Renato M. Assunção: 0.7359 | 8.0000 | 8.0000
+
+--- Joedeson Fontana Junior ---
+    João B. Rocha-Junior: 0.6871 | 12.0000 | 12.0000
+
+--- Jolvani Morgan ---
+    Fernando Morgado: 0.6981 | 8.0000 | 8.0000
+    Vania Bogorny: 0.6302 | 10.0000 | 10.0000
+    Edleno Silva de Moura: 0.6789 | 14.0000 | 14.0000
+    Anolan Yamilé Milanés: 0.5423 | 14.0000 | 14.0000
+    Álvaro Freitas Moreira: 0.5896 | 15.0000 | 15.0000
+
+--- Jonathan Suter ---
+    Jonathas G. D. Harb: 0.7055 | 10.0000 | 10.0000
+    Renata Galante: 0.6726 | 10.0000 | 10.0000
+    Nathan Mariano: 0.5476 | 10.0000 | 10.0000
+
+--- Jones Fernando Giacon ---
+    Fernando Cardoso: 0.6349 | 12.0000 | 12.0000
+    Fernando Campello: 0.5924 | 14.0000 | 14.0000
+    José Antônio Fernandes de Macêdo: 0.7091 | 18.0000 | 18.0000
+    Fernando S. França: 0.5794 | 14.0000 | 14.0000
+    Fernando Mourão: 0.6312 | 12.0000 | 12.0000
+
+--- Jorge Alberto F. Flores Jr. ---
+    José F. Rodrigues Jr.: 0.6455 | 17.0000 | 17.0000
+    Rodrigo F. Borges: 0.6334 | 18.0000 | 18.0000
+    Jorge de Abreu Soares: 0.7015 | 16.0000 | 16.0000
+    Alberto H. F. Laender: 0.6011 | 15.0000 | 15.0000
+
+--- Jorge Rady de Almeida Júnior ---
+    José Gildo de Araújo Júnior: 0.7017 | 13.0000 | 13.0000
+    Márcio Tadeu Oliveira Júnior: 0.6138 | 14.0000 | 14.0000
+    Victor Teixeira de Almeida: 0.6164 | 19.0000 | 19.0000
+    João Paulo Dias de Almeida: 0.6164 | 19.0000 | 19.0000
+    Plínio de Sá Leitão Júnior: 0.5931 | 17.0000 | 17.0000
+
+--- Jorge Sandoval Simão ---
+    Jean-Paul Calbimonte: 0.5333 | 16.0000 | 16.0000
+
+--- José A. P. Figueiredo ---
+    José A. F. de Macêdo: 0.7413 | 9.0000 | 9.0000
+    Daniel R. Figueiredo: 0.6538 | 8.0000 | 8.0000
+    José F. Rodrigues Jr.: 0.7206 | 10.0000 | 10.0000
+    Marcos L. P. Bueno: 0.7116 | 13.0000 | 13.0000
+    José Viterbo: 0.7262 | 12.0000 | 12.0000
+
+--- José Carlos M. Mombach ---
+    Carlos Favacho: 0.6104 | 13.0000 | 13.0000
+    João Carlos de A. R. Gonçalves: 0.6534 | 16.0000 | 16.0000
+    José Maria N. David: 0.6423 | 12.0000 | 12.0000
+    João Carlos da Silva: 0.6957 | 10.0000 | 10.0000
+    João Carlos Pinheiro: 0.6874 | 12.0000 | 12.0000
+
+--- José Guilherme C. de Souza ---
+    J. Filipe L. de Sousa: 0.6526 | 11.0000 | 11.0000
+    Jordão M. de Souza: 0.6768 | 13.0000 | 13.0000
+    Jose Guilherme Monteiro de Menezes: 0.6692 | 15.0000 | 15.0000
+    Ligiane A. de Souza: 0.5999 | 13.0000 | 13.0000
+    Críston Pereira de Souza: 0.6565 | 14.0000 | 14.0000
+
+--- José Júnior ---
+    José Viterbo: 0.7563 | 7.0000 | 6.0000
+    Carlos Filipe Júnior: 0.6079 | 11.0000 | 11.0000
+    José Gildo de Araújo Júnior: 0.6431 | 16.0000 | 16.0000
+    João B. Rocha-Junior: 0.6258 | 12.0000 | 12.0000
+
+--- José Maurício Carré Maciel ---
+    José Maria N. David: 0.7346 | 13.0000 | 13.0000
+    José Maria Monteiro: 0.7775 | 15.0000 | 15.0000
+    José Laurindo Campos dos Santos: 0.6869 | 17.0000 | 17.0000
+    Marcos Barreto: 0.5847 | 18.0000 | 18.0000
+
+--- José Mauricio Fernandes ---
+    José Antônio Fernandes de Macêdo: 0.7261 | 16.0000 | 16.0000
+    José Maria Monteiro: 0.7834 | 12.0000 | 12.0000
+    José Maria N. David: 0.7242 | 12.0000 | 12.0000
+    Marcirio Silveira Chaves: 0.6116 | 19.0000 | 19.0000
+    João Eduardo Ferreira: 0.6999 | 14.0000 | 14.0000
+
+--- José Palazzo Moreira de Oliveira ---
+    José Palazzo Moreira de Oliveira: 1.0000 | 0.0000 | 0.0000
+    Wellington Moreira de Oliveira: 0.7009 | 12.0000 | 12.0000
+    Rafael Pereira de Oliveira: 0.7536 | 12.0000 | 12.0000
+    Thiago Borges de Oliveira: 0.6417 | 15.0000 | 15.0000
+    João Paulo Dias de Almeida: 0.6814 | 16.0000 | 16.0000
+
+--- Josué Toebe ---
+    José Viterbo: 0.7563 | 6.0000 | 6.0000
+    José Leomar Todesco: 0.7269 | 12.0000 | 12.0000
+    Joe Tekli: 0.6700 | 7.0000 | 7.0000
+
+--- Juarez A. P. Sacenti ---
+    Rafael J. P. Damaceno: 0.7051 | 11.0000 | 11.0000
+    Mario A. Nascimento: 0.6883 | 11.0000 | 11.0000
+    Luciana A. S. Romani: 0.6222 | 12.0000 | 12.0000
+    João M. B. Cavalcanti: 0.6913 | 12.0000 | 12.0000
+    Marcos L. P. Bueno: 0.6852 | 11.0000 | 11.0000
+
+--- Juçara Salete Gubiani ---
+    Mariano Salvetti: 0.7004 | 15.0000 | 15.0000
+    Jussara Marques de Almeida: 0.6874 | 16.0000 | 16.0000
+
+--- Juliana Bonato dos Santos ---
+    Juliana Bonato dos Santos: 1.0000 | 0.0000 | 0.0000
+    Aline Rode dos Santos: 0.6965 | 9.0000 | 9.0000
+    Ronaldo dos Santos Mello: 0.6589 | 17.0000 | 17.0000
+    Leonardo Bres dos Santos: 0.6589 | 12.0000 | 12.0000
+    Paulo Henrique dos Santos: 0.6652 | 13.0000 | 13.0000
+
+--- Juliano Carvalho ---
+    Diego Carvalho: 0.7335 | 5.0000 | 5.0000
+    Luís Alfredo V. Carvalho: 0.6667 | 12.0000 | 12.0000
+    Luís Alfredo V. de Carvalho: 0.6481 | 15.0000 | 15.0000
+    Fabiano Baldo: 0.6405 | 8.0000 | 8.0000
+    Moisés G. de Carvalho: 0.7068 | 12.0000 | 12.0000
+
+--- Juliano Gomes da Silveira ---
+    Altigran Soares da Silva: 0.7122 | 12.0000 | 12.0000
+    Arlei Lopes da Silva: 0.6278 | 11.0000 | 11.0000
+    Thiago Borges de Oliveira: 0.7278 | 11.0000 | 10.0000
+    Joel da Silva: 0.7118 | 13.0000 | 13.0000
+    João Carlos da Silva: 0.7717 | 13.0000 | 13.0000
+
+--- Juliano Lucas Moreira ---
+    Juliana Freire: 0.7817 | 9.0000 | 9.0000
+    Álvaro Freitas Moreira: 0.6654 | 9.0000 | 9.0000
+    Viviane P. Moreira: 0.6349 | 9.0000 | 9.0000
+    Viviane Pereira Moreira: 0.6255 | 11.0000 | 11.0000
+    João Luiz Rebelo Moreira: 0.6548 | 14.0000 | 14.0000
+
+--- Julio Cesar Refosco ---
+    José Leomar Todesco: 0.6613 | 11.0000 | 11.0000
+    Júlio C. Nievola: 0.6504 | 11.0000 | 11.0000
+    Melissa Lemos: 0.5738 | 11.0000 | 11.0000
+    Christian Cesar Bones: 0.5494 | 14.0000 | 14.0000
+
+--- Kaio Alexandre da Silva ---
+    Paulo Caetano da Silva: 0.6618 | 9.0000 | 9.0000
+    Altigran Soares da Silva: 0.7498 | 13.0000 | 13.0000
+    Tatiane Lima da Silva: 0.6555 | 12.0000 | 12.0000
+    Joel da Silva: 0.6760 | 12.0000 | 12.0000
+    João Carlos da Silva: 0.6029 | 11.0000 | 11.0000
+
+--- Karin Becker ---
+    Karin Becker: 1.0000 | 0.0000 | 0.0000
+    Cristina Bender: 0.7093 | 8.0000 | 8.0000
+    Karin K. Breitman: 0.7228 | 9.0000 | 9.0000
+    Cristina Boeres: 0.6722 | 10.0000 | 10.0000
+    Karliane O. Vale: 0.6806 | 10.0000 | 10.0000
+
+--- Karin S. Komati ---
+    Karin K. Breitman: 0.8002 | 8.0000 | 8.0000
+    Mariano Salvetti: 0.7306 | 9.0000 | 9.0000
+    Karliane O. Vale: 0.6468 | 9.0000 | 9.0000
+    Daniel S. Kaster: 0.7306 | 9.0000 | 9.0000
+    Luciana A. S. Romani: 0.6702 | 10.0000 | 10.0000
+
+--- Karina S. Machado ---
+    Javam C. Machado: 0.8186 | 6.0000 | 6.0000
+    Rodrigo Machado: 0.6516 | 8.0000 | 8.0000
+    Adriana S. Vivacqua: 0.7514 | 10.0000 | 10.0000
+    Maria Luiza Machado Campos: 0.6267 | 14.0000 | 14.0000
+    Ana Carolina Salgado: 0.6020 | 12.0000 | 12.0000
+
+--- Karine B. de Oliveira ---
+    César S. de Oliveira: 0.7498 | 7.0000 | 7.0000
+    Daniel de Oliveira: 0.8419 | 6.0000 | 6.0000
+    Derick M. de Oliveira: 0.8534 | 5.0000 | 5.0000
+    Gabriel P. Oliveira: 0.7679 | 8.0000 | 8.0000
+    Ary Henrique M. de Oliveira: 0.7116 | 10.0000 | 10.0000
+
+--- Keiko Fonseca ---
+    Fellipe L. Fonseca: 0.6416 | 8.0000 | 8.0000
+    Rafael Leão da Fonseca: 0.6079 | 12.0000 | 12.0000
+    Weiguo Fan: 0.6985 | 8.0000 | 8.0000
+    João Foscarini: 0.6039 | 10.0000 | 10.0000
+
+--- Khaue Rodrigues ---
+    Daniel Rodrigues: 0.7667 | 5.0000 | 5.0000
+    Priscila R. F. Rodrigues: 0.5790 | 13.0000 | 13.0000
+    José F. Rodrigues Jr.: 0.6810 | 11.0000 | 11.0000
+    Ricardo Rodrigues Ciferri: 0.6211 | 14.0000 | 14.0000
+    Rodrigo F. Borges: 0.5987 | 14.0000 | 14.0000
+
+--- Larissa Lautert ---
+    Tanara Lauschner: 0.6639 | 10.0000 | 10.0000
+    Gabriela Ruberg: 0.6889 | 8.0000 | 8.0000
+    Melissa Paes: 0.5881 | 8.0000 | 8.0000
+    Patrícia Martins: 0.6361 | 10.0000 | 10.0000
+    Mariano Salvetti: 0.6838 | 9.0000 | 9.0000
+
+--- Laura Silvera Mastella ---
+    Matheus Silva Mota: 0.6857 | 13.0000 | 13.0000
+    Marcirio Silveira Chaves: 0.6447 | 14.0000 | 14.0000
+    Patrícia Silva Peres: 0.6597 | 14.0000 | 14.0000
+    Vítor Silva Sousa: 0.5143 | 14.0000 | 14.0000
+    Eduardo Terra Morelli: 0.5667 | 13.0000 | 13.0000
+
+--- Leandro Castoldi López ---
+    Fernando Cordeiro Lemos: 0.6769 | 15.0000 | 15.0000
+    Fernando Campello: 0.7083 | 15.0000 | 15.0000
+    Leandro Balby Marinho: 0.7110 | 13.0000 | 13.0000
+    Leandro Krug Wives: 0.7096 | 12.0000 | 12.0000
+
+--- Leandro Pompermaier ---
+    Leandro Krug Wives: 0.6997 | 10.0000 | 10.0000
+    Leonardo O. Moreira: 0.7055 | 12.0000 | 12.0000
+    Leonardo Sápiras: 0.7297 | 11.0000 | 11.0000
+    Leonardo Ribeiro: 0.6827 | 12.0000 | 12.0000
+    Fernando Morgado: 0.6838 | 12.0000 | 12.0000
+
+--- Leandro Krug Wives ---
+    Leandro Krug Wives: 1.0000 | 0.0000 | 0.0000
+    Alejandro A. Vaisman: 0.6852 | 13.0000 | 13.0000
+    Leandro Balby Marinho: 0.6813 | 11.0000 | 11.0000
+
+--- Lenon Ricardo Machado de Souza ---
+    Jordão M. de Souza: 0.6222 | 16.0000 | 16.0000
+    Jairo Francisco de Souza: 0.6504 | 16.0000 | 16.0000
+    Cleidson R. B. de Souza: 0.6313 | 18.0000 | 18.0000
+    Rodrigo Tavares de Souza: 0.6680 | 16.0000 | 16.0000
+    Leonardo Murta: 0.6266 | 19.0000 | 19.0000
+
+--- Leonardo C. Steffenello ---
+    Leonardo C. da Rocha: 0.7384 | 11.0000 | 11.0000
+    Leonardo O. Moreira: 0.7242 | 11.0000 | 11.0000
+    Leonardo Ribeiro: 0.7219 | 12.0000 | 12.0000
+    Ronaldo dos Santos Mello: 0.6831 | 13.0000 | 13.0000
+    Leonardo Bres dos Santos: 0.7146 | 14.0000 | 14.0000
+
+--- Leonardo da Rosa ---
+    Leonardo C. da Rocha: 0.8736 | 5.0000 | 5.0000
+    Leonardo Andrade Ribeiro: 0.8194 | 11.0000 | 11.0000
+    Leonardo Sápiras: 0.7917 | 7.0000 | 6.0000
+    Leonardo Ribeiro: 0.7917 | 7.0000 | 7.0000
+    Leonardo O. Moreira: 0.7661 | 7.0000 | 7.0000
+
+--- Leonardo G. Garcia ---
+    Leonardo O. Moreira: 0.8144 | 5.0000 | 5.0000
+    Leonardo C. da Rocha: 0.8259 | 6.0000 | 6.0000
+    Leonardo Murta: 0.7686 | 7.0000 | 7.0000
+    Leonardo Sápiras: 0.7778 | 8.0000 | 8.0000
+    Ederson Garcia: 0.6746 | 9.0000 | 9.0000
+
+--- Lisiane M. Pedroni ---
+    Vivianne Medeiros: 0.7631 | 9.0000 | 9.0000
+    Ligiane A. de Souza: 0.7383 | 8.0000 | 8.0000
+    Luciana B. Maroun: 0.7224 | 9.0000 | 9.0000
+    Cristiano D. Ferreira: 0.7548 | 11.0000 | 11.0000
+    Viviane P. Moreira: 0.8042 | 10.0000 | 10.0000
+
+--- Luan Félix Pimentel ---
+
+--- Lucas André de Alencar ---
+    Lucas C. Scabora: 0.6265 | 14.0000 | 14.0000
+    Leonardo Andrade Ribeiro: 0.5970 | 15.0000 | 15.0000
+    Sandra de Amo: 0.5523 | 13.0000 | 13.0000
+    Lucas V. Knochenhauer: 0.7201 | 13.0000 | 13.0000
+    Jéssica Andressa de Souza: 0.6051 | 16.0000 | 16.0000
+
+--- Lucas Felipe Alves de Aráujo ---
+    Felipe Alves Louza: 0.6534 | 14.0000 | 14.0000
+    Iago Breno Alves do Carmo Araujo: 0.5952 | 19.0000 | 19.0000
+    Filipe de Lima Arcanjo: 0.6621 | 18.0000 | 18.0000
+
+--- Lucas J. K. Alves ---
+    Paulo J. L. Alvarenga: 0.7177 | 11.0000 | 11.0000
+    Lucas Peres: 0.7326 | 9.0000 | 9.0000
+    Douglas E. V. Pires: 0.7049 | 9.0000 | 9.0000
+    Gabriela B. Alves: 0.6122 | 9.0000 | 9.0000
+    Allan J. C. Silva: 0.6863 | 9.0000 | 9.0000
+
+--- Lucas L. Nesi ---
+    Lucas Peres: 0.7809 | 5.0000 | 5.0000
+    Lucas C. Scabora: 0.7051 | 8.0000 | 8.0000
+    Luciano Rossi: 0.6923 | 8.0000 | 8.0000
+    Luam C. Totti: 0.6923 | 7.0000 | 7.0000
+    Lucas V. Knochenhauer: 0.7070 | 12.0000 | 12.0000
+
+--- Lucas Lima de Oliveira ---
+    Daniel de Oliveira: 0.7095 | 8.0000 | 8.0000
+    Douglas E. M. de Oliveira: 0.7058 | 9.0000 | 9.0000
+    Rafael Pereira de Oliveira: 0.6559 | 10.0000 | 10.0000
+    César S. de Oliveira: 0.6551 | 8.0000 | 8.0000
+    Wendel Muniz de Oliveira: 0.6578 | 11.0000 | 11.0000
+
+--- Lucas R. de Farias ---
+    Victor A. E. de Farias: 0.6685 | 9.0000 | 9.0000
+    Lucas C. Scabora: 0.7662 | 8.0000 | 8.0000
+    Lucas Peres: 0.7727 | 9.0000 | 9.0000
+    Elaine R. Faria: 0.7209 | 10.0000 | 10.0000
+    Mateus C. de Lima: 0.6012 | 11.0000 | 11.0000
+
+--- Lucas Silveira ---
+    Lucas Peres: 0.7662 | 7.0000 | 7.0000
+    Lucas C. Scabora: 0.6981 | 8.0000 | 8.0000
+    Laís Soares Caldeira: 0.6714 | 11.0000 | 11.0000
+    Mauro Oliveira: 0.7429 | 8.0000 | 7.0000
+    Manoel Siqueira: 0.6735 | 8.0000 | 8.0000
+
+--- Luciana Salete Buriol ---
+    Luciano C. Liduário: 0.7066 | 11.0000 | 11.0000
+    Luciana B. Maroun: 0.7824 | 11.0000 | 11.0000
+    Mariano Salvetti: 0.6765 | 12.0000 | 12.0000
+    Vera Lucia M. Falquete: 0.6248 | 18.0000 | 18.0000
+    Luciana Alvim Santos Romani: 0.6899 | 16.0000 | 16.0000
+
+--- Luciano C. Blomberg ---
+    Luciano C. Liduário: 0.7638 | 8.0000 | 8.0000
+    Fabiano C. Botelho: 0.7105 | 9.0000 | 9.0000
+    Lucas C. Scabora: 0.6646 | 9.0000 | 9.0000
+    Luciana A. S. Romani: 0.6490 | 10.0000 | 10.0000
+    Luciano Rossi: 0.7220 | 10.0000 | 10.0000
+
+--- Luis César Dias Drummond ---
+
+--- Luis Fernando Milano Oliveira ---
+    Ricardo M. Oliveira: 0.6729 | 14.0000 | 14.0000
+    Fernando Morgado: 0.5824 | 18.0000 | 18.0000
+    Wendel Muniz de Oliveira: 0.6577 | 17.0000 | 17.0000
+    Mauro Oliveira: 0.5530 | 18.0000 | 18.0000
+    Carlos Roberto Carvalho Oliveira: 0.6093 | 18.0000 | 18.0000
+
+--- Luis Filipe de Castro Sampaio ---
+    Marcus Costa Sampaio: 0.6797 | 17.0000 | 17.0000
+    Joubert de Castro Lima: 0.6138 | 16.0000 | 16.0000
+    Jonice de Oliveira Sampaio: 0.6374 | 16.0000 | 16.0000
+    Luís Alfredo V. de Carvalho: 0.6602 | 18.0000 | 18.0000
+    Guilherme de Castro Mendes Gomes: 0.6444 | 19.0000 | 19.0000
+
+--- Luis Otávio Alvares ---
+    Gustavo Tallarida: 0.6049 | 12.0000 | 12.0000
+
+--- Luiz Carlos Albini ---
+    Julio Albinati: 0.7024 | 11.0000 | 10.0000
+    João Carlos Pinheiro: 0.6295 | 11.0000 | 11.0000
+    Carlos Filipe Júnior: 0.6625 | 15.0000 | 15.0000
+    Raquel Cardoso de Melo Minardi: 0.6416 | 18.0000 | 18.0000
+    Felipe Carlos Dos Rios: 0.5522 | 12.0000 | 12.0000
+
+--- Luiz Carlos de Freitas Santos Júnior ---
+    Gilson Pereira dos Santos Jr.: 0.7188 | 21.0000 | 21.0000
+    Carlos Eduardo Santos Pires: 0.6852 | 20.0000 | 20.0000
+    Carlos Filipe Júnior: 0.6333 | 20.0000 | 20.0000
+    Roberto Carlos dos Santos Pacheco: 0.6313 | 22.0000 | 22.0000
+    Plínio de Sá Leitão Júnior: 0.6700 | 22.0000 | 22.0000
+
+--- Luiz Carlos Ribeiro Junior ---
+    Carlos Filipe Júnior: 0.6385 | 11.0000 | 11.0000
+    Zilton Cordeiro Junior: 0.7108 | 13.0000 | 13.0000
+    Sidney Ribeiro-Júnior: 0.5922 | 12.0000 | 12.0000
+    Leonardo Ribeiro: 0.6939 | 14.0000 | 14.0000
+    João Carlos Pinheiro: 0.7312 | 14.0000 | 14.0000
+
+--- Luiz Fernando De Ros ---
+    Fernando Cardoso: 0.6246 | 10.0000 | 10.0000
+    Luciano Rossi: 0.7231 | 13.0000 | 13.0000
+    Fernando Cordeiro Lemos: 0.6102 | 15.0000 | 15.0000
+    Fernando Campello: 0.6111 | 12.0000 | 12.0000
+    Luís Fernando Monsores Passos Maia: 0.6110 | 18.0000 | 18.0000
+
+--- Luiz Gomes Jr. ---
+    Jurandir Zullo Jr.: 0.5886 | 11.0000 | 11.0000
+
+--- Luiz Gustavo Moro Senko ---
+    Gustavo Coutinho: 0.6387 | 12.0000 | 12.0000
+    Gustavo Penha: 0.6013 | 13.0000 | 13.0000
+
+--- Luiz Maia ---
+    Alisson S. Maia: 0.6889 | 9.0000 | 9.0000
+
+--- Luzia A. Mendes ---
+    Eduardo Mendes: 0.7476 | 7.0000 | 7.0000
+    Luciana B. Maroun: 0.6357 | 9.0000 | 9.0000
+    Dorgival O. Guedes: 0.7000 | 10.0000 | 10.0000
+    Lucas Peres: 0.7010 | 8.0000 | 8.0000
+    Ligiane A. de Souza: 0.6799 | 11.0000 | 11.0000
+
+--- Manuele Ferreira ---
+    Daniela Pereira: 0.7160 | 5.0000 | 5.0000
+    Guilherme Ferreira: 0.7167 | 7.0000 | 7.0000
+    Renato Ferreira: 0.7667 | 6.0000 | 6.0000
+    Manoel Siqueira: 0.7160 | 6.0000 | 6.0000
+    Anderson Almeida Ferreira: 0.6749 | 13.0000 | 13.0000
+
+--- Mara Abel ---
+    Carla Delgado: 0.5983 | 8.0000 | 8.0000
+    C. Maria Keet: 0.5983 | 7.0000 | 7.0000
+    Nyara A. Silva: 0.6984 | 8.0000 | 8.0000
+    Ana Paula Appel: 0.5778 | 9.0000 | 9.0000
+
+--- Marcel Felipe Weschenfelder ---
+    Carlos Filipe Júnior: 0.6336 | 16.0000 | 16.0000
+
+--- Marcelo Ferreira ---
+    Marcelo Dias: 0.8194 | 7.0000 | 7.0000
+    Renato Ferreira: 0.7111 | 6.0000 | 6.0000
+    João Ferreira: 0.6647 | 6.0000 | 6.0000
+    Marcelo Iury S. Oliveira: 0.7334 | 11.0000 | 11.0000
+    João Eduardo Ferreira: 0.7183 | 11.0000 | 11.0000
+
+--- Marcelo Moraes ---
+    Marcelo Dias: 0.8492 | 4.0000 | 4.0000
+    Marcelo Yamashita: 0.7675 | 8.0000 | 8.0000
+    Marco Cristo: 0.7606 | 8.0000 | 8.0000
+    Gabriel Lopes: 0.6873 | 7.0000 | 7.0000
+    Murilo Boratto: 0.7143 | 7.0000 | 7.0000
+
+--- Marcelo Sardagna ---
+    Marcelo Yamashita: 0.7782 | 7.0000 | 7.0000
+    Marcelo Dias: 0.7708 | 7.0000 | 7.0000
+    Marco A. Casanova: 0.7377 | 10.0000 | 10.0000
+    Macedo Sousa Maia: 0.7176 | 9.0000 | 9.0000
+    Gabriel Spadon: 0.7131 | 9.0000 | 9.0000
+
+--- Marcelo Telles ---
+    Marcelo Dias: 0.7976 | 5.0000 | 5.0000
+    Marcelo Yamashita: 0.7241 | 9.0000 | 9.0000
+    Gabriel Tessarolli: 0.7080 | 11.0000 | 11.0000
+    Marco Cristo: 0.6944 | 8.0000 | 8.0000
+    Marcelo Iury S. Oliveira: 0.6770 | 14.0000 | 14.0000
+
+--- Marcelo Zambiasi ---
+    Marcelo Yamashita: 0.8334 | 6.0000 | 6.0000
+    Marcelo Dias: 0.8378 | 5.0000 | 5.0000
+    Mauro Biajiz: 0.6806 | 10.0000 | 10.0000
+    Marco Cristo: 0.7222 | 9.0000 | 9.0000
+    Marcio Napoli: 0.6775 | 8.0000 | 8.0000
+
+--- Márcio Ceconi ---
+    Marcio Napoli: 0.7436 | 5.0000 | 5.0000
+    Mário C. G. Moreira: 0.7318 | 11.0000 | 11.0000
+    Marco Cristo: 0.6774 | 7.0000 | 7.0000
+    Mário J. Silva: 0.6795 | 9.0000 | 9.0000
+    Marcos Barreto: 0.6795 | 10.0000 | 10.0000
+
+--- Márcio Roberto de Mello ---
+    Marcos Roberto Ribeiro: 0.7780 | 9.0000 | 9.0000
+    Marcelo Tílio Monteiro de Carvalho: 0.6859 | 19.0000 | 19.0000
+    Roberto Cesar Betini: 0.5684 | 16.0000 | 16.0000
+
+--- Marco Schwertner ---
+    Marcos Roberto Ribeiro: 0.7292 | 12.0000 | 12.0000
+    Marco Cristo: 0.7222 | 9.0000 | 9.0000
+    Marcos Barreto: 0.7464 | 9.0000 | 9.0000
+    Tanara Lauschner: 0.6250 | 12.0000 | 12.0000
+    Mariano Salvetti: 0.6667 | 10.0000 | 10.0000
+
+--- Marcos Nunes ---
+    Marcos R. Nesso Jr.: 0.7865 | 10.0000 | 10.0000
+    Marcos V. N. Bedo: 0.7598 | 8.0000 | 8.0000
+    Marcos Barreto: 0.7460 | 6.0000 | 6.0000
+    Marcos L. P. Bueno: 0.7630 | 10.0000 | 9.0000
+    Marcos André Gonçalves: 0.7626 | 12.0000 | 12.0000
+
+--- Marcos Roberto Pimenta dos Santos ---
+    Roberto Oliveira dos Santos: 0.7047 | 12.0000 | 12.0000
+    Marcos Roberto Ribeiro: 0.7879 | 15.0000 | 15.0000
+    Marcelino Pereira dos Santos Silva: 0.6976 | 19.0000 | 19.0000
+    Roberto Carlos dos Santos Pacheco: 0.7306 | 22.0000 | 22.0000
+    Marilde Terezinha Prado Santos: 0.6518 | 18.0000 | 18.0000
+
+--- Marcos V. de Moura Lima ---
+    Mateus C. de Lima: 0.6484 | 10.0000 | 10.0000
+    Marcos V. N. Bedo: 0.7869 | 12.0000 | 12.0000
+    Marcos R. Nesso Jr.: 0.7242 | 11.0000 | 11.0000
+    Maria I. V. Lima: 0.6739 | 12.0000 | 12.0000
+    Marcos E. B. Broinizi: 0.7024 | 11.0000 | 11.0000
+
+--- Maria Estela Vieira da Silva ---
+    Tatiane Lima da Silva: 0.6683 | 12.0000 | 12.0000
+    Marcelino Pereira dos Santos Silva: 0.6746 | 19.0000 | 19.0000
+    Manoela Camila Barbosa da Silva: 0.6663 | 14.0000 | 14.0000
+    Miriam Oliveira dos Santos: 0.6673 | 17.0000 | 17.0000
+    Maristela Holanda: 0.6793 | 15.0000 | 15.0000
+
+--- Maria Luiza G. Silva ---
+    Tatiane Lima da Silva: 0.7175 | 8.0000 | 8.0000
+    Nyara A. Silva: 0.6574 | 10.0000 | 10.0000
+    Mário J. Silva: 0.6574 | 9.0000 | 9.0000
+    Paulo C. Silva: 0.6048 | 10.0000 | 10.0000
+    Thiago H. P. Silva: 0.5992 | 10.0000 | 10.0000
+
+--- Maria Pivel ---
+    Mariano Salvetti: 0.7565 | 8.0000 | 8.0000
+    C. Maria Keet: 0.5821 | 7.0000 | 7.0000
+    Vânia Maria P. Vidal: 0.6449 | 11.0000 | 11.0000
+    Mauro Oliveira: 0.7833 | 8.0000 | 8.0000
+    Mariano P. Consens: 0.7239 | 10.0000 | 10.0000
+
+--- Mariana M. Garcez Duarte ---
+    Mariana M. Garcez Duarte: 1.0000 | 0.0000 | 0.0000
+    Adriana S. Vivacqua: 0.5439 | 14.0000 | 14.0000
+    Mariana Ramada: 0.7103 | 14.0000 | 14.0000
+    Carina F. Dorneles: 0.6667 | 14.0000 | 14.0000
+    Mario A. Nascimento: 0.6272 | 14.0000 | 14.0000
+
+--- Marilia Ribeiro da Silva ---
+    Arlei Lopes da Silva: 0.6583 | 11.0000 | 11.0000
+    Tatiane Lima da Silva: 0.7131 | 11.0000 | 11.0000
+    Marcelino Pereira dos Santos Silva: 0.7405 | 16.0000 | 16.0000
+    Manoela Camila Barbosa da Silva: 0.6612 | 15.0000 | 15.0000
+    Paulo Caetano da Silva: 0.7023 | 11.0000 | 11.0000
+
+--- Mário Dantas ---
+    Fábio G. Santos: 0.7333 | 7.0000 | 7.0000
+    Marcelo Dias: 0.7222 | 7.0000 | 7.0000
+    Mário J. Silva: 0.6944 | 8.0000 | 8.0000
+    Murilo Boratto: 0.6944 | 8.0000 | 8.0000
+    Vitor Viana: 0.6923 | 9.0000 | 9.0000
+
+--- Mário Martins ---
+    Bruno Martins: 0.8462 | 4.0000 | 4.0000
+    Patrícia Martins: 0.6981 | 6.0000 | 6.0000
+    Murilo de Souza Martins: 0.7872 | 11.0000 | 11.0000
+    Mário C. G. Moreira: 0.7220 | 10.0000 | 10.0000
+    Diogo Mattos: 0.7073 | 7.0000 | 7.0000
+
+--- Mariusa Warpechowski ---
+    Markus Wagner: 0.6897 | 11.0000 | 11.0000
+    Marcos Barreto: 0.6606 | 11.0000 | 11.0000
+    Marcília A. Campos: 0.6852 | 14.0000 | 14.0000
+    Melissa Paes: 0.6056 | 12.0000 | 12.0000
+    Marcus Costa Sampaio: 0.6500 | 14.0000 | 14.0000
+
+--- Marta Bez ---
+    Mauro Biajiz: 0.7394 | 7.0000 | 7.0000
+    Marta Mattoso: 0.7094 | 7.0000 | 7.0000
+    C. Maria Keet: 0.5983 | 7.0000 | 7.0000
+    Marcos Barreto: 0.7116 | 8.0000 | 8.0000
+    Cristina Boeres: 0.6333 | 10.0000 | 10.0000
+
+--- Marta Breunig Loose ---
+    Tales Benigno Matos: 0.6587 | 12.0000 | 12.0000
+    Marta Mattoso: 0.6850 | 11.0000 | 11.0000
+
+--- Mateus H. Dal Forno ---
+    Mateus C. de Lima: 0.7117 | 9.0000 | 9.0000
+    Matheus Silva Mota: 0.6997 | 10.0000 | 10.0000
+    Flavius L. Gorgônio: 0.6842 | 13.0000 | 13.0000
+    Matthieu Cord: 0.6788 | 13.0000 | 13.0000
+
+--- Matheus K. Zanella ---
+    Mateus C. de Lima: 0.7224 | 8.0000 | 8.0000
+    Mateus Barcellos Costa: 0.7198 | 14.0000 | 14.0000
+    Matheus Silva Mota: 0.7500 | 8.0000 | 8.0000
+    Markus Wagner: 0.5616 | 11.0000 | 11.0000
+
+--- Matheus Oliveira ---
+    Mauro Oliveira: 0.7857 | 5.0000 | 5.0000
+    Paulo H. Oliveira: 0.7479 | 7.0000 | 7.0000
+    Marcelo Iury S. Oliveira: 0.6822 | 11.0000 | 11.0000
+    Matheus Silva Mota: 0.7778 | 8.0000 | 7.0000
+    Daniel de Oliveira: 0.6450 | 7.0000 | 7.0000
+
+--- Matheus Peviani Vellone ---
+    Matheus Silva Mota: 0.7479 | 12.0000 | 12.0000
+    Mateus Barcellos Costa: 0.6674 | 16.0000 | 16.0000
+
+--- Mauricio de Campos ---
+    Marcília A. Campos: 0.7635 | 7.0000 | 7.0000
+    Arion de Campos Jr.: 0.8021 | 10.0000 | 10.0000
+    Marcio Napoli: 0.6979 | 9.0000 | 9.0000
+    Maria Luiza Machado Campos: 0.7681 | 13.0000 | 13.0000
+    Marco A. Casanova: 0.7224 | 10.0000 | 10.0000
+
+--- Mauro Leal ---
+    Mauro Biajiz: 0.7611 | 5.0000 | 5.0000
+    Marcio Napoli: 0.7462 | 8.0000 | 8.0000
+    Mauro Oliveira: 0.8106 | 7.0000 | 7.0000
+    Carlos Bedregal: 0.6270 | 9.0000 | 9.0000
+    Marcelo Dias: 0.7389 | 7.0000 | 7.0000
+
+--- Mayara Cechinatto ---
+    Marta Mattoso: 0.6665 | 11.0000 | 11.0000
+    Mariângela Cherchiglia: 0.6393 | 14.0000 | 14.0000
+    Marco Cristo: 0.7228 | 10.0000 | 10.0000
+
+--- Mayara Lorenzi ---
+    Ricardo Choren: 0.6190 | 9.0000 | 9.0000
+    Madalena Lopes e Silva: 0.6229 | 13.0000 | 13.0000
+
+--- Michel Avila ---
+    Michel Albonico: 0.8000 | 6.0000 | 6.0000
+    Michele A. Brandão: 0.7500 | 9.0000 | 9.0000
+    Marcelo Dias: 0.7222 | 8.0000 | 8.0000
+    Ricardo Ávila: 0.7073 | 6.0000 | 6.0000
+    Michel Boaventura: 0.7228 | 8.0000 | 8.0000
+
+--- Michel Costa ---
+    Michel Boaventura: 0.7739 | 7.0000 | 7.0000
+    Michel Albonico: 0.7333 | 7.0000 | 7.0000
+    Mateus Barcellos Costa: 0.6293 | 13.0000 | 13.0000
+    Flavio Costa: 0.6944 | 6.0000 | 6.0000
+    Marcelo Yamashita: 0.6857 | 10.0000 | 10.0000
+
+--- Michel da Silva ---
+    Joel da Silva: 0.8598 | 4.0000 | 4.0000
+    Ticiana L. Coelho da Silva: 0.7049 | 13.0000 | 13.0000
+    Michel Boaventura: 0.7516 | 8.0000 | 8.0000
+    Mário J. Silva: 0.6365 | 7.0000 | 7.0000
+    Tatiane Lima da Silva: 0.6009 | 10.0000 | 10.0000
+
+--- Miguel Ângelo Pontalti Giordani ---
+    Miguel Angel Hidalgo: 0.7406 | 16.0000 | 16.0000
+
+--- Miguel Rodrigues Fornari ---
+    Daniel Rodrigues: 0.6565 | 12.0000 | 12.0000
+    Ricardo Rodrigues Ciferri: 0.6392 | 11.0000 | 11.0000
+    José F. Rodrigues Jr.: 0.5664 | 13.0000 | 13.0000
+    Marta Rigaud Faria: 0.6264 | 15.0000 | 15.0000
+    Diogo Tuler Forlani: 0.6715 | 15.0000 | 15.0000
+
+--- Miguel Soares ---
+    Thiago Salles: 0.7578 | 9.0000 | 9.0000
+    Gabriel Lopes: 0.6923 | 8.0000 | 8.0000
+    Michel Boaventura: 0.7035 | 9.0000 | 9.0000
+    Jorge de Abreu Soares: 0.5588 | 12.0000 | 12.0000
+    Murilo de Souza Martins: 0.6536 | 15.0000 | 15.0000
+
+--- Miriam Colpo ---
+    Marcília A. Campos: 0.6389 | 10.0000 | 10.0000
+
+--- Monica Vitali ---
+    Jonas Dias: 0.6316 | 8.0000 | 8.0000
+    Vaninha Vieira: 0.6039 | 8.0000 | 8.0000
+    Jonice Oliveira: 0.6900 | 9.0000 | 9.0000
+
+--- Monika Akbar ---
+    Daniela Alvarez: 0.5405 | 8.0000 | 8.0000
+
+--- Muriel F. Bernhardt Rocha ---
+    Michele A. Brandão: 0.7000 | 15.0000 | 15.0000
+    Raul S. Barth: 0.5897 | 16.0000 | 16.0000
+
+--- Nádia P. Kozievitch ---
+    Nádia P. Kozievitch: 1.0000 | 0.0000 | 0.0000
+
+--- Nadine Anderle ---
+    Nina Edelweiss: 0.6138 | 10.0000 | 10.0000
+    Daniel de Oliveira: 0.6566 | 13.0000 | 13.0000
+
+--- Natan Luiz Paetzhold Berwaldt ---
+
+--- Neilor A. Tonin ---
+
+--- Ney Lemke ---
+    Ale Smukler: 0.6034 | 8.0000 | 8.0000
+
+--- Nina Edelweiss ---
+    Nina Edelweiss: 1.0000 | 0.0000 | 0.0000
+    Nora Reyes: 0.6762 | 8.0000 | 8.0000
+    Carina F. Dorneles: 0.6303 | 12.0000 | 12.0000
+
+--- Odacir Deonisio Graciolli ---
+
+--- Oliver Moraes Batista ---
+    Daniel de Moraes Navarro: 0.6177 | 14.0000 | 14.0000
+    Aline Rode dos Santos: 0.6522 | 14.0000 | 14.0000
+    Viviane P. Moreira: 0.6779 | 16.0000 | 16.0000
+    Felipe Coimbra Bacelar: 0.6084 | 15.0000 | 15.0000
+    Miriam Oliveira dos Santos: 0.7017 | 18.0000 | 18.0000
+
+--- Patrícia Silveira ---
+    Patrícia Silva Peres: 0.8929 | 6.0000 | 6.0000
+    Patrícia Fiuza: 0.8109 | 6.0000 | 6.0000
+    Marcirio Silveira Chaves: 0.7070 | 13.0000 | 13.0000
+    Patrícia Martins: 0.7908 | 7.0000 | 7.0000
+    Mariano Salvetti: 0.7479 | 10.0000 | 10.0000
+
+--- Paulo Fernandes ---
+    Paulo T. Guerra: 0.7333 | 9.0000 | 9.0000
+    Paulo H. Oliveira: 0.7098 | 10.0000 | 10.0000
+    Eduardo Mendes: 0.6937 | 9.0000 | 9.0000
+    Paulo Henrique dos Santos: 0.7597 | 14.0000 | 14.0000
+    João Paulo Madeiro: 0.5741 | 13.0000 | 13.0000
+
+--- Paulo Ferreira ---
+    Paulo J. F. Carreira: 0.8082 | 7.0000 | 7.0000
+    Renato Ferreira: 0.7488 | 5.0000 | 5.0000
+    João Ferreira: 0.8278 | 4.0000 | 4.0000
+    Paulo T. Guerra: 0.7937 | 6.0000 | 6.0000
+    Thiago B. Ferreira: 0.7989 | 8.0000 | 8.0000
+
+--- Paulo Gillmeister ---
+    Paulo H. Oliveira: 0.7344 | 10.0000 | 10.0000
+    Paulo T. Guerra: 0.7098 | 10.0000 | 10.0000
+    Paulo C. Silva: 0.6807 | 10.0000 | 10.0000
+    Mauro Oliveira: 0.6871 | 10.0000 | 10.0000
+    João Paulo Madeiro: 0.5283 | 14.0000 | 14.0000
+
+--- Paulo Luzzardi ---
+    João Paulo Madeiro: 0.6233 | 12.0000 | 12.0000
+    Paulo T. Guerra: 0.7106 | 8.0000 | 8.0000
+    Paulo J. Azevedo: 0.6905 | 8.0000 | 8.0000
+    Paulo J. F. Carreira: 0.6976 | 11.0000 | 11.0000
+    Paulo J. L. Alvarenga: 0.6905 | 12.0000 | 12.0000
+
+--- Paulo R. Rodegheri ---
+    Pablo A. Roberto: 0.7359 | 8.0000 | 8.0000
+    Paulo R. P. Amora: 0.7527 | 8.0000 | 8.0000
+    Paulo T. Guerra: 0.7407 | 8.0000 | 8.0000
+    Paulo J. Azevedo: 0.7500 | 8.0000 | 8.0000
+    Paulo C. Silva: 0.7143 | 10.0000 | 10.0000
+
+--- Paulo Sérgio Sausen ---
+    Paulo Henrique dos Santos: 0.7440 | 14.0000 | 14.0000
+    Paulo C. Silva: 0.7135 | 11.0000 | 11.0000
+    Paulo T. Guerra: 0.7102 | 12.0000 | 12.0000
+    Paulo Jorge Leitao Adeodato: 0.6450 | 16.0000 | 16.0000
+    Paulo Igor Alves Godinho: 0.7020 | 16.0000 | 16.0000
+
+--- Pedro Auceli ---
+    Pedro Melo: 0.8222 | 4.0000 | 4.0000
+    Pedro Gabriel Ferreira: 0.6827 | 13.0000 | 13.0000
+    Pedro Paulo S. B. Silva: 0.7138 | 15.0000 | 15.0000
+    Reinaldo Almeida: 0.5972 | 11.0000 | 11.0000
+    Pedro H. R. de Assis: 0.6963 | 12.0000 | 12.0000
+
+--- Poline Lottin ---
+    Weiling Li: 0.6985 | 8.0000 | 8.0000
+    Vagner Pagotti: 0.6795 | 9.0000 | 9.0000
+
+--- Rafael Boaventura Luiz ---
+    Michel Boaventura: 0.6314 | 9.0000 | 9.0000
+    Rafael Souza: 0.7293 | 12.0000 | 12.0000
+    Rafael David Quirino: 0.7312 | 13.0000 | 13.0000
+    Rafael Pasquini: 0.7141 | 12.0000 | 12.0000
+    Rafael Castañeda: 0.6989 | 12.0000 | 12.0000
+
+--- Rafael F. Machado ---
+    Rafael L. Prado: 0.8353 | 5.0000 | 5.0000
+    Javam C. Machado: 0.8186 | 5.0000 | 5.0000
+    Rafael J. P. Damaceno: 0.7689 | 10.0000 | 10.0000
+    Rafael Castañeda: 0.7377 | 8.0000 | 8.0000
+    Raphael R. Campos: 0.7255 | 9.0000 | 9.0000
+
+--- Rafael F. Pinheiro ---
+    Rafael de Araújo M. Pinheiro: 0.7721 | 11.0000 | 11.0000
+    Rafael L. Prado: 0.8222 | 7.0000 | 7.0000
+    Rafael Pasquini: 0.7815 | 9.0000 | 9.0000
+    Rafaelli Coutinho: 0.7075 | 9.0000 | 9.0000
+    Rafael J. P. Damaceno: 0.7548 | 10.0000 | 10.0000
+
+--- Rafael Garcia ---
+    Rafael Pasquini: 0.7641 | 6.0000 | 6.0000
+    Rafael L. Prado: 0.7271 | 7.0000 | 7.0000
+    Rafael Souza: 0.7607 | 5.0000 | 5.0000
+    Rafael Castañeda: 0.7516 | 7.0000 | 7.0000
+    Ederson Garcia: 0.6456 | 7.0000 | 7.0000
+
+--- Rafael Liberato ---
+    Rafael L. Prado: 0.8222 | 4.0000 | 4.0000
+    Rafael Souza: 0.7463 | 7.0000 | 7.0000
+    Rafael Castañeda: 0.7306 | 9.0000 | 9.0000
+    Rafael Leão da Fonseca: 0.7141 | 12.0000 | 12.0000
+    Rafael Pasquini: 0.6963 | 8.0000 | 8.0000
+
+--- Rafael Speroni ---
+    Rafael Souza: 0.7976 | 6.0000 | 6.0000
+    Rafael Pasquini: 0.7106 | 6.0000 | 6.0000
+    Rafael L. Prado: 0.7476 | 7.0000 | 7.0000
+    Gabriel Spadon: 0.7143 | 7.0000 | 7.0000
+    Rafael Leão da Fonseca: 0.7229 | 13.0000 | 13.0000
+
+--- Rafael Vasel ---
+    Rafael Castañeda: 0.8194 | 6.0000 | 6.0000
+    Rafael Souza: 0.7778 | 5.0000 | 5.0000
+    Rafael Pasquini: 0.7833 | 6.0000 | 6.0000
+    Rafael L. Prado: 0.7333 | 8.0000 | 8.0000
+    Rafael Leão da Fonseca: 0.7293 | 12.0000 | 12.0000
+
+--- Raimundo Teive ---
+    Reinaldo Almeida: 0.6981 | 9.0000 | 9.0000
+    Mauro Oliveira: 0.5893 | 10.0000 | 10.0000
+    Leandro Krug Wives: 0.5661 | 13.0000 | 13.0000
+
+--- Ralf Marcos Ehmke ---
+    Marcos Barreto: 0.5759 | 11.0000 | 11.0000
+
+--- Ramiro Saldaña ---
+    Ricardo Ávila: 0.6673 | 10.0000 | 10.0000
+    Fabiano Baldo: 0.6039 | 8.0000 | 8.0000
+    Damires Souza: 0.6873 | 8.0000 | 8.0000
+    Tamires Brito Da Silva: 0.6563 | 14.0000 | 14.0000
+
+--- Raquel Cruz ---
+    Rafael Souza: 0.7399 | 5.0000 | 5.0000
+    Ana Beatriz Cruz: 0.5484 | 9.0000 | 9.0000
+    Ruben Cruz Huacarpuma: 0.7027 | 15.0000 | 15.0000
+    Raul S. Barth: 0.6690 | 9.0000 | 9.0000
+    Raquel Y. S. Aoki: 0.6827 | 10.0000 | 10.0000
+
+--- Raquel Kolitski Stasiu ---
+    Raquel Y. S. Aoki: 0.6949 | 13.0000 | 13.0000
+
+--- Raqueline Penteado ---
+    Rafael L. Prado: 0.7000 | 9.0000 | 9.0000
+    Joaquín Pérez Ortega: 0.5852 | 15.0000 | 15.0000
+    Aline Paes: 0.5815 | 11.0000 | 11.0000
+
+--- Rebeca Schroeder ---
+    Rebeca Schroeder: 1.0000 | 0.0000 | 0.0000
+    Rebeca Barros: 0.7647 | 7.0000 | 7.0000
+
+--- Regis Schuch ---
+    Dennis E. Shasha: 0.6736 | 10.0000 | 10.0000
+
+--- Rejane Basso ---
+    Rebeca Barros: 0.7400 | 7.0000 | 7.0000
+    Renato Bueno: 0.6944 | 6.0000 | 6.0000
+    Fernando Cardoso: 0.5308 | 9.0000 | 9.0000
+
+--- Renan Bet Rodrigues ---
+    Daniel Rodrigues: 0.6784 | 6.0000 | 6.0000
+    Priscila R. F. Rodrigues: 0.6650 | 13.0000 | 13.0000
+    José F. Rodrigues Jr.: 0.5797 | 12.0000 | 12.0000
+    Ricardo Rodrigues Ciferri: 0.6228 | 15.0000 | 15.0000
+    Renato Bueno: 0.7410 | 12.0000 | 12.0000
+
+--- Renata Carvalho ---
+    Diego Carvalho: 0.6937 | 6.0000 | 6.0000
+    Renata Galante: 0.7603 | 6.0000 | 6.0000
+    André Luiz da Costa Carvalho: 0.6488 | 16.0000 | 16.0000
+    Ana Maria de Carvalho Moura: 0.6802 | 16.0000 | 16.0000
+    Moisés G. de Carvalho: 0.5651 | 12.0000 | 12.0000
+
+--- Renata de J. Silva ---
+    Ronaldo P. Silva: 0.7500 | 6.0000 | 6.0000
+    Nyara A. Silva: 0.7233 | 8.0000 | 8.0000
+    Madalena Lopes e Silva: 0.6619 | 12.0000 | 12.0000
+    Levy de Souza Silva: 0.6827 | 10.0000 | 10.0000
+    Joel da Silva: 0.6416 | 10.0000 | 10.0000
+
+--- Renata Galante ---
+    Renata Galante: 1.0000 | 0.0000 | 0.0000
+    Renata de Matos Galante: 0.7981 | 9.0000 | 9.0000
+    Renan G. Cattelan: 0.7952 | 9.0000 | 9.0000
+    Roberto Walter: 0.6726 | 9.0000 | 9.0000
+    Renato Bueno: 0.7044 | 7.0000 | 7.0000
+
+--- Renata L. Rosa ---
+    Renata de Matos Galante: 0.7244 | 12.0000 | 12.0000
+    Renata Galante: 0.7143 | 7.0000 | 7.0000
+    Renato M. Assunção: 0.6899 | 9.0000 | 9.0000
+    Renato C. Ferreira: 0.6899 | 9.0000 | 9.0000
+    Rafael L. Prado: 0.7270 | 9.0000 | 9.0000
+
+--- Renata M. de Oliveira ---
+    Derick M. de Oliveira: 0.8413 | 5.0000 | 5.0000
+    César S. de Oliveira: 0.6881 | 6.0000 | 6.0000
+    Wendel Muniz de Oliveira: 0.6845 | 8.0000 | 8.0000
+    Ary Henrique M. de Oliveira: 0.6758 | 10.0000 | 10.0000
+    Ricardo M. Oliveira: 0.7235 | 8.0000 | 8.0000
+
+--- Renato Deggau ---
+    Renato Ferreira: 0.7641 | 7.0000 | 7.0000
+    Renato Bueno: 0.7771 | 6.0000 | 6.0000
+    Renato C. Ferreira: 0.7308 | 10.0000 | 10.0000
+    Reinaldo Almeida: 0.7051 | 9.0000 | 9.0000
+    Renato M. Assunção: 0.6866 | 10.0000 | 10.0000
+
+--- Renato Fileto ---
+    Renato Bueno: 0.8141 | 4.0000 | 4.0000
+    Renato Ferreira: 0.7786 | 6.0000 | 6.0000
+    Renata Galante: 0.7414 | 6.0000 | 6.0000
+    Renato C. Ferreira: 0.7416 | 9.0000 | 9.0000
+    Reinaldo Almeida: 0.6405 | 9.0000 | 9.0000
+
+--- Renato Novais ---
+    Renato Bueno: 0.7607 | 6.0000 | 6.0000
+    Renato Ferreira: 0.7271 | 7.0000 | 7.0000
+    Renato M. Assunção: 0.6866 | 10.0000 | 10.0000
+    Renato C. Ferreira: 0.6937 | 10.0000 | 10.0000
+
+--- Rian Brüggemann ---
+    Karin K. Breitman: 0.6516 | 12.0000 | 11.0000
+    Karin Koogan Breitman: 0.6516 | 14.0000 | 14.0000
+
+--- Ricardo Fagundes ---
+    Ricardo Baeza-Yates: 0.7555 | 8.0000 | 8.0000
+    Ricardo Ávila: 0.7516 | 8.0000 | 8.0000
+    Ricardo Wagner C. Brito: 0.7572 | 13.0000 | 13.0000
+    Ricardo Choren: 0.7464 | 7.0000 | 7.0000
+    Eduardo Mendes: 0.6240 | 7.0000 | 7.0000
+
+--- Ricardo G. Coelho ---
+    Ricardo G. Cota: 0.8771 | 4.0000 | 4.0000
+    Ricardo Choren: 0.8266 | 8.0000 | 8.0000
+    Ricardo Vasconcelos: 0.7792 | 8.0000 | 8.0000
+    Ricardo M. Oliveira: 0.7514 | 8.0000 | 8.0000
+    Ricardo Ávila: 0.7406 | 8.0000 | 8.0000
+
+--- Ricardo Gil Belther Nabo ---
+    Ricardo M. Oliveira: 0.7496 | 12.0000 | 12.0000
+    Ricardo Ávila: 0.7682 | 14.0000 | 14.0000
+    Ricardo G. Cota: 0.7771 | 12.0000 | 12.0000
+    Ricardo Choren: 0.7177 | 14.0000 | 14.0000
+    Ricardo Vasconcelos: 0.6488 | 15.0000 | 15.0000
+
+--- Ricardo Gross ---
+    Ricardo G. Cota: 0.8120 | 5.0000 | 5.0000
+    Ricardo Choren: 0.7945 | 5.0000 | 5.0000
+    Ricardo Vasconcelos: 0.7781 | 9.0000 | 9.0000
+    Ricardo Ávila: 0.7436 | 5.0000 | 5.0000
+    Richard Chbeir: 0.7289 | 8.0000 | 8.0000
+
+--- Ricardo M. Maeda ---
+    Ricardo M. Oliveira: 0.8066 | 6.0000 | 6.0000
+    Ricardo G. Cota: 0.8069 | 5.0000 | 5.0000
+    Ricardo Baeza-Yates: 0.7555 | 9.0000 | 9.0000
+    Ricardo Ávila: 0.7516 | 7.0000 | 7.0000
+    Ricardo Choren: 0.7351 | 7.0000 | 7.0000
+
+--- Rilson Nascimento ---
+    Mario A. Nascimento: 0.7907 | 7.0000 | 7.0000
+    Robson do Nascimento Fidalgo: 0.8167 | 13.0000 | 13.0000
+    Diogo R. B. Nascimento: 0.7723 | 9.0000 | 9.0000
+    Aldo Monteiro do Nascimento: 0.6571 | 14.0000 | 14.0000
+    Francimaria Nascimento: 0.6826 | 10.0000 | 10.0000
+
+--- Rita Berardi ---
+    Thiago B. Ferreira: 0.7037 | 12.0000 | 12.0000
+    Ivelize Rocha Bernardo: 0.6960 | 13.0000 | 13.0000
+    Renato Ferreira: 0.6722 | 9.0000 | 9.0000
+    Cristina Boeres: 0.6352 | 10.0000 | 10.0000
+    Cristina Bender: 0.7000 | 10.0000 | 10.0000
+
+--- Roberto Canuto Spiandorello ---
+    Joubert de Castro Lima: 0.6275 | 19.0000 | 19.0000
+    Fernando Campello: 0.6205 | 16.0000 | 16.0000
+
+--- Roberto Felipe Caliendo ---
+    Roberto Walter: 0.7244 | 12.0000 | 12.0000
+    Roberto Oliveira dos Santos: 0.7112 | 14.0000 | 14.0000
+    Marcos Roberto Ribeiro: 0.5649 | 18.0000 | 18.0000
+    Roberto Cesar Betini: 0.7694 | 11.0000 | 11.0000
+    Carlos Filipe Júnior: 0.6358 | 14.0000 | 14.0000
+
+--- Roberto Walter ---
+    Roberto Walter: 1.0000 | 0.0000 | 0.0000
+    Roberto Cesar Betini: 0.7635 | 10.0000 | 10.0000
+    Renata Galante: 0.6726 | 9.0000 | 9.0000
+    Marcos Roberto Ribeiro: 0.6104 | 13.0000 | 13.0000
+    Ausberto S. Castro Vera: 0.6164 | 13.0000 | 13.0000
+
+--- Robinson F. de Camargo ---
+    Robson L. F. Cordeiro: 0.7047 | 11.0000 | 11.0000
+    Moisés G. de Carvalho: 0.7439 | 10.0000 | 10.0000
+    Lásaro J. Camargos: 0.5707 | 12.0000 | 12.0000
+    Robson do Nascimento Fidalgo: 0.7071 | 17.0000 | 17.0000
+    Arion de Campos Jr.: 0.6682 | 15.0000 | 15.0000
+
+--- Robson Silva ---
+    Ronaldo P. Silva: 0.7194 | 7.0000 | 7.0000
+    Joel da Silva: 0.6120 | 6.0000 | 6.0000
+    Paulo C. Silva: 0.5992 | 7.0000 | 7.0000
+    Mário J. Silva: 0.5992 | 7.0000 | 7.0000
+    Arlei Silva: 0.6263 | 6.0000 | 6.0000
+
+--- Rodrigo A. Igawa ---
+    Rodrigo F. Borges: 0.7782 | 7.0000 | 7.0000
+    Rodrigo Machado: 0.7639 | 7.0000 | 7.0000
+    Rodrygo L. T. Santos: 0.7083 | 10.0000 | 10.0000
+    Eduardo S. Ogasawara: 0.5750 | 12.0000 | 12.0000
+    Rodrigo Tripodi Calumby: 0.6866 | 14.0000 | 14.0000
+
+--- Rodrigo C. Barros ---
+    Rodrigo F. Borges: 0.8585 | 4.0000 | 4.0000
+    Evandrino G. Barros: 0.7650 | 6.0000 | 6.0000
+    Rodrygo L. T. Santos: 0.7686 | 8.0000 | 8.0000
+    Rodrigo Machado: 0.7516 | 7.0000 | 7.0000
+    Rodrigo Cordeirodos Santos: 0.7753 | 13.0000 | 13.0000
+
+--- Rodrigo Giacomini Moro ---
+    Rodrigo Machado: 0.7263 | 11.0000 | 11.0000
+    Rodrigo F. Borges: 0.6854 | 13.0000 | 13.0000
+    Rodrigo Tripodi Calumby: 0.7007 | 13.0000 | 13.0000
+    Tiago Guimaraes Moraes: 0.6247 | 16.0000 | 16.0000
+
+--- Rodrigo Gonçalves ---
+    Marcos André Gonçalves: 0.7083 | 11.0000 | 11.0000
+    Rodrigo F. Borges: 0.7647 | 7.0000 | 7.0000
+    Gabriel Silva Gonçalves: 0.6037 | 11.0000 | 11.0000
+    Tatiana S. Gonçalves: 0.6414 | 10.0000 | 10.0000
+    Rodrigo Tavares de Souza: 0.7175 | 15.0000 | 15.0000
+
+--- Rodrigo Luis Suder ---
+    Rodrigo Tavares de Souza: 0.7528 | 13.0000 | 13.0000
+    Rodrigo F. Borges: 0.7631 | 9.0000 | 9.0000
+    Rodrigo Machado: 0.7000 | 9.0000 | 9.0000
+    Rodrigo Cordeirodos Santos: 0.7368 | 14.0000 | 14.0000
+    Rogério Luís de Carvalho Costa: 0.6529 | 20.0000 | 20.0000
+
+--- Rodrigo Luiz Antoniazzi ---
+    Rodrygo L. T. Santos: 0.6871 | 13.0000 | 13.0000
+    Rodrigo Cordeirodos Santos: 0.6443 | 16.0000 | 16.0000
+    Rodrigo Tripodi Calumby: 0.6677 | 14.0000 | 14.0000
+    Kairo Luiz dos Santos Bonicenha: 0.6056 | 20.0000 | 20.0000
+    Rodrigo F. Borges: 0.6743 | 13.0000 | 13.0000
+
+--- Rodrigo Machado ---
+    Rodrigo Machado: 1.0000 | 0.0000 | 0.0000
+    Rodrigo Tavares de Souza: 0.7667 | 13.0000 | 13.0000
+    Rodrigo F. Borges: 0.7098 | 9.0000 | 9.0000
+    Fábio Andre Machado Porto: 0.7044 | 16.0000 | 16.0000
+    Diogo Mattos: 0.6917 | 10.0000 | 9.0000
+
+--- Rodrigo Moreira ---
+    Rodrigo F. Borges: 0.7935 | 8.0000 | 8.0000
+    Rodrigo Cordeirodos Santos: 0.8239 | 12.0000 | 12.0000
+    Rodrigo Machado: 0.7919 | 6.0000 | 6.0000
+    Mário C. G. Moreira: 0.7405 | 10.0000 | 10.0000
+    Leonardo O. Moreira: 0.7827 | 9.0000 | 9.0000
+
+--- Rodrigo Nogueira ---
+    Rodrigo Cordeirodos Santos: 0.7452 | 13.0000 | 13.0000
+    Rodrigo F. Borges: 0.7908 | 9.0000 | 9.0000
+    Rodrigo Machado: 0.7306 | 8.0000 | 8.0000
+    Diego Pereira: 0.6405 | 9.0000 | 9.0000
+    Odilon Queiroz: 0.5870 | 10.0000 | 10.0000
+
+--- Rodrigo Silva ---
+    Ronaldo P. Silva: 0.6981 | 7.0000 | 7.0000
+    Mário J. Silva: 0.7414 | 7.0000 | 7.0000
+    Arlei Silva: 0.7809 | 6.0000 | 6.0000
+    Rodrigo Machado: 0.7641 | 6.0000 | 6.0000
+    Joel da Silva: 0.6603 | 6.0000 | 6.0000
+
+--- Roger Monteiro ---
+    José Maria Monteiro: 0.6670 | 8.0000 | 8.0000
+    Rogers Mendonça: 0.7603 | 7.0000 | 7.0000
+    Roberto Walter: 0.7249 | 8.0000 | 8.0000
+    Diorgens Meira: 0.7095 | 9.0000 | 9.0000
+    Igor Modesto: 0.6865 | 7.0000 | 7.0000
+
+--- Ronaldo Canofre M. dos Santos ---
+    Leonardo Bres dos Santos: 0.6577 | 11.0000 | 11.0000
+    Rodrigo Cordeirodos Santos: 0.6725 | 12.0000 | 12.0000
+    Ronaldo dos Santos Mello: 0.8009 | 15.0000 | 15.0000
+    José Laurindo Campos dos Santos: 0.6713 | 17.0000 | 17.0000
+    Aline Rode dos Santos: 0.6963 | 15.0000 | 15.0000
+
+--- Ronaldo dos Santos Mello ---
+    Ronaldo dos Santos Mello: 1.0000 | 0.0000 | 0.0000
+    Leonardo Bres dos Santos: 0.7222 | 14.0000 | 14.0000
+    Aline Rode dos Santos: 0.7024 | 14.0000 | 14.0000
+    Juliana Bonato dos Santos: 0.6589 | 17.0000 | 17.0000
+    Rodrigo Cordeirodos Santos: 0.6697 | 17.0000 | 17.0000
+
+--- Ronan Knob ---
+    Renato Bueno: 0.7135 | 7.0000 | 7.0000
+    Roney Uba: 0.6852 | 6.0000 | 6.0000
+
+--- Rosangela de Fátima Pereira ---
+    Sueli de Fátima Poppi Borba: 0.7139 | 14.0000 | 14.0000
+    Daniela Pereira: 0.7058 | 14.0000 | 14.0000
+    Fabiola S. F. Pereira: 0.6233 | 13.0000 | 13.0000
+    Daniel de Oliveira: 0.6320 | 14.0000 | 14.0000
+    Kelli de Faria Cordeiro: 0.5804 | 15.0000 | 15.0000
+
+--- Rosemeri Laurindo ---
+    Rogers Mendonça: 0.6723 | 11.0000 | 11.0000
+    Rodrigo Machado: 0.6680 | 11.0000 | 11.0000
+
+--- Rubens Guimarães ---
+    Davi Guimaraes: 0.6981 | 7.0000 | 7.0000
+    Dilson Almeida Guimarães: 0.6822 | 13.0000 | 13.0000
+    Rubens E. A. Moreira: 0.6852 | 12.0000 | 12.0000
+
+--- Rudimar Imhof ---
+    Ricardo Choren: 0.6039 | 10.0000 | 10.0000
+
+--- Saimor Raduan Aráujo Souza ---
+    Jairo Francisco de Souza: 0.6501 | 15.0000 | 15.0000
+    Jorge de Abreu Soares: 0.5665 | 18.0000 | 18.0000
+
+--- Samuel S. Troina ---
+    Raquel Y. S. Aoki: 0.7044 | 10.0000 | 10.0000
+    Samila Sena: 0.7195 | 9.0000 | 9.0000
+    Raul S. Barth: 0.6405 | 9.0000 | 9.0000
+    Luam C. Totti: 0.7146 | 10.0000 | 10.0000
+    Agma J. M. Traina: 0.6711 | 8.0000 | 8.0000
+
+--- Samuel Souza ---
+    Rafael Souza: 0.8333 | 3.0000 | 3.0000
+    Damires Souza: 0.8141 | 4.0000 | 4.0000
+    Samila Sena: 0.7146 | 6.0000 | 6.0000
+    Manoel Siqueira: 0.6500 | 8.0000 | 8.0000
+    Ligiane A. de Souza: 0.6959 | 12.0000 | 12.0000
+
+--- Sander P. Pivetta ---
+    Gabriel P. Oliveira: 0.6511 | 9.0000 | 9.0000
+    Ronaldo P. Silva: 0.7044 | 11.0000 | 11.0000
+    Vagner Pagotti: 0.6871 | 10.0000 | 10.0000
+    Nyara A. Silva: 0.6807 | 12.0000 | 12.0000
+    Viviane P. Moreira: 0.6921 | 11.0000 | 11.0000
+
+--- Sandro da Silva Camargo ---
+    Ricardo da Silva Torres: 0.6929 | 11.0000 | 11.0000
+    Valdiana da Silva Araujo: 0.6982 | 11.0000 | 11.0000
+    Rodolfo da Silva Villaça: 0.5878 | 13.0000 | 13.0000
+    Lásaro J. Camargos: 0.6739 | 13.0000 | 13.0000
+    Sandra de Amo: 0.7142 | 13.0000 | 13.0000
+
+--- Sandro Rigo ---
+    Sandra de Amo: 0.7249 | 6.0000 | 6.0000
+    Marco Cristo: 0.6818 | 8.0000 | 8.0000
+    Leonardo Ribeiro: 0.6824 | 9.0000 | 9.0000
+    Sergio Fialho: 0.6134 | 8.0000 | 8.0000
+    Luciano Rossi: 0.5821 | 10.0000 | 10.0000
+
+--- Scheila de Avila e Silva ---
+    Joel da Silva: 0.6470 | 13.0000 | 13.0000
+    Levy de Souza Silva: 0.6305 | 12.0000 | 12.0000
+    Thanner Soares Silva: 0.6024 | 14.0000 | 14.0000
+    Thiago H. P. Silva: 0.5989 | 14.0000 | 14.0000
+    Madalena Lopes e Silva: 0.6134 | 14.0000 | 14.0000
+
+--- Sérgio Dill ---
+    Sergio Fialho: 0.7809 | 5.0000 | 5.0000
+    Sérgio Lifschitz: 0.7424 | 8.0000 | 8.0000
+    Sergio Murilo Stempliuc: 0.7365 | 14.0000 | 14.0000
+
+--- Sérgio Mergen ---
+    Eriko Werbet: 0.7073 | 7.0000 | 7.0000
+    Sérgio Manuel Serra da Cruz: 0.7614 | 17.0000 | 17.0000
+    Sergio Murilo Stempliuc: 0.6347 | 14.0000 | 14.0000
+
+--- Silvia Amelia Bim ---
+    Dilson Almeida Guimarães: 0.6406 | 14.0000 | 14.0000
+    Samila Sena: 0.6076 | 12.0000 | 12.0000
+
+--- Sílvio Cazella ---
+    Sílvio B. Melo: 0.7619 | 6.0000 | 6.0000
+    Flavio Costa: 0.6210 | 8.0000 | 8.0000
+    Júlio C. Nievola: 0.6488 | 9.0000 | 9.0000
+    Bruno Tomazela: 0.6667 | 9.0000 | 9.0000
+
+--- Stanley Loh ---
+
+--- Stella Naomi Moriguchi ---
+    Marcela Mayumi Mauricio Yagui: 0.6138 | 18.0000 | 18.0000
+    Mirella Moura Moro: 0.6172 | 14.0000 | 14.0000
+
+--- Stevan Viapiana ---
+    Nathan Mariano: 0.5995 | 8.0000 | 8.0000
+    Henrique Viana: 0.6365 | 10.0000 | 10.0000
+    Vitor Viana: 0.6058 | 9.0000 | 9.0000
+    Alejandro A. Vaisman: 0.6463 | 14.0000 | 13.0000
+
+--- Suian Menegas ---
+    Eduardo Mendes: 0.6456 | 9.0000 | 9.0000
+    Vivianne Medeiros: 0.6665 | 9.0000 | 9.0000
+    Guilherme Vale Menezes: 0.5894 | 13.0000 | 13.0000
+    Samila Sena: 0.6297 | 8.0000 | 8.0000
+    Ronaldo Menezes: 0.6746 | 8.0000 | 8.0000
+
+--- Sylvio Barbon Jr. ---
+    Sílvio S. Ribeiro Jr.: 0.7177 | 10.0000 | 10.0000
+    Sílvio B. Melo: 0.6871 | 10.0000 | 10.0000
+
+--- Tácio Castanhede ---
+    Fábio M. Costa: 0.6488 | 11.0000 | 11.0000
+    Natália Cristina Schneider: 0.6939 | 15.0000 | 15.0000
+    Rafael Castañeda: 0.5417 | 9.0000 | 9.0000
+    Flavio Costa: 0.6389 | 10.0000 | 10.0000
+
+--- Taisa C. Novello ---
+    Fabiano C. Botelho: 0.6450 | 8.0000 | 8.0000
+    Thiago C. Porto: 0.6097 | 9.0000 | 9.0000
+    Tatiana S. Gonçalves: 0.7155 | 11.0000 | 11.0000
+    Vitor C. Neves: 0.5870 | 9.0000 | 9.0000
+    Carina F. Dorneles: 0.6602 | 9.0000 | 9.0000
+
+--- Tânia M. Cernach ---
+    Thiago B. Ferreira: 0.6875 | 11.0000 | 11.0000
+    Ricardo M. Oliveira: 0.5676 | 15.0000 | 15.0000
+    Vânia Maria P. Vidal: 0.6417 | 13.0000 | 13.0000
+    Thiago T. Seixas: 0.6667 | 10.0000 | 10.0000
+
+--- Tânia Maria Sausen ---
+    Vânia Maria P. Vidal: 0.7556 | 9.0000 | 9.0000
+    Tanara Lauschner: 0.6944 | 11.0000 | 11.0000
+    Vânia Maria Ponte Vidal: 0.7717 | 11.0000 | 11.0000
+    Mariano Salvetti: 0.6147 | 13.0000 | 13.0000
+    Ana Carolina Salgado: 0.5689 | 12.0000 | 12.0000
+
+--- Tatiana Gadda ---
+    Mariana Ramada: 0.7414 | 5.0000 | 5.0000
+    Tatiana S. Gonçalves: 0.7564 | 10.0000 | 10.0000
+    Tatiane Lima da Silva: 0.7294 | 11.0000 | 11.0000
+    Fabiano Baldo: 0.6447 | 6.0000 | 6.0000
+    Renata Galante: 0.6039 | 10.0000 | 10.0000
+
+--- Tatiana Tozzi ---
+    Tatiana S. Gonçalves: 0.7141 | 11.0000 | 11.0000
+    Tatiane Lima da Silva: 0.6699 | 12.0000 | 12.0000
+    Natacha Targino: 0.6746 | 9.0000 | 9.0000
+
+--- Tereza Cristina Melo de Brito Carvalho ---
+    André Luiz da Costa Carvalho: 0.6640 | 23.0000 | 23.0000
+    Carlos Roberto Carvalho Oliveira: 0.6784 | 30.0000 | 30.0000
+    Moisés G. de Carvalho: 0.5954 | 23.0000 | 23.0000
+
+--- Thales Vaz Maciel ---
+    Adeline M. Maciel: 0.6588 | 9.0000 | 9.0000
+    Tales Benigno Matos: 0.6814 | 12.0000 | 12.0000
+
+--- Thiago A. Presa ---
+    Thiago C. Porto: 0.8222 | 5.0000 | 5.0000
+    Thiago R. P. Prado: 0.8222 | 7.0000 | 7.0000
+    Thiago B. Ferreira: 0.7944 | 6.0000 | 6.0000
+    Thiago T. Seixas: 0.8222 | 6.0000 | 6.0000
+    Thiago H. P. Silva: 0.7815 | 7.0000 | 7.0000
+
+--- Thiago C. Krug ---
+    Thiago C. Porto: 0.8397 | 4.0000 | 4.0000
+    Thiago N. C. Cardoso: 0.7483 | 9.0000 | 9.0000
+    Thiago R. P. Prado: 0.7566 | 8.0000 | 8.0000
+    Thiago B. Ferreira: 0.7566 | 8.0000 | 8.0000
+    Thiago T. Seixas: 0.7351 | 7.0000 | 7.0000
+
+--- Thyago Borges ---
+    Thiago Borges de Oliveira: 0.8010 | 13.0000 | 13.0000
+    Thiago Salles: 0.7436 | 5.0000 | 5.0000
+    Rodrigo F. Borges: 0.6295 | 8.0000 | 8.0000
+    Eduardo N. Borges: 0.6665 | 8.0000 | 8.0000
+    Thiago C. Porto: 0.7162 | 8.0000 | 8.0000
+
+--- Tiago F. Otero ---
+    Tiago F. Athayde-Novaes: 0.7930 | 11.0000 | 11.0000
+    Tiago F. Mansueli: 0.7675 | 7.0000 | 7.0000
+    Thiago R. P. Prado: 0.7566 | 8.0000 | 8.0000
+    Thiago B. Ferreira: 0.7686 | 8.0000 | 8.0000
+    Thiago C. Porto: 0.8094 | 6.0000 | 6.0000
+
+--- Tiago Heinrich ---
+    Tiago Vinuto: 0.7460 | 6.0000 | 6.0000
+    Thiago B. Ferreira: 0.6772 | 10.0000 | 10.0000
+    Thiago T. Seixas: 0.6905 | 9.0000 | 9.0000
+    Thiago Salles: 0.6795 | 9.0000 | 9.0000
+    Diego Pereira: 0.5366 | 8.0000 | 8.0000
+
+--- Tiago Stapenhorst Martins ---
+    Wellington Santos Martins: 0.7333 | 13.0000 | 13.0000
+    Murilo de Souza Martins: 0.6174 | 14.0000 | 14.0000
+    Thiago Salles: 0.6408 | 17.0000 | 17.0000
+    Tiago F. Mansueli: 0.6846 | 16.0000 | 16.0000
+    Tales Benigno Matos: 0.6632 | 16.0000 | 16.0000
+
+--- Tobias Stifft ---
+
+--- Vanessa Barbosa Rolim ---
+    Vanessa Braganholo: 0.7825 | 8.0000 | 8.0000
+    Denilson Barbosa: 0.6349 | 12.0000 | 12.0000
+    Manoela Camila Barbosa da Silva: 0.6487 | 17.0000 | 17.0000
+    Valmir C. Barbosa: 0.6630 | 13.0000 | 13.0000
+    Vanessa P. Braganholo: 0.7788 | 11.0000 | 11.0000
+
+--- Vania Elisabete Scheneider ---
+    Natália Cristina Schneider: 0.7128 | 12.0000 | 12.0000
+    Vaninha Vieira: 0.6663 | 18.0000 | 18.0000
+
+--- Vania Elisabete Schneider ---
+    Natália Cristina Schneider: 0.7231 | 11.0000 | 11.0000
+    Vaninha Vieira: 0.6714 | 17.0000 | 17.0000
+
+--- Vilmar Schmelzer ---
+    Ulrich Schiel: 0.6405 | 10.0000 | 10.0000
+    Victor Ströele: 0.6464 | 8.0000 | 8.0000
+    Ale Smukler: 0.5960 | 10.0000 | 10.0000
+    Rebeca Schroeder: 0.6343 | 10.0000 | 10.0000
+    Harley Michel Wagner: 0.6246 | 14.0000 | 14.0000
+
+--- Vinícios Tomazetti ---
+    Bruno Tomazela: 0.7143 | 10.0000 | 10.0000
+    Vinícius Vitor dos Santos Dias: 0.6529 | 19.0000 | 19.0000
+
+--- Vinicius F. Garcia ---
+    Elaine R. Faria: 0.6407 | 10.0000 | 10.0000
+    Dieinison J. F. Braga: 0.6627 | 13.0000 | 13.0000
+    Victor A. E. de Farias: 0.6431 | 14.0000 | 14.0000
+    Ederson Garcia: 0.5661 | 10.0000 | 10.0000
+    Cássio Alan Garcia: 0.5892 | 11.0000 | 11.0000
+
+--- Vinícius Lampert ---
+
+--- Vinícius Maran ---
+    Vinícius Vitor dos Santos Dias: 0.7246 | 18.0000 | 18.0000
+    Vinícius Pires de Moura Freire: 0.7246 | 18.0000 | 18.0000
+    Patrícia Martins: 0.5870 | 9.0000 | 9.0000
+    Nicolas Markey: 0.5893 | 9.0000 | 9.0000
+    Nathan Mariano: 0.6726 | 10.0000 | 10.0000
+
+--- Vinicius P. Lima ---
+    Vânia Maria P. Vidal: 0.5750 | 11.0000 | 11.0000
+    Mateus C. de Lima: 0.6973 | 10.0000 | 10.0000
+    Viviane P. Moreira: 0.6935 | 10.0000 | 10.0000
+    Maria I. V. Lima: 0.6667 | 8.0000 | 8.0000
+    Evelin Giuliana Lima: 0.6549 | 11.0000 | 11.0000
+
+--- Vitor Hugo Bezerra ---
+    Vitor Horta: 0.8215 | 8.0000 | 8.0000
+    Vitor Campos de Oliveira: 0.6667 | 12.0000 | 12.0000
+    Victor V. Barros Leal: 0.7035 | 14.0000 | 14.0000
+    Fábio de Lima Bezerra: 0.6207 | 11.0000 | 11.0000
+    Vitor C. Neves: 0.7143 | 9.0000 | 9.0000
+
+--- Viviane Moreira Orengo ---
+    Viviane Moreira Orengo: 1.0000 | 0.0000 | 0.0000
+    Viviane P. Moreira: 0.7887 | 10.0000 | 10.0000
+    Vivianne Medeiros: 0.7723 | 11.0000 | 11.0000
+    Viviane Pereira Moreira: 0.7743 | 7.0000 | 7.0000
+    Wagner Meira Jr.: 0.6818 | 13.0000 | 13.0000
+
+--- Viviani Lopes Bastos ---
+    Vivianne Medeiros: 0.7020 | 11.0000 | 11.0000
+    Christian Cesar Bones: 0.6538 | 15.0000 | 15.0000
+    Evandrino G. Barros: 0.5581 | 12.0000 | 12.0000
+    Katia C. Lage dos Santos: 0.5333 | 13.0000 | 13.0000
+
+--- Walmir O. Couto ---
+    Valmir C. Barbosa: 0.7183 | 8.0000 | 8.0000
+    Rafaelli Coutinho: 0.7098 | 11.0000 | 11.0000
+    Thierson Couto: 0.5766 | 8.0000 | 8.0000
+    Ricardo G. Cota: 0.6444 | 10.0000 | 10.0000
+    Pablo A. Roberto: 0.5528 | 10.0000 | 10.0000
+
+--- Wdnei R. Paixão ---
+    Elaine R. Faria: 0.6963 | 10.0000 | 10.0000
+    Adeline M. Maciel: 0.6728 | 11.0000 | 11.0000
+
+--- William Komura ---
+    Mirella Moura Moro: 0.7143 | 12.0000 | 12.0000
+
+--- William Marx ---
+    Nicolas Markey: 0.6944 | 8.0000 | 8.0000
+    Mirella M. Moro: 0.6833 | 9.0000 | 9.0000
+
+--- William Pereira ---
+    Diego Pereira: 0.6530 | 6.0000 | 6.0000
+    Viviane P. Moreira: 0.7512 | 9.0000 | 9.0000
+    Daniela Pereira: 0.7010 | 6.0000 | 6.0000
+    Viviane Pereira Moreira: 0.6766 | 13.0000 | 13.0000
+    Cristiano D. Ferreira: 0.5810 | 11.0000 | 11.0000
+
+--- Willian Eduardo de Moura Casante ---
+    Allan José de Souza Bezerra: 0.6319 | 19.0000 | 19.0000
+
+--- Willian Ventura Koerich ---
+    Mirella Moura Moro: 0.6184 | 14.0000 | 14.0000
+
+--- Willington Pavan ---
+    Wellington Santos Martins: 0.7262 | 12.0000 | 12.0000
+    Wellington Moreira de Oliveira: 0.6460 | 18.0000 | 18.0000
+    Weiling Li: 0.7125 | 10.0000 | 10.0000
+    Weiguo Fan: 0.6173 | 9.0000 | 9.0000
+
+--- Yussef Parcianello ---
+    Mateus Barcellos Costa: 0.6263 | 17.0000 | 17.0000
+

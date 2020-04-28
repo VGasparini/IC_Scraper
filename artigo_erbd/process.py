@@ -1,5 +1,4 @@
 import csv
-import pandas as pd
 
 names, links, set_names = [],{},{}
 data = dict()

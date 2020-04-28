@@ -8,13 +8,7 @@
 import scrapy
 
 
-class Coauthor(scrapy.Item):
+class Sbbd15YearsItem(scrapy.Item):
     # define the fields for your item here like:
-    coauthor = scrapy.Field()
-    link     = scrapy.Field()
-
-class Author(scrapy.Item):
-    author   = scrapy.Field()
-    link     = scrapy.Field()
-    coauthor = list()
-
+    # name = scrapy.Field()
+    pass
