@@ -22,13 +22,7 @@ class SBBDConferenceSpider(scrapy.Spider):
                   "https://dblp.uni-trier.de/db/conf/sbbd/sbbd2008.html",
                   "https://dblp.uni-trier.de/db/conf/sbbd/sbbd2007.html",
                   "https://dblp.uni-trier.de/db/conf/sbbd/sbbd2006.html",
-                  "https://dblp.uni-trier.de/db/conf/sbbd/sbbd2005.html",
-                  "https://dblp.uni-trier.de/db/conf/sbbd/sbbd2004.html",
-                  "https://dblp.uni-trier.de/db/conf/sbbd/sbbd2003.html",
-                  "https://dblp.uni-trier.de/db/conf/sbbd/sbbd2002.html",
-                  "https://dblp.uni-trier.de/db/conf/sbbd/sbbd2001.html",
-                  "https://dblp.uni-trier.de/db/conf/sbbd/sbbd2000.html",
-                  "https://dblp.uni-trier.de/db/conf/sbbd/sbbd1999.html"
+                  "https://dblp.uni-trier.de/db/conf/sbbd/sbbd2005.html"
                   ]
     category = {
         'c': 'proceeding-companion',
