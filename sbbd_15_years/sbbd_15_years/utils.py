@@ -73,6 +73,45 @@ def correlation_duplicated():
         file.write(json.dumps(correlation, ensure_ascii=False))
 
 
+def correlation_selected_names_filter():
+
+    # Ref.: https://www.datacamp.com/community/tutorials/fuzzy-string-python
+
+    with open('sbbd_15_years/sbbd_15_years/data/raw/list_name', 'r') as file:
+        to_seek = []
+        for line in file:
+            to_seek.append(line[:-1])
+    to_seek.sort()
+
+    with open('sbbd_15_years/sbbd_15_years/data/raw/count.json', 'r') as file:
+        data = json.load(file)
+
+    only_names = set()
+    for item in data:
+        only_names.add(item['name'])
+    only_names = sorted(list(only_names))
+
+    correlation = []
+    for name in to_seek:
+        high = [x for x in process.extract(name, only_names) if x[1] >= 75]
+        tmp = [i[0] for i in high]
+        highest = process.extractOne(name, only_names)
+        exact = True if highest[1] == 100 else False
+        new_high = []
+        splited = name.split()
+        for test in tmp:
+            test_splited = test.split()
+            for part in test_splited:
+                if part in splited:
+                    new_high.append(test)
+                    break
+        if highest[1] > 75 and not exact:
+            correlation.append({name: new_high, 'exact': exact})
+
+    with open('sbbd_15_years/sbbd_15_years/data/parsed/correlation_selected_filter.json', 'w') as file:
+        file.write(json.dumps(correlation, ensure_ascii=False))
+
+
 def correlation_selected_names():
 
     # Ref.: https://www.datacamp.com/community/tutorials/fuzzy-string-python
@@ -97,7 +136,7 @@ def correlation_selected_names():
         tmp = [i[1] for i in high]
         highest = process.extractOne(name, tmp)
         exact = True if highest[0] == 100 else False
-        if highest[0] > 60:
+        if exact:
             correlation.append({name: high, 'exact': exact})
 
     with open('sbbd_15_years/sbbd_15_years/data/parsed/correlation_selected.json', 'w') as file:
