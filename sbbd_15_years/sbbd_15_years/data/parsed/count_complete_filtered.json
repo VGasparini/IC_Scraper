@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Aldo von Wangenheim",
+    "url": "https://dblp.uni-trier.de/pers/hd/w/Wangenheim:Aldo_von",
+    "count": 1,
+    "publishes": [{ "full-paper": "2015" }]
+  },
+  {
+    "name": "Aldri L. dos Santos",
+    "url": "https://dblp.uni-trier.de/pers/hd/s/Santos:Aldri_L=_dos",
+    "count": 1,
+    "publishes": [{ "full-paper": "2019" }]
+  },
+  {
+    "name": "Alexandre Tagliari Lazzaretti",
+    "url": "https://dblp.uni-trier.de/pers/hd/l/Lazzaretti:Alexandre_Tagliari",
+    "count": 1,
+    "publishes": [{ "full-paper": "2005" }]
+  },
+  {
+    "name": "Ana Carolina Salgado",
+    "url": "https://dblp.uni-trier.de/pers/hd/s/Salgado:Ana_Carolina",
+    "count": 8,
+    "publishes": [
+      { "full-paper": "2019" },
+      { "full-paper": "2017" },
+      { "full-paper": "2016" },
+      { "full-paper": "2016" },
+      { "full-paper": "2008" },
+      { "full-paper": "2007" },
+      { "full-paper": "2006" },
+      { "short-paper": "2012" }
+    ]
+  },
+  {
+    "name": "André Luis Schwerz",
+    "url": "https://dblp.uni-trier.de/pers/hd/s/Schwerz:Andr=eacute=_Luis",
+    "count": 1,
+    "publishes": [{ "short-paper": "2015" }]
+  },
+  {
+    "name": "André Santanchè",
+    "url": "https://dblp.uni-trier.de/pers/hd/s/Santanch=egrave=:Andr=eacute=",
+    "count": 4,
+    "publishes": [
+      { "short-paper": "2015" },
+      { "short-paper": "2015" },
+      { "short-paper": "2012" },
+      { "full-paper": "2005" }
+    ]
+  },
+  {
+    "name": "Angelo Augusto Frozza",
+    "url": "https://dblp.uni-trier.de/pers/hd/f/Frozza:Angelo_Augusto",
+    "count": 1,
+    "publishes": [{ "proceeding-companion": "2018" }]
+  },
+  {
+    "name": "Augusto Ferreia de Souza",
+    "url": "https://dblp.uni-trier.de/pers/hd/s/Souza:Augusto_Ferreia_de",
+    "count": 1,
+    "publishes": [{ "full-paper": "2014" }]
+  },
+  {
+    "name": "Carina F. Dorneles",
+    "url": "https://dblp.uni-trier.de/pers/hd/d/Dorneles:Carina_F=",
+    "count": 2,
+    "publishes": [{ "full-paper": "2018" }, { "short-paper": "2012" }]
+  },
+  {
+    "name": "Carlos A. Heuser",
+    "url": "https://dblp.uni-trier.de/pers/hd/h/Heuser:Carlos_A=",
+    "count": 5,
+    "publishes": [
+      { "short-paper": "2013" },
+      { "full-paper": "2009" },
+      { "full-paper": "2008" },
+      { "short-paper": "2011" },
+      { "full-paper": "2009" }
+    ]
+  },
+  {
+    "name": "Carlos Eduardo Santos Pires",
+    "url": "https://dblp.uni-trier.de/pers/hd/p/Pires:Carlos_Eduardo_S=",
+    "count": 6,
+    "publishes": [
+      { "full-paper": "2019" },
+      { "full-paper": "2019" },
+      { "full-paper": "2016" },
+      { "short-paper": "2013" },
+      { "short-paper": "2012" },
+      { "full-paper": "2006" }
+    ]
+  },
+  {
+    "name": "Carmem S. Hara",
+    "url": "https://dblp.uni-trier.de/pers/hd/h/Hara:Carmem_S=",
+    "count": 9,
+    "publishes": [
+      { "full-paper": "2019" },
+      { "full-paper": "2016" },
+      { "short-paper": "2015" },
+      { "full-paper": "2018" },
+      { "full-paper": "2019" },
+      { "full-paper": "2018" },
+      { "poster": "2010" },
+      { "full-paper": "2008" },
+      { "full-paper": "2007" }
+    ]
+  },
+  {
+    "name": "Daniel S. Kaster",
+    "url": "https://dblp.uni-trier.de/pers/hd/k/Kaster:Daniel_S=",
+    "count": 2,
+    "publishes": [{ "full-paper": "2017" }, { "full-paper": "2009" }]
+  },
+  {
+    "name": "Denio Duarte",
+    "url": "https://dblp.uni-trier.de/pers/hd/d/Duarte:Denio",
+    "count": 2,
+    "publishes": [{ "proceeding-companion": "2018" }, { "full-paper": "2007" }]
+  },
+  {
+    "name": "Duncan Dubugras Alcoba Ruiz",
+    "url": "https://dblp.uni-trier.de/pers/hd/r/Ruiz:Duncan_Dubugras_Alcoba",
+    "count": 1,
+    "publishes": [{ "proceeding-companion": "2018" }]
+  },
+  {
+    "name": "Edimar Manica",
+    "url": "https://dblp.uni-trier.de/pers/hd/m/Manica:Edimar",
+    "count": 1,
+    "publishes": [{ "short-paper": "2013" }]
+  },
+  {
+    "name": "Eduardo N. Borges",
+    "url": "https://dblp.uni-trier.de/pers/hd/b/Borges:Eduardo_N=",
+    "count": 1,
+    "publishes": [{ "full-paper": "2008" }]
+  },
+  {
+    "name": "Geomar Andre Schreiner",
+    "url": "https://dblp.uni-trier.de/pers/hd/s/Schreiner:Geomar_Andre",
+    "count": 1,
+    "publishes": [{ "proceeding-companion": "2018" }]
+  },
+  {
+    "name": "Guilherme Dal Bianco",
+    "url": "https://dblp.uni-trier.de/pers/hd/b/Bianco:Guilherme_Dal",
+    "count": 1,
+    "publishes": [{ "short-paper": "2013" }]
+  },
+  {
+    "name": "Gustavo Zanini Kantorski",
+    "url": "https://dblp.uni-trier.de/pers/hd/k/Kantorski:Gustavo_Zanini",
+    "count": 1,
+    "publishes": [{ "short-paper": "2011" }]
+  },
+  {
+    "name": "José Palazzo Moreira de Oliveira",
+    "url": "https://dblp.uni-trier.de/pers/hd/o/Oliveira:Jos=eacute=_Palazzo_Moreira_de",
+    "count": 1,
+    "publishes": [{ "full-paper": "2014" }]
+  },
+  {
+    "name": "Juliana Bonato dos Santos",
+    "url": "https://dblp.uni-trier.de/pers/hd/s/Santos:Juliana_Bonato_dos",
+    "count": 1,
+    "publishes": [{ "full-paper": "2008" }]
+  },
+  {
+    "name": "Karin Becker",
+    "url": "https://dblp.uni-trier.de/pers/hd/b/Becker:Karin",
+    "count": 9,
+    "publishes": [
+      { "proceeding-companion": "2018" },
+      { "proceeding-companion": "2018" },
+      { "full-paper": "2016" },
+      { "full-paper": "2018" },
+      { "full-paper": "2018" },
+      { "full-paper": "2014" },
+      { "full-paper": "2014" },
+      { "short-paper": "2013" },
+      { "short-paper": "2011" }
+    ]
+  },
+  {
+    "name": "Leandro Krug Wives",
+    "url": "https://dblp.uni-trier.de/pers/hd/w/Wives:Leandro_Krug",
+    "count": 2,
+    "publishes": [{ "full-paper": "2018" }, { "full-paper": "2008" }]
+  },
+  {
+    "name": "Luiz Gomes Jr.",
+    "url": "https://dblp.uni-trier.de/pers/hd/g/Gomes_Jr=:Luiz",
+    "count": 2,
+    "publishes": [{ "full-paper": "2019" }, { "full-paper": "2019" }]
+  },
+  {
+    "name": "Mariana M. Garcez Duarte",
+    "url": "https://dblp.uni-trier.de/pers/hd/d/Duarte:Mariana_M=_Garcez",
+    "count": 1,
+    "publishes": [{ "full-paper": "2018" }]
+  },
+  {
+    "name": "Miriam Pizzatto Colpo",
+    "url": "https://dblp.uni-trier.de/pers/hd/c/Colpo:Miriam_Pizzatto",
+    "count": 1,
+    "publishes": [{ "short-paper": "2013" }]
+  },
+  {
+    "name": "Nina Edelweiss",
+    "url": "https://dblp.uni-trier.de/pers/hd/e/Edelweiss:Nina",
+    "count": 1,
+    "publishes": [{ "full-paper": "2005" }]
+  },
+  {
+    "name": "Nádia P. Kozievitch",
+    "url": "https://dblp.uni-trier.de/pers/hd/k/Kozievitch:N=aacute=dia_P=",
+    "count": 2,
+    "publishes": [{ "full-paper": "2015" }, { "full-paper": "2019" }]
+  },
+  {
+    "name": "Rafael Liberato",
+    "url": "https://dblp.uni-trier.de/pers/hd/l/Liberato:Rafael",
+    "count": 1,
+    "publishes": [{ "short-paper": "2015" }]
+  },
+  {
+    "name": "Raquel Kolitski Stasiu",
+    "url": "https://dblp.uni-trier.de/pers/hd/s/Stasiu:Raquel_Kolitski",
+    "count": 1,
+    "publishes": [{ "short-paper": "2013" }]
+  },
+  {
+    "name": "Raqueline R. M. Penteado",
+    "url": "https://dblp.uni-trier.de/pers/hd/p/Penteado:Raqueline_R=_M=",
+    "count": 2,
+    "publishes": [{ "full-paper": "2019" }, { "short-paper": "2015" }]
+  },
+  {
+    "name": "Rebeca Schroeder",
+    "url": "https://dblp.uni-trier.de/pers/hd/s/Schroeder:Rebeca",
+    "count": 3,
+    "publishes": [
+      { "short-paper": "2015" },
+      { "full-paper": "2018" },
+      { "full-paper": "2018" }
+    ]
+  },
+  {
+    "name": "Renata Galante",
+    "url": "https://dblp.uni-trier.de/pers/hd/g/Galante:Renata",
+    "count": 4,
+    "publishes": [
+      { "proceeding-companion": "2018" },
+      { "full-paper": "2016" },
+      { "short-paper": "2013" },
+      { "short-paper": "2011" }
+    ]
+  },
+  {
+    "name": "Rita Berardi",
+    "url": "https://dblp.uni-trier.de/pers/hd/b/Berardi:Rita",
+    "count": 1,
+    "publishes": [{ "full-paper": "2019" }]
+  },
+  {
+    "name": "Roberto Walter",
+    "url": "https://dblp.uni-trier.de/pers/hd/w/Walter:Roberto",
+    "count": 2,
+    "publishes": [{ "proceeding-companion": "2018" }, { "full-paper": "2018" }]
+  },
+  {
+    "name": "Rodrigo Machado",
+    "url": "https://dblp.uni-trier.de/pers/hd/m/Machado:Rodrigo",
+    "count": 1,
+    "publishes": [{ "full-paper": "2006" }]
+  },
+  {
+    "name": "Ronaldo dos Santos Mello",
+    "url": "https://dblp.uni-trier.de/pers/hd/m/Mello:Ronaldo_dos_Santos",
+    "count": 7,
+    "publishes": [
+      { "proceeding-companion": "2018" },
+      { "proceeding-companion": "2018" },
+      { "full-paper": "2017" },
+      { "full-paper": "2014" },
+      { "short-paper": "2013" },
+      { "short-paper": "2012" },
+      { "full-paper": "2005" }
+    ]
+  },
+  {
+    "name": "Viviane Moreira Orengo",
+    "url": "https://dblp.uni-trier.de/pers/hd/o/Orengo:Viviane_Moreira",
+    "count": 1,
+    "publishes": [{ "full-paper": "2008" }]
+  },
+  {
+    "name": "Willian Ventura Koerich",
+    "url": "https://dblp.uni-trier.de/pers/hd/k/Koerich:Willian_Ventura",
+    "count": 1,
+    "publishes": [{ "short-paper": "2013" }]
+  },
+  {
+    "name": "Álvaro Freitas Moreira",
+    "url": "https://dblp.uni-trier.de/pers/hd/m/Moreira:=Aacute=lvaro_Freitas",
+    "count": 1,
+    "publishes": [{ "full-paper": "2006" }]
+  }
+]

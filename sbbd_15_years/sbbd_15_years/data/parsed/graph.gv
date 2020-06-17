@@ -1,0 +1,124 @@
+graph G {
+rankdir=LR
+
+subgraph cluster_0 {
+label = "Query Driven Sequence Pattern Mining.";
+ "2006" -- "Pedro Gabriel Ferreira" ;
+ "2006" -- "Paulo J. Azevedo" ;}
+subgraph cluster_1 {
+label = "Using Fuzzy Ontologies to Extend Semantically Similar Data Mining.";
+ "2006" -- "Eduardo L. G. Escovar" ;
+ "2006" -- "Cristiane A. Yaguinuma" ;
+ "2006" -- "Mauro Biajiz" ;}
+subgraph cluster_2 {
+label = "Automatic Inconsistency Treatment in Case-Based Reasoning Systems.";
+ "2006" -- "Vera Lucia M. Falquete" ;
+ "2006" -- "Júlio C. Nievola" ;
+ "2006" -- "Celso A. A. Kaestner" ;}
+subgraph cluster_3 {
+label = "EIT - Escalonador Inteligente de Transações.";
+ "2006" -- "Maristela Holanda" ;
+ "2006" -- "Angelo Brayner" ;
+ "2006" -- "Sergio Fialho" ;}
+subgraph cluster_4 {
+label = "On the Complexity of Process Pipeline Scheduling.";
+ "2006" -- "Melissa Lemos" ;
+ "2006" -- "Marco A. Casanova" ;}
+subgraph cluster_5 {
+label = "A Query Language for a Versioned Object Oriented Database.";
+ "2006" -- "Rodrigo Machado" ;
+ "2006" -- "Álvaro Freitas Moreira" ;
+ "2006" -- "Renata de Matos Galante" ;
+ "2006" -- "Mirella Moura Moro" ;}
+subgraph cluster_6 {
+label = "On RDBMS and Workflow Support for Componentized Digital Libraries.";
+ "2006" -- "Pablo A. Roberto" ;
+ "2006" -- "Rodrygo L. T. Santos" ;
+ "2006" -- "Marcos André Gonçalves" ;
+ "2006" -- "Alberto H. F. Laender" ;}
+subgraph cluster_7 {
+label = "Extracting and Searching Useful Information Available on Web FAQs.";
+ "2006" -- "Edson Cesar Cunha de Oliveira" ;
+ "2006" -- "Altigran Soares da Silva" ;
+ "2006" -- "Edleno Silva de Moura" ;
+ "2006" -- "João M. B. Cavalcanti" ;}
+subgraph cluster_8 {
+label = "Extração de Dados e Metadados em Textos Semi-estruturados usando HMMs.";
+ "2006" -- "Roberto Oliveira dos Santos" ;
+ "2006" -- "Filipe de Sá Mesquita" ;
+ "2006" -- "Altigran Soares da Silva" ;
+ "2006" -- "Eli Cortez C. Vilarinho" ;}
+subgraph cluster_9 {
+label = "Aplicação de Banco de Dados Orientado a Objetos na Modelagem Multidimensional.";
+ "2006" -- "Sueli de Fátima Poppi Borba" ;
+ "2006" -- "Aran Bey Tcholakian Morales" ;}
+subgraph cluster_10 {
+label = "Ferramenta para Geração de Modelo Dimensional para Data Warehouses.";
+ "2006" -- "Evelin Giuliana Lima" ;
+ "2006" -- "Marina Teresa Pires Vieira" ;}
+subgraph cluster_11 {
+label = "Melhorando o Desempenho do Processamento de Consultas Drill-Across em Ambientes de Data Warehousing.";
+ "2006" -- "Diogo Tuler Forlani" ;
+ "2006" -- "Cristina Dutra de Aguiar Ciferri" ;
+ "2006" -- "Ricardo Rodrigues Ciferri" ;}
+subgraph cluster_12 {
+label = "Towards Autonomic Index Maintenance.";
+ "2006" -- "Marcos Antonio Vaz Salles" ;
+ "2006" -- "Eduardo Terra Morelli" ;
+ "2006" -- "Sérgio Lifschitz" ;}
+subgraph cluster_13 {
+label = "ADAGA - ADaptive AGgregation Algorithm for Sensor Networks.";
+ "2006" -- "Angelo Brayner" ;
+ "2006" -- "Aretusa Lopes" ;
+ "2006" -- "Diorgens Meira" ;
+ "2006" -- "Ricardo Vasconcelos" ;
+ "2006" -- "Ronaldo Menezes" ;}
+subgraph cluster_14 {
+label = "OM: A Tunable Framework for Optimizing Continuous Queries over Data Streams.";
+ "2006" -- "Dhananjay Kulkarni" ;
+ "2006" -- "Chinya V. Ravishankar" ;}
+subgraph cluster_15 {
+label = "Automatic Generation of SQL/XML Views.";
+ "2006" -- "Vânia Maria Ponte Vidal" ;
+ "2006" -- "Marco A. Casanova" ;
+ "2006" -- "Fernando Cordeiro Lemos" ;}
+subgraph cluster_16 {
+label = "Geração Eficiente de Planos de Materialização para Documentos XML Ativos.";
+ "2006" -- "Daniela Pereira" ;
+ "2006" -- "Gabriela Ruberg" ;
+ "2006" -- "Marta Mattoso" ;}
+subgraph cluster_17 {
+label = "YAQCX: A Word-based Query-aware Compressor for XML Data.";
+ "2006" -- "Juliano Palmieri Lage" ;
+ "2006" -- "Alberto H. F. Laender" ;
+ "2006" -- "Edleno Silva de Moura" ;}
+subgraph cluster_18 {
+label = "An Efficient Approach to Scale up k-medoid based Algorithms in Large Databases.";
+ "2006" -- "Maria Camila Nardini Barioni" ;
+ "2006" -- "Humberto Luiz Razente" ;
+ "2006" -- "Agma J. M. Traina" ;
+ "2006" -- "Caetano Traina Jr." ;}
+subgraph cluster_19 {
+label = "Um Framework para Concepção de Ferramentas de Apoio à Decisão Baseadas em Ontologias.";
+ "2006" -- "Marcio Napoli" ;
+ "2006" -- "Denilson Sell" ;
+ "2006" -- "Luciano C. Liduário" ;
+ "2006" -- "Rodrigo F. Borges" ;
+ "2006" -- "José Leomar Todesco" ;
+ "2006" -- "Roberto Carlos dos Santos Pacheco" ;}
+subgraph cluster_20 {
+label = "ROSA+: Um Repositório de Objetos de Aprendizagem com Suporte a Inferência e Regras.";
+ "2006" -- "Diogo Mattos" ;
+ "2006" -- "Ana Maria de Carvalho Moura" ;
+ "2006" -- "Maria Cláudia Cavalcanti" ;}
+subgraph cluster_21 {
+label = "Data Management in P2P Systems.";
+ "2006" -- "Carlos Eduardo Santos Pires" ;
+ "2006" -- "Bernadette Farias Lóscio" ;
+ "2006" -- "Ana Carolina Salgado" ;}
+subgraph cluster_22 {
+label = "Data Stream Query Processing.";
+ "2006" -- "Nick Koudas" ;}
+subgraph cluster_23 {
+label = "An Introduction to Data Grid Management Systems (DGMS).";
+ "2006" -- "Arun Jagatheesan" ;}}

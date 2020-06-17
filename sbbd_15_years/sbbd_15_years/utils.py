@@ -49,6 +49,44 @@ def count_complete():
     with open('sbbd_15_years/sbbd_15_years/data/parsed/count_complete.json', 'w') as file:
         file.write(json.dumps(info, ensure_ascii=False))
 
+def count_complete_filtered():
+    with open('sbbd_15_years/sbbd_15_years/data/raw/count.json', 'r') as file:
+        data = json.load(file)
+
+    with open('sbbd_15_years/sbbd_15_years/data/raw/list_name', 'r') as file:
+        to_seek = []
+        for line in file:
+            to_seek.append(line[:-1])
+    to_seek.sort()
+
+    only_names = set()
+    for item in data:
+        only_names.add(item['name'])
+    only_names = sorted(list(only_names))
+
+    info = []
+    for name in only_names:
+        if name in to_seek:
+            tmp_data = []
+            cont = 0
+            for inst in data:
+                if name == inst['name']:
+                    url = inst['url']
+                    year = inst['year']
+                    category = inst['category']
+                    tmp_data.append({category: year})
+                    cont += 1
+            info.append({
+                'name': name,
+                'url': url,
+                'count': cont,
+                'publishes': tmp_data
+            })
+            del tmp_data
+
+    with open('sbbd_15_years/sbbd_15_years/data/parsed/count_complete_filtered.json', 'w') as file:
+        file.write(json.dumps(info, ensure_ascii=False))
+
 
 def correlation_duplicated():
 
@@ -141,3 +179,18 @@ def correlation_selected_names():
 
     with open('sbbd_15_years/sbbd_15_years/data/parsed/correlation_selected.json', 'w') as file:
         file.write(json.dumps(correlation, ensure_ascii=False))
+
+def json_to_graph():
+    with open('sbbd_15_years/sbbd_15_years/data/parsed/count_complete.json', 'r') as file:
+        data = json.load(file)
+
+    graph = []
+    for person in data:
+        inst = {}
+        inst['name'] = person['name']
+        inst['degree'] = person['count']
+        inst['edges'] = [value for value in person['publishes']]
+        graph.append(inst)
+
+    with open('sbbd_15_years/sbbd_15_years/data/parsed/graph.json', 'w') as file:
+        file.write(json.dumps(graph, ensure_ascii=False))
