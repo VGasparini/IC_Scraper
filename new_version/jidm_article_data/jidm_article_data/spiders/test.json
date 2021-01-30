@@ -1,0 +1,28 @@
+[
+  {
+    "nome": "Alex M. G. de Almeida",
+    "artigos": [
+      {
+        "id": "JHDHmCcTXZcAq498Tq5QMx",
+        "titulo": "Mineração em Grandes Massas de Dados Utilizando Hadoop MapReduce e Algoritmos Bio-inspirados: Uma Revisão Sistemática.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2016",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Revista de Informática Teórica e Aplicada - RITA",
+          "url": "https://dblp.org/db/journals/rita/rita23.xml"
+        }
+      },
+      {
+        "id": "WVQHhQCoqgKYkv8ZxQvnD6",
+        "titulo": "Uma abordagem para o particionamento de dados na nuvem baseada em relações de afinidade em grafos.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2014",
+        "tipo": "Books and Theses",
+        "veiculo": null
+      }
+    ]
+  }
+]

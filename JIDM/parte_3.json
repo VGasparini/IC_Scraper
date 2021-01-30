@@ -1,0 +1,83 @@
+({
+  "Cláudio Lima": {
+    "variacoes_conhecidas": ["Cláudio de Lima", "Cláudio Lima"],
+    "correspondencias_dblp": [
+      { "Cláudio Lima Ferreira": "https://dblp.org/pid/222/6509" },
+      { "Claudio Lima": "https://dblp.org/pid/54/3489" },
+      { "Claudio A. Lima": "https://dblp.org/pid/208/4034" },
+      {
+        "Cláudio Benevenuto de Campos Lima": "https://dblp.org/pid/168/7359"
+      },
+      { "Claudio de Lima": "https://dblp.org/pid/178/2056" },
+      { "Cláudio F. Lima": "https://dblp.org/pid/41/1955" },
+      { "Cláudio R. F. Lima": "https://dblp.org/pid/23/488" }
+    ]
+  }
+},
+{
+  "Fabio dos Santos": {
+    "variacoes_conhecidas": ["Fabio dos Santos"],
+    "correspondencias_dblp": [
+      { "Fábio Boaretti dos Santos": "https://dblp.org/pid/200/1754" },
+      { "Fabio dos Santos Alves": "https://dblp.org/pid/247/0308" },
+      { "Fabio dos Santos Ferreira": "https://dblp.org/pid/219/8255" },
+      { "Fabio dos Santos Lima": "https://dblp.org/pid/170/1676" },
+      { "Fabio A. Guidotti dos Santos": "https://dblp.org/pid/228/1733" },
+      {
+        "Fábio Alexandre Pereira dos Santos": "https://dblp.org/pid/122/3256"
+      },
+      { "Fabio Andre Garaluz dos Santos": "https://dblp.org/pid/137/0561" },
+      {
+        "Fábio Cosme Rodrigues dos Santos": "https://dblp.org/pid/196/7538"
+      },
+      { "Fabio Jose Justo dos Santos": "https://dblp.org/pid/144/3538" },
+      { "Fabio L. dos Santos": "https://dblp.org/pid/185/0093" },
+      { "Fabio L. M. dos Santos": "https://dblp.org/pid/132/8909" },
+      { "Fábio Mendes dos Santos": "https://dblp.org/pid/195/4246" },
+      { "Fábio Oliveira dos Santos": "https://dblp.org/pid/259/1989" },
+      { "Fabio Pinheiro dos Santos": "https://dblp.org/pid/192/5604" },
+      { "Fábio Rodrigues dos Santos": "https://dblp.org/pid/190/1324" },
+      {
+        "Fabio Henrique Kiyoiti dos Santos Tanaka": "https://dblp.org/pid/239/5774"
+      }
+    ]
+  }
+},
+{
+  "Fernando Moro": {
+    "variacoes_conhecidas": ["Fernando Moro"],
+    "correspondencias_dblp": [
+      { "Fernando Gomes Moro": "https://dblp.org/pid/222/7764" },
+      { "Fernando Rubiera Morollón": "https://dblp.org/pid/218/2913" }
+    ]
+  }
+},
+{
+  "Fernando Simon": {
+    "variacoes_conhecidas": ["Fernando Simon"],
+    "correspondencias_dblp": [
+      { "Fernando Guzmán-Simón": "https://dblp.org/pid/201/4493" },
+      { "Fernando José Garrigós Simón": "https://dblp.org/pid/81/7497" }
+    ]
+  }
+},
+{
+  "Luiz Gomes Jr.": {
+    "variacoes_conhecidas": ["Luiz Celso Gomes Jr.", "Luiz Gomes Jr."],
+    "correspondencias_dblp": [
+      { "Luiz C. Gomes-Jr": "https://dblp.org/pid/184/0284" },
+      { "Luiz Gomes Jr.": "https://dblp.org/pid/51/3518" },
+      { "Luiz Celso Gomes Jr.": "https://dblp.org/pid/68/6898" }
+    ]
+  }
+},
+{
+  "Rodrigo Machado": {
+    "variacoes_conhecidas": ["Rodrigo Machado"],
+    "correspondencias_dblp": [
+      { "Rodrigo Hahn": "https://dblp.org/pid/80/6793" },
+      { "Rodrigo Machado": "https://dblp.org/pid/33/4758" },
+      { "Rodrigo Prestes Machado": "https://dblp.org/pid/155/9666" }
+    ]
+  }
+})

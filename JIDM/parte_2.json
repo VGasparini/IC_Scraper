@@ -1,0 +1,173 @@
+({
+  "Alexandre Lazzaretti": {
+    "variacoes_conhecidas": ["Alexandre Lazzaretti", "Alexandre T. Lazzaretti"],
+    "correspondencias_dblp": [
+      { "Alexandre Lazzaretti": "https://dblp.org/pid/153/0837" },
+      { "Alexandre Tagliari Lazzaretti": "https://dblp.org/pid/08/5879" }
+    ]
+  }
+},
+{
+  "André S. Rosa": {
+    "variacoes_conhecidas": ["André S. Rosa", "André de Souza Rosa"],
+    "correspondencias_dblp": []
+  }
+},
+{
+  "Daniel Kuhn": {
+    "variacoes_conhecidas": ["Daniel Kuhn"],
+    "correspondencias_dblp": [
+      { "Daniel Kuehnhenrich": "https://dblp.org/pid/174/1110" },
+      { "Daniel Kuhn": "https://dblp.org/pid/35/479" },
+      { "Daniel Kühn": "https://dblp.org/pid/60/7746" },
+      { "Daniel Kuhner": "https://dblp.org/pid/135/8275" }
+    ]
+  }
+},
+{
+  "Danilo Carlo": {
+    "variacoes_conhecidas": ["Danilo Carlo"],
+    "correspondencias_dblp": [
+      { "Danilo Gomes Carlos": "https://dblp.org/pid/123/3071" }
+    ]
+  }
+},
+{
+  "Gustavo Kantorski": {
+    "variacoes_conhecidas": ["Gustavo Zanini Kantorski", "Gustavo Kantorski"],
+    "correspondencias_dblp": [
+      { "Gustavo Kantorski": "https://dblp.org/pid/45/283" },
+      { "Gustavo Zanini Kantorski": "https://dblp.org/pid/116/1417" }
+    ]
+  }
+},
+{
+  "Henrico B. Brum": {
+    "variacoes_conhecidas": ["Henrico B. Brum"],
+    "correspondencias_dblp": [
+      { "Henrico Bertini Brum": "https://dblp.org/pid/206/1135" },
+      { "Henrico Brum": "https://dblp.org/pid/181/7216" }
+    ]
+  }
+},
+{
+  "Jonathan Suter": {
+    "variacoes_conhecidas": ["Jonathan Suter"],
+    "correspondencias_dblp": [
+      { "Jonathan Suter": "https://dblp.org/pid/239/0386" },
+      { "Jonathan D. Suter": "https://dblp.org/pid/128/0086" }
+    ]
+  }
+},
+{
+  "Luiz Carlos Ribeiro Junior": {
+    "variacoes_conhecidas": ["Luiz Carlos Ribeiro Junior"],
+    "correspondencias_dblp": [
+      { "Luiz C. M. Ribeiro Jr.": "https://dblp.org/pid/177/4792" },
+      { "Luiz Carlos Ribeiro Junior": "https://dblp.org/pid/204/9208" }
+    ]
+  }
+},
+{
+  "Matheus Oliveira": {
+    "variacoes_conhecidas": ["Matheus Oliveira"],
+    "correspondencias_dblp": [
+      { "Matheus D. Croce": "https://dblp.org/pid/165/8266" },
+      {
+        "Matheus de Freitas Oliveira Baffa": "https://dblp.org/pid/234/2333"
+      },
+      {
+        "Matheus de Faria e Oliveira Barreto": "https://dblp.org/pid/160/4735"
+      },
+      { "Matheus de Oliveira Correia": "https://dblp.org/pid/210/3806" },
+      { "Matheus Oliveira Franca": "https://dblp.org/pid/249/8099" },
+      { "Matheus Oliveira": "https://dblp.org/pid/193/7940" },
+      { "Matheus A. de Oliveira": "https://dblp.org/pid/254/9252" },
+      { "Matheus B. de Oliveira": "https://dblp.org/pid/203/7643" },
+      { "Matheus Berger Oliveira": "https://dblp.org/pid/199/0841" },
+      { "Matheus de Oliveira": "https://dblp.org/pid/10/8971" },
+      { "Matheus F. de Oliveira": "https://dblp.org/pid/175/0225" },
+      { "Matheus R. Oliveira": "https://dblp.org/pid/188/3719" },
+      { "Matheus S. De Oliveira": "https://dblp.org/pid/235/6486" },
+      {
+        "Matheus Alberto de Oliveira Ribeiro": "https://dblp.org/pid/209/6650"
+      },
+      { "Matheus de Oliveira Salim": "https://dblp.org/pid/218/4918" }
+    ]
+  }
+},
+{
+  "Michel Costa": {
+    "variacoes_conhecidas": ["Michel Costa"],
+    "correspondencias_dblp": [
+      { "Michel Costa": "https://dblp.org/pid/255/9975" }
+    ]
+  }
+},
+{
+  "Rebeca Schroeder": {
+    "variacoes_conhecidas": ["Rebeca Schroeder"],
+    "correspondencias_dblp": [
+      { "Rebeca Schroeder Freitas": "https://dblp.org/pid/181/1333" },
+      { "Rebeca Schroeder": "https://dblp.org/pid/22/1102" }
+    ]
+  }
+},
+{
+  "Robinson F. de Camargo": {
+    "variacoes_conhecidas": ["Robinson F. de Camargo"],
+    "correspondencias_dblp": [
+      { "Robinson Figueiredo de Camargo": "https://dblp.org/pid/215/1457" },
+      { "Robinson F. de Camargo": "https://dblp.org/pid/215/1560" }
+    ]
+  }
+},
+{
+  "Rodrigo C. Barros": {
+    "variacoes_conhecidas": ["Rodrigo C. Barros"],
+    "correspondencias_dblp": [
+      { "Rodrigo C. Barros": "https://dblp.org/pid/33/1197" },
+      { "Rodrigo Barros Castro": "https://dblp.org/pid/231/5947" }
+    ]
+  }
+},
+{
+  "Rodrigo Moreira": {
+    "variacoes_conhecidas": ["Rodrigo Moreira"],
+    "correspondencias_dblp": [
+      { "Rodrigo Vicencio-Moreira": "https://dblp.org/pid/144/5267" },
+      { "Rodrigo Moreira Bacurau": "https://dblp.org/pid/117/9538" },
+      { "Rodrigo Moreira": "https://dblp.org/pid/224/6898" },
+      {
+        "Rodrigo Bossini Tavares Moreira": "https://dblp.org/pid/142/9262"
+      },
+      { "Rodrigo da Silva Moreira": "https://dblp.org/pid/143/7509" },
+      { "Rodrigo M. L. M. Moreira": "https://dblp.org/pid/97/2111" },
+      { "Rodrigo Moreira Silveira": "https://dblp.org/pid/74/10160" }
+    ]
+  }
+},
+{
+  "Roger Monteiro": {
+    "variacoes_conhecidas": ["Roger Monteiro"],
+    "correspondencias_dblp": []
+  }
+},
+{
+  "Sandro Rigo": {
+    "variacoes_conhecidas": ["Sandro Rigo"],
+    "correspondencias_dblp": [
+      { "Sandro Rigo": "https://dblp.org/pid/79/2208" },
+      { "Sandro José Rigo": "https://dblp.org/pid/48/4922" }
+    ]
+  }
+},
+{
+  "Sílvio Cazella": {
+    "variacoes_conhecidas": ["Sílvio Cazella"],
+    "correspondencias_dblp": [
+      { "Silvio Cazella": "https://dblp.org/pid/11/10708" },
+      { "Sílvio César Cazella": "https://dblp.org/pid/92/1958" }
+    ]
+  }
+})

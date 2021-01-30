@@ -1,0 +1,50 @@
+({
+  "Cláudio Lima": {
+    "variacoes_conhecidas": ["Cláudio de Lima", "Cláudio Lima"],
+    "correspondencias_dblp": [
+      { "Claudio de Lima": "https://dblp.org/pid/178/2056" }
+    ]
+  }
+},
+{
+  "Fabio dos Santos": {
+    "variacoes_conhecidas": ["Fabio dos Santos"],
+    "correspondencias_dblp": [
+      { "Fabio Andre Garaluz dos Santos": "https://dblp.org/pid/137/0561" }
+    ]
+  }
+},
+{
+  "Fernando Moro": {
+    "variacoes_conhecidas": ["Fernando Moro"],
+    "correspondencias_dblp": [
+      { "Fernando Gomes Moro": "https://dblp.org/pid/222/7764" },
+    ]
+  }
+},
+{
+  "Fernando Simon": {
+    "variacoes_conhecidas": ["Fernando Simon"],
+    "correspondencias_dblp": [
+      // não achei no dblp, mas ele possui currículo no lattes.
+    ]
+  }
+},
+{
+  "Luiz Gomes Jr.": {
+    "variacoes_conhecidas": ["Luiz Celso Gomes Jr.", "Luiz Gomes Jr."],
+    "correspondencias_dblp": [
+      { "Luiz C. Gomes-Jr": "https://dblp.org/pid/184/0284" },
+      { "Luiz Gomes Jr.": "https://dblp.org/pid/51/3518" },
+      { "Luiz Celso Gomes Jr.": "https://dblp.org/pid/68/6898" }
+    ]
+  }
+},
+{
+  "Rodrigo Machado": {
+    "variacoes_conhecidas": ["Rodrigo Machado"],
+    "correspondencias_dblp": [
+      { "Rodrigo Machado": "https://dblp.org/pid/33/4758" },
+    ]
+  }
+})

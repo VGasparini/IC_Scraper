@@ -1,0 +1,116 @@
+({
+  "Alexandre Lazzaretti": {
+    "variacoes_conhecidas": ["Alexandre Lazzaretti", "Alexandre T. Lazzaretti"],
+    "correspondencias_dblp": [
+      { "Alexandre Lazzaretti": "https://dblp.org/pid/153/0837" },
+      { "Alexandre Tagliari Lazzaretti": "https://dblp.org/pid/08/5879" }
+    ]
+  }
+},
+{
+  "André S. Rosa": {
+    "variacoes_conhecidas": ["André S. Rosa", "André de Souza Rosa"],
+    "correspondencias_dblp": []
+  }
+},
+{
+  "Daniel Kuhn": {
+    "variacoes_conhecidas": ["Daniel Kuhn"],
+    "correspondencias_dblp": []
+  }
+},
+{
+  "Danilo Carlo": {
+    "variacoes_conhecidas": ["Danilo Carlo"],
+    "correspondencias_dblp": [ ]
+  }
+},
+{
+  "Gustavo Kantorski": {
+    "variacoes_conhecidas": ["Gustavo Zanini Kantorski", "Gustavo Kantorski"],
+    "correspondencias_dblp": [
+      { "Gustavo Kantorski": "https://dblp.org/pid/45/283" },
+      { "Gustavo Zanini Kantorski": "https://dblp.org/pid/116/1417" }
+    ]
+  }
+},
+{
+  "Henrico B. Brum": {
+    "variacoes_conhecidas": ["Henrico B. Brum"],
+    "correspondencias_dblp": [
+      { "Henrico Bertini Brum": "https://dblp.org/pid/206/1135" },
+      { "Henrico Brum": "https://dblp.org/pid/181/7216" }
+    ]
+  }
+},
+{
+  "Jonathan Suter": {
+    "variacoes_conhecidas": ["Jonathan Suter"],
+    "correspondencias_dblp": [  ]
+  }
+},
+{
+  "Luiz Carlos Ribeiro Junior": {
+    "variacoes_conhecidas": ["Luiz Carlos Ribeiro Junior"],
+    "correspondencias_dblp": [  ]
+  }
+},
+{
+  "Matheus Oliveira": {
+    "variacoes_conhecidas": ["Matheus Oliveira"],
+    "correspondencias_dblp": [ ]
+  }
+},
+{
+  "Michel Costa": {
+    "variacoes_conhecidas": ["Michel Costa"],
+    "correspondencias_dblp": []
+  }
+},
+{
+  "Rebeca Schroeder": {
+    "variacoes_conhecidas": ["Rebeca Schroeder"],
+    "correspondencias_dblp": [
+      { "Rebeca Schroeder Freitas": "https://dblp.org/pid/181/1333" },
+      { "Rebeca Schroeder": "https://dblp.org/pid/22/1102" }
+    ]
+  }
+},
+{
+  "Robinson F. de Camargo": {
+    "variacoes_conhecidas": ["Robinson F. de Camargo"],
+    "correspondencias_dblp": ["Ele não é o primeiro autor do artigo - está errado na planilha da Rebeca", "Correto: Tácio Castanhede - não tem DBLP"]
+  }
+},
+{
+  "Rodrigo C. Barros": {
+    "variacoes_conhecidas": ["Rodrigo C. Barros"],
+    "correspondencias_dblp": [
+      { "Rodrigo C. Barros": "https://dblp.org/pid/33/1197" } ]
+  }
+},
+{
+  "Rodrigo Moreira": {
+    "variacoes_conhecidas": ["Rodrigo Moreira"],
+    "correspondencias_dblp": [
+      { "Rodrigo Moreira": "https://dblp.org/pid/224/6898" }]
+  }
+},
+{
+  "Roger Monteiro": {
+    "variacoes_conhecidas": ["Roger Monteiro"],
+    "correspondencias_dblp": []
+  }
+},
+{
+  "Sandro Rigo": {
+    "variacoes_conhecidas": ["Sandro Rigo"],
+    "correspondencias_dblp": ["Ele não é o primeiro autor do artigo - está errado na planilha da Rebeca", "Correto: Marco Schwertner - tem DBLP: Marco Antônio Schwertner"  ]
+  }
+},
+{
+  "Sílvio Cazella": {
+    "variacoes_conhecidas": ["Sílvio Cazella"],
+    "correspondencias_dblp": ["Ele não é o primeiro autor do artigo - está errado na planilha da Rebeca", "Correto: Paulo Gillmeister - não tem DBLP"]
+  }
+})

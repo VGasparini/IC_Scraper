@@ -1,0 +1,28 @@
+﻿[
+  {
+    "Fabio Lopes": {
+      "variacoes_conhecidas": ["Fabio Lopes"],
+      "correspondencias_dblp": [    ]
+    }
+  },
+  {
+    "Marcelo Ferreira": {
+      "variacoes_conhecidas": ["Marcelo Ferreira"],
+      "correspondencias_dblp": [  ]
+    }
+  },
+  {
+    "Mário Martins": {
+      "variacoes_conhecidas": ["Mário Martins"],
+      "correspondencias_dblp": [  ]
+    }
+  },
+  {
+    "Rodrigo Gonçalves": {
+      "variacoes_conhecidas": ["Rodrigo Gonçalves"],
+      "correspondencias_dblp": [
+        { "Rodrigo Gonçalves": "https://dblp.org/pid/94/5793" }
+      ]
+    }
+  }
+]

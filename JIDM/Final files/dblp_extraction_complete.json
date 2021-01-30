@@ -1,0 +1,3432 @@
+[
+  {
+    "nome": "Alex M. G. de Almeida",
+    "artigos": [
+      {
+        "id": "U3rUzZiKRKCasADuvfqMZc",
+        "titulo": "Applying multi-label techniques in emotion identification of short texts.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Neurocomputing",
+          "edicao": "Neurocomputing, Volume 320",
+          "url": "https://dblp.org/db/journals/ijon/ijon320.xml"
+        }
+      },
+      {
+        "id": "KzMxiEy7qihePQkpEDQCt2",
+        "titulo": "Multi-class Emotions Classification by Sentic Levels as Features in Sentiment Analysis.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2016",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "BRACIS",
+          "edicao": "5th BRACIS 2016:\nRecife, Brazil",
+          "url": "https://dblp.org/db/conf/bracis/bracis2016.xml"
+        }
+      },
+      {
+        "id": "WnGR55dM3tGUbicwEyk53Q",
+        "titulo": "Recognition of Compromised Accounts on Twitter.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2015",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBSI",
+          "edicao": "SBSI 2015:\nGoiânia, Brazil",
+          "url": "https://dblp.org/db/conf/sbsi/sbsi2015.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/194/6129"
+  },
+  {
+    "nome": "Alex Sandro Romeo de Souza Poletto",
+    "artigos": [
+      {
+        "id": "nswZqeMiKTPVsyEXhmwcsE",
+        "titulo": "Work in progress - Software residency: A contribution for professional maturity.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2011",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "FIE",
+          "edicao": "FIE 2011:\nRapid City, SD, USA",
+          "url": "https://dblp.org/db/conf/fie/fie2011.xml"
+        }
+      },
+      {
+        "id": "7jsTRXu55NRc7U9XHvVTBC",
+        "titulo": "Modeling of an analytical database system.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2007",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ICEIS",
+          "edicao": "9th ICEIS 2007:\nFunchal, Madeira, Portugal",
+          "url": "https://dblp.org/db/conf/iceis/iceis2007-1.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/38/2915"
+  },
+  {
+    "nome": "Alexander Vinson",
+    "artigos": [
+      {
+        "id": "dCK55yxyok2bdgLrNGzirw",
+        "titulo": "An approach to XML path matching.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2007",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "WIDM",
+          "edicao": "WIDM 2007:\nLisbon, Portugal",
+          "url": "https://dblp.org/db/conf/widm/widm2007.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/80/288"
+  },
+  {
+    "nome": "Alexandre Lazzaretti",
+    "artigos": [
+      {
+        "id": "8TAqiRN33vmkc82hJnPuAZ",
+        "titulo": "A Domain Integrity Constraint Control for XML Documents.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2005",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "20th SBBD 2005:\nUberlândia, MG, Brazil",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2005.xml"
+        }
+      },
+      {
+        "id": "29umhUujUphNSYmS8TtNGu",
+        "titulo": "Information Architecture for Crop Growth Simulation Model Applications.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2011",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "HAICTA",
+          "edicao": "HAICTA 2011:\nSkiathos, Greece",
+          "url": "https://dblp.org/db/conf/haicta/haicta2011.xml"
+        }
+      }
+    ],
+    "url": ["https://dblp.org/pid/08/5879", "https://dblp.org/pid/153/0837"]
+  },
+  {
+    "nome": "André Aráujo",
+    "artigos": [
+      {
+        "id": "kd7Up25fSC5Q8HHp9CUqth",
+        "titulo": "A Tool for Generating Health Applications Using Archetypes.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "IEEE Software",
+          "edicao": "IEEE Software, Volume 37",
+          "url": "https://dblp.org/db/journals/software/software37.xml"
+        }
+      },
+      {
+        "id": "4YymzoDQuP7PV2SCMZ9PeQ",
+        "titulo": "A Microservice-Based Approach for Increasing Software Reusability in Health Applications.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "AICCSA",
+          "edicao": "16th AICCSA 2019:\nAbu Dhabi, UAE",
+          "url": "https://dblp.org/db/conf/aiccsa/aiccsa2019.xml"
+        }
+      },
+      {
+        "id": "nN7crxPnajyXsqyT2YKRwe",
+        "titulo": "Template4EHR: Building Dynamically GUIs for the Electronic Health Records Using Archetypes.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2016",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "CIT",
+          "edicao": "16. CIT 2016:\nNadi, Fiji",
+          "url": "https://dblp.org/db/conf/IEEEcit/IEEEcit2016.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/196/4168"
+  },
+  {
+    "nome": "André Dias Bastos",
+    "artigos": [
+      {
+        "id": "UPKEaarBwp2pNjdnjSfb4W",
+        "titulo": "Urban Planning by Simulation of Population Growth.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2004",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "GeoInfo",
+          "edicao": "GeoInfo 2004:\nCampos do Jordão, São Paulo, Brazil",
+          "url": "https://dblp.org/db/conf/geoinfo/geoinfo2004.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/29/5210"
+  },
+  {
+    "nome": "Angelo Frozza",
+    "artigos": [
+      {
+        "id": "8eyg9f2WiUZFEadZekc3xe",
+        "titulo": "MASTER: A Multiple Aspects View on Trajectories.",
+        "fonte": "dblp",
+        "ordem": 6,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SEBD",
+          "edicao": "28th SEBD 2020:\nVillasimius, Sud Sardegna, Italy",
+          "url": "https://dblp.org/db/conf/sebd/sebd2020.xml"
+        }
+      },
+      {
+        "id": "moByonY7nsEKMxJD7RzuQV",
+        "titulo": "MASTER: A multiple aspect view on trajectories.",
+        "fonte": "dblp",
+        "ordem": 6,
+        "ano": "2019",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Transactions in GIS",
+          "edicao": "Transactions in GIS, Volume 23",
+          "url": "https://dblp.org/db/journals/tgis/tgis23.xml"
+        }
+      },
+      {
+        "id": "XowzSEVYFJvAXrrejcDZLT",
+        "titulo": "An Approach for Schema Extraction of JSON and Extended JSON Document Collections.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IRI",
+          "edicao": "19th IRI 2018:\nSalt Lake City, UT, USA",
+          "url": "https://dblp.org/db/conf/iri/iri2018.xml"
+        }
+      },
+      {
+        "id": "MwgqB2z4DtZ7frNsW42kHe",
+        "titulo": "A Process for Reverse Engineering of Aggregate-Oriented NoSQL Databases with Emphasis on Geographic Data.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "33rd SBBD 2018:\nRio de Janeiro, RJ, Brazil - Proceeedings Companion",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2018c.xml"
+        }
+      },
+      {
+        "id": "D9UsmtoAjXTgfLVexvZvAV",
+        "titulo": "Um Método para Determinar a Equivalência Semântica entre Esquemas GML.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2006",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "GeoInfo",
+          "edicao": "GeoInfo 2006:\nCampos do Jordão, São Paulo, Brazil",
+          "url": "https://dblp.org/db/conf/geoinfo/geoinfo2006.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/77/3587"
+  },
+  {
+    "nome": "Ângelo N. V. Crestani",
+    "artigos": [
+      {
+        "id": "RsH4YFpTXyxfYrFUn8fSi7",
+        "titulo": "ISABEL: Infrastructure-Agnostic Benchmark Framework for Cloud-Native Platforms.",
+        "fonte": "dblp",
+        "ordem": 5,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "CLOSER",
+          "edicao": "10th CLOSER 2020:\nPrague, Czech Republic",
+          "url": "https://dblp.org/db/conf/closer/closer2020.xml"
+        }
+      },
+      {
+        "id": "Yjg9oEEBnuPC2JEnp4QA9P",
+        "titulo": "IRENE: Interference and High Availability Aware Microservice-based Applications Placement for Edge Computing.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "CLOSER",
+          "edicao": "10th CLOSER 2020:\nPrague, Czech Republic",
+          "url": "https://dblp.org/db/conf/closer/closer2020.xml"
+        }
+      },
+      {
+        "id": "bnoo27fV8Yju9RZvsXw6JM",
+        "titulo": "The Impact of Parallel Programming Interfaces on the Aging of a Multicore Embedded Processor.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ISCAS",
+          "edicao": "ISCAS 2019:\nSapporo, Japan",
+          "url": "https://dblp.org/db/conf/iscas/iscas2019.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/244/7699"
+  },
+  {
+    "nome": "Augusto B. Corrêa",
+    "artigos": [
+      {
+        "id": "bBo7VdXARwQHGuQEfuA48R",
+        "titulo": "Lifted Successor Generation Using Query Optimization Techniques.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ICAPS",
+          "edicao": "30th ICAPS 2020:\nNancy, France",
+          "url": "https://dblp.org/db/conf/aips/icaps2020.xml"
+        }
+      },
+      {
+        "id": "FFNLodJBPNMNaAFrDxbznw",
+        "titulo": "An Empirical Study of Perfect Potential Heuristics.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ICAPS",
+          "edicao": "29th ICAPS 2019:\nBerkeley, CA, USA",
+          "url": "https://dblp.org/db/conf/aips/icaps2019.xml"
+        }
+      },
+      {
+        "id": "JF66iW9VYmk4npJRJcHTRd",
+        "titulo": "Generalized Potential Heuristics for Classical Planning.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IJCAI",
+          "edicao": "28th IJCAI 2019:\nMacao, China",
+          "url": "https://dblp.org/db/conf/ijcai/ijcai2019.xml"
+        }
+      },
+      {
+        "id": "T3qMgovfAuaqHmvqMZJWVf",
+        "titulo": "Analyzing Tie-Breaking Strategies for the A* Algorithm.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IJCAI",
+          "edicao": "27th IJCAI 2018:\nStockholm, Sweden",
+          "url": "https://dblp.org/db/conf/ijcai/ijcai2018.xml"
+        }
+      },
+      {
+        "id": "ZYzdiewvdHNoK4h4txGVeG",
+        "titulo": "Improved Airport Ground Traffic Control with Domain-Dependent Heuristics.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2016",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "BRACIS",
+          "edicao": "5th BRACIS 2016:\nRecife, Brazil",
+          "url": "https://dblp.org/db/conf/bracis/bracis2016.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/194/6171"
+  },
+  {
+    "nome": "Bruno Agostinho",
+    "artigos": [
+      {
+        "id": "5LhcZsLuakMqqDD85qHFu8",
+        "titulo": "Omniconn: An Architecture for Heterogeneous Devices Interoperability on Industrial Internet of Things.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "3PGCIC",
+          "edicao": "14th 3PGCIC 2019:\nAntwerp, Belgium",
+          "url": "https://dblp.org/db/conf/3pgcic/3pgcic2019.xml"
+        }
+      },
+      {
+        "id": "kfjGjggDcsePmzFmtpuNZ5",
+        "titulo": "Smart Comm: A Smart Home Middleware Supporting Information Exchange.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IECON",
+          "edicao": "44th IECON 2018:\nWashington, DC, USA",
+          "url": "https://dblp.org/db/conf/iecon/iecon2018.xml"
+        }
+      },
+      {
+        "id": "jYn23JUN6AurAJYh8uLXYu",
+        "titulo": "Privacy Preserving on Trajectories Created by Wi-Fi Connections in a University Campus.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ISI",
+          "edicao": "ISI 2018:\nMiami, FL, USA",
+          "url": "https://dblp.org/db/conf/isi/isi2018.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/232/5612"
+  },
+  {
+    "nome": "Carlos Eduardo Pires",
+    "artigos": [
+      {
+        "id": "QihtuR9fH9sej8Q9aVkJ3C",
+        "titulo": "A Study on the Relationship between Internal and External Validity Indices Applied to Partitioning and Density-based Clustering Algorithms.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ICEIS",
+          "edicao": "19th ICEIS 2017:\nPorto, Portugal",
+          "url": "https://dblp.org/db/conf/iceis/iceis2017-1.xml"
+        }
+      },
+      {
+        "id": "Qsec6Mzsnpfy6G2UA8ev5L",
+        "titulo": "A methodology for selecting the most suitable cluster validation internal indices.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SAC",
+          "edicao": "31. SAC 2016:\nPisa, Italy",
+          "url": "https://dblp.org/db/conf/sac/sac2016.xml"
+        }
+      },
+      {
+        "id": "Zk6TFp222VN22Kpi2HyAri",
+        "titulo": "ARGOsearch: An Information Retrieval System Based on Text Similarity and Extensible Relevance Criteria.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SCCC",
+          "edicao": "31st SCCC 2012:\nValparaíso, Chile",
+          "url": "https://dblp.org/db/conf/sccc/sccc2012.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/59/4336"
+  },
+  {
+    "nome": "Caroline Tomasini",
+    "artigos": [
+      {
+        "id": "ZBUWQto2v5ZvdfAn7NrrhA",
+        "titulo": "Reactive microservices for the internet of things: a case study in fog computing.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2017",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SAC",
+          "edicao": "34th SAC 2019:\nLimassol, Cyprus",
+          "url": "https://dblp.org/db/conf/sac/sac2019.xml"
+        }
+      },
+      {
+        "id": "jE9qq5p2tWomXK9kNxjYqi",
+        "titulo": "A reliable architecture based on reactive microservices for IoT applications.",
+        "fonte": "dblp",
+        "ordem": 6,
+        "ano": "2016",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "WebMedia",
+          "edicao": "24th WebMedia 2019:\nRio de Janeiro, Brazil",
+          "url": "https://dblp.org/db/conf/webmedia/webmedia2019.xml"
+        }
+      },
+      {
+        "id": "5zVHqmywovUucyQNFq6okx",
+        "titulo": "Web of Things Data Visualization: From Devices to Web Via Fog and Cloud Computing.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2012",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "WETICE",
+          "edicao": "28th WETICE 2019:\nNaples, Italy",
+          "url": "https://dblp.org/db/conf/wetice/wetice2019.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/139/3262"
+  },
+  {
+    "nome": "Cassio Prazeres",
+    "artigos": [
+      {
+        "id": "XmTX2ohcvtSMstd2pNSyq7",
+        "titulo": "Twisting the Metric Space to Achieve Better Metric Trees.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "19th SBBD 2004:\nBrasília, DF, Brazil",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2004.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/06/710"
+  },
+  {
+    "nome": "César Feijó Nadvorny",
+    "artigos": [
+      {
+        "id": "BALQSzQTD9JAxcQPdVLoW6",
+        "titulo": "On proposing and evaluating a NoSQL document database logical approach.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2004",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "International Journal of Web Information Systems",
+          "edicao": "International Journal of Web Information Systems, Volume 12",
+          "url": "https://dblp.org/db/journals/ijwis/ijwis12.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/35/559"
+  },
+  {
+    "nome": "Cláudio Lima",
+    "artigos": [
+      {
+        "id": "Y34t3yrn7RJ9yB2Nf8Sz2d",
+        "titulo": "PragmaticOIE: a pragmatic open information extraction for Portuguese language.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2016",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Knowledge and Information Systems",
+          "edicao": "Knowledge and Information Systems, Volume 62",
+          "url": "https://dblp.org/db/journals/kais/kais62.xml"
+        }
+      },
+      {
+        "id": "BRcWxfciHrCf8ZT6KvbQhK",
+        "titulo": "InferPortOIE: A Portuguese Open Information Extraction system with inferences.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2015",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Natural Language Engineering",
+          "edicao": "Natural Language Engineering, Volume 25",
+          "url": "https://dblp.org/db/journals/nle/nle25.xml"
+        }
+      },
+      {
+        "id": "EL9vTAFpF5nLJV6coF8kWK",
+        "titulo": "The Baquara",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2020",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Data & Knowledge Engineering",
+          "edicao": "Data & Knowledge Engineering, Volume 98",
+          "url": "https://dblp.org/db/journals/dke/dke98.xml"
+        }
+      },
+      {
+        "id": "XYShvBowsb6AixAzFdk3Hb",
+        "titulo": "Semantic enrichment and analysis of movement data: probably it is just starting!",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2019",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "ACM SIGSPATIAL Special",
+          "edicao": "ACM SIGSPATIAL Special, Volume 7",
+          "url": "https://dblp.org/db/journals/sigspatial/sigspatial7.xml"
+        }
+      },
+      {
+        "id": "8AN86W8fniHDncjrnRsEwC",
+        "titulo": "A Semantic Model for Movement Data Warehouses.",
+        "fonte": "dblp",
+        "ordem": 5,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "DOLAP",
+          "edicao": "17. DOLAP 2014:\nShanghai, China",
+          "url": "https://dblp.org/db/conf/dolap/dolap2014.xml"
+        }
+      }
+    ],
+    "url": ["https://dblp.org/pid/178/2056", "https://dblp.org/pid/201/2468"]
+  },
+  {
+    "nome": "Cleto May",
+    "artigos": [
+      {
+        "id": "BBoGiApQxJx3HCsQESzXMU",
+        "titulo": "Design and Implementation of ProteinWorldDB.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2015",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "BSB",
+          "edicao": "BSB 2012:\nCampo Grande, Brazil",
+          "url": "https://dblp.org/db/conf/wob/bsb2012.xml"
+        }
+      },
+      {
+        "id": "dM6HKagzXgcGppf95RMttz",
+        "titulo": "ProteinWorldDB: querying radical pairwise alignments among protein sets from complete genomes.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2015",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Bioinformatics",
+          "edicao": "Bioinformatics, Volume 26",
+          "url": "https://dblp.org/db/journals/bioinformatics/bioinformatics26.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/153/4206"
+  },
+  {
+    "nome": "Cristian Tristão",
+    "artigos": [
+      {
+        "id": "cmJw8fS8Knngu8D4WUCadP",
+        "titulo": "A large scale empirical study of the impact of Spaghetti Code and Blob anti-patterns on program comprehension.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2012",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Information & Software Technology",
+          "edicao": "Information & Software Technology, Volume 122",
+          "url": "https://dblp.org/db/journals/infsof/infsof122.xml"
+        }
+      },
+      {
+        "id": "f2PtnyZELTeeZS2TUrimN8",
+        "titulo": "Dataset of Video Game Development Problems.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2010",
+        "tipo": "Informal and Other Publications",
+        "veiculo": {
+          "nome": "CoRR",
+          "edicao": "CoRR, January 2020",
+          "url": "https://dblp.org/db/journals/corr/corr2001.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/36/7970"
+  },
+  {
+    "nome": "Cristiano Politowski",
+    "artigos": [
+      {
+        "id": "akruGhyiNfL8fJgR4Byt9A",
+        "titulo": "EEG wave analysis and its application in assistive technologies context for environment control.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IHC",
+          "edicao": "IHC 2015:\nSalvador, Brazil",
+          "url": "https://dblp.org/db/conf/ihc/ihc2015.xml"
+        }
+      },
+      {
+        "id": "f3H7bqQS3ufTzxsfW95XJQ",
+        "titulo": "Face detection method and vivacity: exploring new paradigms interaction.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IHC",
+          "edicao": "IHC 2015:\nSalvador, Brazil",
+          "url": "https://dblp.org/db/conf/ihc/ihc2015.xml"
+        }
+      },
+      {
+        "id": "MHswBkoVLuFQ8XKMmSuACP",
+        "titulo": "Generation glosses: expanding the frontiers interactional in translation process for brazilian sign language.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IHC",
+          "edicao": "IHC 2015:\nSalvador, Brazil",
+          "url": "https://dblp.org/db/conf/ihc/ihc2015.xml"
+        }
+      },
+      {
+        "id": "iwhf56zgK2DXkEiLBSQJLv",
+        "titulo": "Indoor navigation based on RFID tags: orientation possibilities for visually impaired.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IHC",
+          "edicao": "IHC 2015:\nSalvador, Brazil",
+          "url": "https://dblp.org/db/conf/ihc/ihc2015.xml"
+        }
+      },
+      {
+        "id": "5MLgdRKMvpabumCPs5tMoz",
+        "titulo": "Padrões de interface, gameficação e mobilidade no desenvolvimento de aplicações educacionais.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2016",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IHC",
+          "edicao": "IHC 2014:\nFoz do Iguaçu, Brazil",
+          "url": "https://dblp.org/db/conf/ihc/ihc2014.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/180/3296"
+  },
+  {
+    "nome": "Cristina Paludo Santos",
+    "artigos": [
+      {
+        "id": "buiHEQUczR4wx6fKhDcuPc",
+        "titulo": "Bacterial colonies as complex adaptive systems.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2015",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Natural Computing",
+          "edicao": "Natural Computing, Volume 17",
+          "url": "https://dblp.org/db/journals/nc/nc17.xml"
+        }
+      },
+      {
+        "id": "62a6MKSJEngubraDKBLv4H",
+        "titulo": "Evolutionary and Immune Algorithms Applied to Association Rule Mining in Static and Stream Data.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2015",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "CEC",
+          "edicao": "CEC 2018:\nRio de Janeiro, Brazil",
+          "url": "https://dblp.org/db/conf/cec/cec2018.xml"
+        }
+      },
+      {
+        "id": "kuSkVn6stRTTJWoaabRAjb",
+        "titulo": "Bacterial Colony Algorithms Applied to Association Rule Mining in Static Data and Streams.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2015",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "PAAMS",
+          "edicao": "16th PAAMS 2018:\nToledo, Spain - Workshops",
+          "url": "https://dblp.org/db/conf/paams/paams2018w.xml"
+        }
+      },
+      {
+        "id": "9sw7VYeRsuDKJyTvWmwpBy",
+        "titulo": "Bio-inspired multiobjective clustering optimization: A survey and a proposal.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2015",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Artificial Intelligence Research",
+          "edicao": "Artificial Intelligence Research, Volume 6",
+          "url": "https://dblp.org/db/journals/aires/aires6.xml"
+        }
+      },
+      {
+        "id": "J5nzbeMPq7TzqDk3sDjtnm",
+        "titulo": "A Bacterial Colony Algorithm for Association Rule Mining.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2014",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IDEAL",
+          "edicao": "16th IDEAL 2015:\nWroclaw, Poland",
+          "url": "https://dblp.org/db/conf/ideal/ideal2015.xml"
+        }
+      },
+      {
+        "id": "5DN8vULt9CaoTcdpSNWxBZ",
+        "titulo": "Evolutionary and Immune Algorithms Applied to Association Rule Mining.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2009",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SEMCCO",
+          "edicao": "SEMCCO 2012:\nBhubaneswar, India",
+          "url": "https://dblp.org/db/conf/semcco/semcco2012.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/54/5917"
+  },
+  {
+    "nome": "Danilo S. da Cunha",
+    "artigos": [
+      {
+        "id": "5RgWZyc2YWzPKAywXxqyki",
+        "titulo": "An e-Health Study Case Environment Enhanced by the Utilization of a Quality of Context Paradigm.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ISCC",
+          "edicao": "23rd ISCC 2018:\nNatal, Brazil",
+          "url": "https://dblp.org/db/conf/iscc/iscc2018.xml"
+        }
+      },
+      {
+        "id": "ErVZw8qBFkF2xBLKniyWfU",
+        "titulo": "In Silico Predictions for Fucoxanthin Production by the Diatom Phaeodactylum Tricornutum.",
+        "fonte": "dblp",
+        "ordem": 5,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "PACBB",
+          "edicao": "PACBB 2018:\nToledo, Spain",
+          "url": "https://dblp.org/db/conf/pacbb/pacbb2018.xml"
+        }
+      },
+      {
+        "id": "gyQXTwdxh8PoPgCSvAykiT",
+        "titulo": "17α-Ethinylestradiol Analysis of Endo- and Exometabolome of Ulva lactuca (Chlorophyta) by 1H-NMR Spectroscopy and Bioinformatics Tools.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "PACBB",
+          "edicao": "PACBB 2018:\nToledo, Spain",
+          "url": "https://dblp.org/db/conf/pacbb/pacbb2018.xml"
+        }
+      },
+      {
+        "id": "U9CDvgBP93f3w7MxpiSVSo",
+        "titulo": "Quality of Context Evaluating Approach in AAL Environment Using IoT Technology.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2017",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "CBMS",
+          "edicao": "30th CBMS 2017:\nThessaloniki, Greece",
+          "url": "https://dblp.org/db/conf/cbms/cbms2017.xml"
+        }
+      },
+      {
+        "id": "M7XGYtyLEtAYELrk7ReUfh",
+        "titulo": "Influence of Solar Radiation on the Production of Secondary Metabolites in Three Rice (Oryza sativa) Cultivars.",
+        "fonte": "dblp",
+        "ordem": 8,
+        "ano": "2015",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "PACBB",
+          "edicao": "PACBB 2017:\nPorto, Portugal",
+          "url": "https://dblp.org/db/conf/pacbb/pacbb2017.xml"
+        }
+      },
+      {
+        "id": "9HYWJnwsMAEKKL6KwaVKi9",
+        "titulo": "An eHealth Context Management and Distribution Approach in AAL Environments.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2012",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "CBMS",
+          "edicao": "CBMS 2016:\nDublin, Ireland / Belfast, UK",
+          "url": "https://dblp.org/db/conf/cbms/cbms2016.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/126/2232"
+  },
+  {
+    "nome": "Débora C. Nazário",
+    "artigos": [
+      {
+        "id": "3iHAtwRhVAgg9xqwzSskyR",
+        "titulo": "A Refactoring Catalog for Lambda Expressions in Java.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2018",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "International Journal of Software Engineering and Knowledge Engineering",
+          "edicao": "International Journal of Software Engineering and Knowledge Engineering, Volume 29",
+          "url": "https://dblp.org/db/journals/ijseke/ijseke29.xml"
+        }
+      },
+      {
+        "id": "MSZWofJEvWBwSWE88uvAvE",
+        "titulo": "A Tool for Searching in Unstructured Code AspectJ.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBSI",
+          "edicao": "SBSI 2015:\nGoiânia, Brazil",
+          "url": "https://dblp.org/db/conf/sbsi/sbsi2015.xml"
+        }
+      },
+      {
+        "id": "YccEn5X5WXigHKExc9gfXw",
+        "titulo": "CMAP: Tracking equivalences from XML documents to relational schemas.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IRI",
+          "edicao": "IRI 2012:\nLas Vegas, NV, USA",
+          "url": "https://dblp.org/db/conf/iri/iri2012.xml"
+        }
+      },
+      {
+        "id": "FYcMPB9KkhaNBv46U92BbB",
+        "titulo": "An Ontology-based Approach for Storing XML Data Into Relational Databases.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2017",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SEKE",
+          "edicao": "24th SEKE 2012:\nRedwood City, San Francisco Bay, CA, USA",
+          "url": "https://dblp.org/db/conf/seke/seke2012.xml"
+        }
+      },
+      {
+        "id": "QKzec4c5zhj3oGBrWvS8oy",
+        "titulo": "Mapping OWL ontologies to relational schemas.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2017",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IRI",
+          "edicao": "IRI 2011:\nLas Vegas, NV, USA",
+          "url": "https://dblp.org/db/conf/iri/iri2011.xml"
+        }
+      },
+      {
+        "id": "FS2nPpuQEJiDicVhepPa7e",
+        "titulo": "TRIple Content-based OnTology (TRICOt) for XML Dissemination.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2016",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SEKE",
+          "edicao": "21st SEKE 2009:\nBoston, Massachusetts, USA",
+          "url": "https://dblp.org/db/conf/seke/seke2009.xml"
+        }
+      },
+      {
+        "id": "U97AQ3EXBDma8Gm6QnFjUF",
+        "titulo": "An Ontology-Based Approach for Semantic Interoperability in P2P Systems.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2016",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ICEIS",
+          "edicao": "10th ICEIS 2008:\nBarcelona, Spain",
+          "url": "https://dblp.org/db/conf/iceis/iceis2008-1.xml"
+        }
+      },
+      {
+        "id": "WkcfYCcRa5HXejLcjwi3Bc",
+        "titulo": "Managing application domains in P2P systems.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2015",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IRI",
+          "edicao": "IRI 2008:\nLas Vegas, NV, USA",
+          "url": "https://dblp.org/db/conf/iri/iri2008.xml"
+        }
+      },
+      {
+        "id": "g8ozeRo6MYQGNAQzMDyfhB",
+        "titulo": "A Metadata Model for Managing and Querying XML Resources in Peer-to-peer Systems.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2015",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SEKE",
+          "edicao": "20th SEKE 2008:\nSan Francisco, CA, USA",
+          "url": "https://dblp.org/db/conf/seke/seke2008.xml"
+        }
+      },
+      {
+        "id": "E8QfdYuD84b6AAzSGbgfgT",
+        "titulo": "Detecting, Managing and Querying Replicas and Versions in a Peer-to-Peer Environment.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2014",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "CCGRID",
+          "edicao": "7. CCGRID 2007:\nRio de Janeiro, Brazil",
+          "url": "https://dblp.org/db/conf/ccgrid/ccgrid2007.xml"
+        }
+      },
+      {
+        "id": "7MTFeU8waxu7yLUnkD86Hb",
+        "titulo": "XML version detection.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2014",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ACM Symposium on Document Engineering",
+          "edicao": "ACM Symposium on Document Engineering 2007:\nWinnipeg, Manitoba, Canada",
+          "url": "https://dblp.org/db/conf/doceng/doceng2007.xml"
+        }
+      },
+      {
+        "id": "JVFfgCq75nBrMvn94Ncqjt",
+        "titulo": "Managing XML Versions and Replicas in a P2P Context.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2014",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SEKE",
+          "edicao": "19th SEKE 2007:\nBoston, Massachusetts, USA",
+          "url": "https://dblp.org/db/conf/seke/seke2007.xml"
+        }
+      },
+      {
+        "id": "GRaGLpg2eRfY7NEX6iuzL6",
+        "titulo": "Integration of XML Data.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2013",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "EEXTT",
+          "edicao": "EEXTT 2002:\nHong Kong, China",
+          "url": "https://dblp.org/db/conf/eextt/eextt2002.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/135/0769"
+  },
+  {
+    "nome": "Deise Saccol",
+    "artigos": [
+      {
+        "id": "hy62T2N6Ukmbzmn54mGNkr",
+        "titulo": "Stream Processing on Multi-cores with GPUs: Parallel Programming Models' Challenges.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IPDPS",
+          "edicao": "33rd IPDPS 2019:\nRio de Janeiro, Brazil - Workshops",
+          "url": "https://dblp.org/db/conf/ipps/ipdps2019w.xml"
+        }
+      },
+      {
+        "id": "f9T4RyVzrac8R3Hau7fgbc",
+        "titulo": "High-Level Stream Parallelism Abstractions with SPar Targeting GPUs.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2015",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "PARCO",
+          "edicao": "PARCO 2019:\nPrague, Czech Republic",
+          "url": "https://dblp.org/db/conf/parco/parco2019.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/b/DeisedeBrumSaccol"
+  },
+  {
+    "nome": "Dinei A. Rockenbach",
+    "artigos": [
+      {
+        "id": "ikKoZ6GvMQRxi9qi4BibY5",
+        "titulo": "Security and trust in cloud application life-cycle management.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2019",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Future Generation Computer Systems",
+          "edicao": "Future Generation Computer Systems, Volume 111",
+          "url": "https://dblp.org/db/journals/fgcs/fgcs111.xml"
+        }
+      },
+      {
+        "id": "8MuKLCwhZFEbwnUdXb3AQC",
+        "titulo": "Toward an efficient healthcare CloudIoT architecture by using a game theory approach.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Concurrent Engineering:\nResearch and Applications",
+          "edicao": "Concurrent Engineering:\nResearch and Applications, Volume 27",
+          "url": "https://dblp.org/db/journals/cera/cera27.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/246/0565"
+  },
+  {
+    "nome": "Douglas Dyllon J. de Macedo",
+    "artigos": [
+      {
+        "id": "D46VhRvAiu9xkPigFcRRwv",
+        "titulo": "CMAP: Tracking equivalences from XML documents to relational schemas.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IRI",
+          "edicao": "IRI 2012:\nLas Vegas, NV, USA",
+          "url": "https://dblp.org/db/conf/iri/iri2012.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/02/3971"
+  },
+  {
+    "nome": "Douglas Negrini",
+    "artigos": [
+      {
+        "id": "WiECANuiwMAz55YCmN9HLu",
+        "titulo": "Ensino de algoritmos: detecção do estado afetivo de frustração para apoio ao processo de aprendizagem.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2012",
+        "tipo": "Books and Theses",
+        "veiculo": null
+      }
+    ],
+    "url": "https://dblp.org/pid/119/0130"
+  },
+  {
+    "nome": "Edécio Iepsen",
+    "artigos": [
+      {
+        "id": "EnuZDdGcdWWnwLPS59qrqU",
+        "titulo": "Combining URL and HTML Features for Entity Discovery in the Web.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2013",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "ACM Transactions on the Web",
+          "edicao": "ACM Transactions on the Web, Volume 13",
+          "url": "https://dblp.org/db/journals/tweb/tweb13.xml"
+        }
+      },
+      {
+        "id": "fBPMDtwjDzNEi5i7gUe7WC",
+        "titulo": "R-Extractor: A Method for Data Extraction from Template-Based Entity-Pages.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2013",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "COMPSAC",
+          "edicao": "41st COMPSAC 2017:\nTurin, Italy - Volume 1:\nSymposia",
+          "url": "https://dblp.org/db/conf/compsac/compsac2017-1.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/193/4580"
+  },
+  {
+    "nome": "Edimar Manica",
+    "artigos": [
+      {
+        "id": "3trcX3XmGBeL4MSmXUqvu3",
+        "titulo": "ADAMA: a pattern language for adherence analysis and adaptation of agile methods to the MR-MPS model.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SugarLoafPLoP",
+          "edicao": "8. SugarLoafPLoP 2010:\nSalvador, Bahia, Brazil",
+          "url": "https://dblp.org/db/conf/sugarloafplop/sugarloafplop2010.xml"
+        }
+      },
+      {
+        "id": "XipoSicQN8yK3gvohcpu8c",
+        "titulo": "An infrastructure for developing distributed service-oriented information systems for precision agriculture (Uma infra-estrutura de desenvolvimento de sistemas de informação orientados a serviços distribuídos para agricultura de precisão).",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2017",
+        "tipo": "Books and Theses",
+        "veiculo": null
+      }
+    ],
+    "url": "https://dblp.org/pid/84/8654"
+  },
+  {
+    "nome": "Edson Murakami",
+    "artigos": [
+      {
+        "id": "c6yFnBRPdmstYjJNBVKjCr",
+        "titulo": "Naming Content on the Network Layer: A Security Analysis of the Information-Centric Network Model.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2010",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "ACM Computing Surveys",
+          "edicao": "ACM Computing Surveys, Volume 52",
+          "url": "https://dblp.org/db/journals/csur/csur52.xml"
+        }
+      },
+      {
+        "id": "9aF3aNpDUiZdDKhnmEa3rQ",
+        "titulo": "A distributed online certificate status protocol for named data networks.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2006",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SAC",
+          "edicao": "33rd SAC 2018:\nPau, France",
+          "url": "https://dblp.org/db/conf/sac/sac2018.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/178/4332"
+  },
+  {
+    "nome": "Elisa Mannes",
+    "artigos": [
+      {
+        "id": "9NnGtsCRoajX3XExBXueHp",
+        "titulo": "A fault tolerant, peer-to-peer based scheduler for home grids.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Books and Theses",
+        "veiculo": null
+      }
+    ],
+    "url": "https://dblp.org/pid/85/8933"
+  },
+  {
+    "nome": "Erick Lopes",
+    "artigos": [
+      {
+        "id": "gYCaoNLLUzYcRr8nxnUaFS",
+        "titulo": "Dynamic Creation of BSP/CGM Clusters on Cloud Computing Platforms.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2012",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "EIDWT",
+          "edicao": "EIDWT 2013:\nXi'an, Shaanxi, China",
+          "url": "https://dblp.org/db/conf/eidwt/eidwt2013.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/184/5785"
+  },
+  {
+    "nome": "Eugênio de Oliveira Simonetto",
+    "artigos": [
+      {
+        "id": "bij5secwqFA7JCEb49kPbE",
+        "titulo": "A characterization of those categories whose internal logic is Hilbert's ",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2007",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Annals of Pure and Applied Logic",
+          "edicao": "Annals of Pure and Applied Logic, Volume 170",
+          "url": "https://dblp.org/db/journals/apal/apal170.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/69/10064"
+  },
+  {
+    "nome": "Fabio dos Santos",
+    "artigos": [
+      {
+        "id": "duESNnKzEX7LtKjhitf7CM",
+        "titulo": "A Two Layered Approach for Querying Integrated XML Sources.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2013",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IDEAS",
+          "edicao": "IDEAS 2007:\nBanff, Canada",
+          "url": "https://dblp.org/db/conf/ideas/ideas2007.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/137/0561"
+  },
+  {
+    "nome": "Fábio Pasquali",
+    "artigos": [
+      {
+        "id": "Jep4kTKrNEYi3So8iQkazd",
+        "titulo": "Cloud aid - A cloud computing tool for mitigating side-channel attacks.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "NOMS",
+          "edicao": "NOMS 2018:\nTaipei, Taiwan",
+          "url": "https://dblp.org/db/conf/noms/noms2018.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/157/0540"
+  },
+  {
+    "nome": "Felipe Victolla Silveira",
+    "artigos": [
+      {
+        "id": "jQpv4fueyhjp5UXUtNjt7M",
+        "titulo": "Fast Adaptive Stacking of Ensembles Adaptation for Supporting Active Learning. a Real Case Application.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2007",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ICNC",
+          "edicao": "14th ICNC-FSKD 2018:\nHuangshan, China",
+          "url": "https://dblp.org/db/conf/icnc/icnc2018.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/82/87"
+  },
+  {
+    "nome": "Fernando Moro",
+    "artigos": [
+      {
+        "id": "KfKpp8knQzZzDSLtMVuTgC",
+        "titulo": "XML Data Fusion.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "DaWaK",
+          "edicao": "12th DaWaK 2010:\nBilbao, Spain",
+          "url": "https://dblp.org/db/conf/dawak/dawak2010.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/222/7764"
+  },
+  {
+    "nome": "Flávio R. Bayer",
+    "artigos": [
+      {
+        "id": "HXw3oc22EU9yqhsaq6LDKm",
+        "titulo": "Bringing SQL databases to key-based NoSQL databases: a canonical approach.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Computing",
+          "edicao": "Computing, Volume 102",
+          "url": "https://dblp.org/db/journals/computing/computing102.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/239/2608"
+  },
+  {
+    "nome": "Frantchesco Cecchin",
+    "artigos": [
+      {
+        "id": "k8eZq2vjUhQuPAxUoAF3J7",
+        "titulo": "Generalized CF1F2-integrals: From Choquet-like aggregation to ordered directionally monotone functions.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2010",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Fuzzy Sets and Systems",
+          "edicao": "Fuzzy Sets and Systems, Volume 378",
+          "url": "https://dblp.org/db/journals/fss/fss378.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/68/8419"
+  },
+  {
+    "nome": "Geomar Schreiner",
+    "artigos": [
+      {
+        "id": "VnqD5jFQ6YVaNBbp3yzWjh",
+        "titulo": "DC2AP: A Dublin Core Application Profile to Analysis Patterns.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SEKE",
+          "edicao": "24th SEKE 2012:\nRedwood City, San Francisco Bay, CA, USA",
+          "url": "https://dblp.org/db/conf/seke/seke2012.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/178/2074"
+  },
+  {
+    "nome": "Giancarlo Lucca",
+    "artigos": [
+      {
+        "id": "N7tZASmU3YmsVqjmNERndw",
+        "titulo": "Automatic Filling of Hidden Web Forms: A Survey.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "SIGMOD Record",
+          "edicao": "SIGMOD Record, Volume 44",
+          "url": "https://dblp.org/db/journals/sigmod/sigmod44.xml"
+        }
+      },
+      {
+        "id": "QouRo9dwtrvzVGH5k8Tunn",
+        "titulo": "Choosing Values for Text Fields in Web Forms.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ADBIS",
+          "edicao": "16th ADBIS 2012:\nPoznań, Poland",
+          "url": "https://dblp.org/db/conf/adbis/adbis2012-2.xml"
+        }
+      },
+      {
+        "id": "98oJguLda2b6bJD4wyo938",
+        "titulo": "Automatic Filling of Web Forms.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "AMW",
+          "edicao": "6. AMW 2012:\nOuro Preto, Brazil",
+          "url": "https://dblp.org/db/conf/amw/amw2012.xml"
+        }
+      },
+      {
+        "id": "jAWev8cqP7D8qwKc5Vm7Rc",
+        "titulo": "Seleção de Valores para Preenchimento Automático de Formulários Web.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "26th SBBD 2011:\nFlorianópolis, Santa Catarina, Brazil - Short Papers",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2011s.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/116/8054"
+  },
+  {
+    "nome": "Glauber da Silva",
+    "artigos": [
+      {
+        "id": "WD4WWZiBpfEttjPjDxDMTL",
+        "titulo": "Heterogeneous Database Interoperability Using the WWW.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2012",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "15th SBBD 2000:\nJoao Pessoa, Paraiba, Brazil",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2000.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/117/5566"
+  },
+  {
+    "nome": "Gustavo Kantorski",
+    "artigos": [
+      {
+        "id": "VnAsPLK3zRWVyZy6aXF2Zt",
+        "titulo": "A Workflow-based Environment to manage Software-Testing Process Executions.",
+        "fonte": "dblp",
+        "ordem": 6,
+        "ano": "2015",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "CSAC",
+          "edicao": "CSAC 2005:\nMiami, Florida, USA",
+          "url": "https://dblp.org/db/conf/csac/csac2005.xml"
+        }
+      },
+      {
+        "id": "Z4TdSAkGbfmCB6JFSBb4JQ",
+        "titulo": "Sentiment Analysis for Brazilian Portuguese over a Skewed Class Corpora.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2000",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "PROPOR",
+          "edicao": "12. PROPOR 2016:\nTomar, Portugal",
+          "url": "https://dblp.org/db/conf/propor/propor2016.xml"
+        }
+      }
+    ],
+    "url": ["https://dblp.org/pid/116/1417", "https://dblp.org/pid/45/283"]
+  },
+  {
+    "nome": "Gustavo R. Forgiarini",
+    "artigos": [
+      {
+        "id": "cTvicAaa3ZRuEuEedgYrZ6",
+        "titulo": "Building a Sentiment Corpus of Tweets in Brazilian Portuguese.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2005",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "LREC",
+          "edicao": "11th LREC 2018:\nMiyazaki, Japan",
+          "url": "https://dblp.org/db/conf/lrec/lrec2018.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/41/4544"
+  },
+  {
+    "nome": "Henrico B. Brum",
+    "artigos": [
+      {
+        "id": "3scFsXwddt2c9Pq2AiHi8F",
+        "titulo": "An approach to automatic customization of user interfaces for mobile devices in pervasive environments.",
+        "fonte": "dblp",
+        "ordem": 5,
+        "ano": "2016",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "CLEI",
+          "edicao": "CLEI 2012:\nMedellin, Colombia",
+          "url": "https://dblp.org/db/conf/clei/clei2012.xml"
+        }
+      },
+      {
+        "id": "K9NAeEym7xZsQyZsvyqmmw",
+        "titulo": "Piecewise Aggregation for HMM Fitting: A Pre-Fitting Model for Seamless Integration with Time-Series Data.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "International Journal of Software Engineering and Knowledge Engineering",
+          "edicao": "International Journal of Software Engineering and Knowledge Engineering, Volume 29",
+          "url": "https://dblp.org/db/journals/ijseke/ijseke29.xml"
+        }
+      },
+      {
+        "id": "UDg6q8igTZnQuFc6gmK6wr",
+        "titulo": "Cases and Clusters in Reuse Policies for Decision-Making in Card Games.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ICTAI",
+          "edicao": "31st ICTAI 2019:\nPortland, OR, USA",
+          "url": "https://dblp.org/db/conf/ictai/ictai2019.xml"
+        }
+      },
+      {
+        "id": "At6H2hzUBJBDS2FD4ANTJk",
+        "titulo": "Language Independent POS-tagging Using Automatically Generated Markov Chains (S).",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2017",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SEKE",
+          "edicao": "31st SEKE 2019:\nLisbon, Portugal",
+          "url": "https://dblp.org/db/conf/seke/seke2019.xml"
+        }
+      },
+      {
+        "id": "YGfeeM9cBDKWyzXjK5svMt",
+        "titulo": "Piecewise Aggregation for HMM fitting. A pre-fitting model for seamless integration with time series data.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2017",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SEKE",
+          "edicao": "31st SEKE 2019:\nLisbon, Portugal",
+          "url": "https://dblp.org/db/conf/seke/seke2019.xml"
+        }
+      },
+      {
+        "id": "ZpeyYFMSHgg4fV6mzmEETM",
+        "titulo": "A structured stochastic model for software project estimation in Waterfall models (S).",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2017",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SEKE",
+          "edicao": "30th SEKE 2018:\nRedwood City, CA, USA",
+          "url": "https://dblp.org/db/conf/seke/seke2018.xml"
+        }
+      },
+      {
+        "id": "mDWYprgsNKSJxxTfTnFuL3",
+        "titulo": "Classifying With AdaBoost.M1: The Training Error Threshold Myth.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2017",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "FLAIRS Conference",
+          "edicao": "30. FLAIRS Conference 2017:\nMarco Island, Florida, USA",
+          "url": "https://dblp.org/db/conf/flairs/flairs2017.xml"
+        }
+      }
+    ],
+    "url": ["https://dblp.org/pid/181/7216", "https://dblp.org/pid/206/1135"]
+  },
+  {
+    "nome": "Jeferson Kasper",
+    "artigos": [
+      {
+        "id": "TTTmXt7Q8uH84aGGwr7bmm",
+        "titulo": "Generating E-Commerce Product Titles and Predicting their Quality.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2012",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "INLG",
+          "edicao": "INLG 2018:\nTilburg, The Netherlands",
+          "url": "https://dblp.org/db/conf/inlg/inlg2018.xml"
+        }
+      },
+      {
+        "id": "dkaKjGkbZ7nuet3GCbJBh8",
+        "titulo": "Quality Estimation for Automatically Generated Titles of eCommerce Browse Pages.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2012",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "HLT-NAACL",
+          "edicao": "HLT-NAACL 2018:\nNew Orleans, Louisiana, USA, Volume 3 (Industry Papers)",
+          "url": "https://dblp.org/db/conf/naacl/naacl2018-3.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/120/1498"
+  },
+  {
+    "nome": "Joaquim Assunção",
+    "artigos": [
+      {
+        "id": "eaemtkD93MqdfLSzQUjpq3",
+        "titulo": "Hybrid Recommender System Based on Multi-Hierarchical Ontologies.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "WebMedia",
+          "edicao": "24th WebMedia 2018:\nSalvador-BA, Brazil",
+          "url": "https://dblp.org/db/conf/webmedia/webmedia2018.xml"
+        }
+      },
+      {
+        "id": "WyPt9eT7nyzUQtU57BSfzF",
+        "titulo": "Using Implicit Feedback for Neighbors Selection: Alleviating the Sparsity Problem in Collaborative Recommendation Systems.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "WebMedia",
+          "edicao": "23rd WebMedia 2017:\nGramado, Brazil",
+          "url": "https://dblp.org/db/conf/webmedia/webmedia2017.xml"
+        }
+      },
+      {
+        "id": "23VLJFKaGr2hGY7a3jhmTH",
+        "titulo": "Automatically Tailoring Semantics-Enabled Dimensions for Movement Data Warehouses.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "DaWaK",
+          "edicao": "17th DaWaK 2015:\nValencia, Spain",
+          "url": "https://dblp.org/db/conf/dawak/dawak2015.xml"
+        }
+      },
+      {
+        "id": "5kHPwStB6arkKBC7xitLcA",
+        "titulo": "A Semantic Model for Movement Data Warehouses.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "DOLAP",
+          "edicao": "17. DOLAP 2014:\nShanghai, China",
+          "url": "https://dblp.org/db/conf/dolap/dolap2014.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/133/6685"
+  },
+  {
+    "nome": "José Guilherme C. de Souza",
+    "artigos": [
+      {
+        "id": "dXjDBKnPmnoMhFbXRpd9hy",
+        "titulo": "Automatic threshold estimation for data matching applications.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Information Sciences",
+          "edicao": "Information Sciences, Volume 181",
+          "url": "https://dblp.org/db/journals/isci/isci181.xml"
+        }
+      },
+      {
+        "id": "QgXC7SgT6Rrrw2WsHec93K",
+        "titulo": "Automatic Threshold Estimation for Data Matching Applications.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "23rd SBBD 2008:\nCampinas, São Paulo, Brasil",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2008.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/66/1087"
+  },
+  {
+    "nome": "Juarez A. P. Sacenti",
+    "artigos": [
+      {
+        "id": "6YfBvwmo3WNahDsGMGApE5",
+        "titulo": "A Faceted Taxonomy of Semantic Integrity Constraints for the XML Data Model.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "DEXA",
+          "edicao": "18th DEXA 2007:\nRegensburg, Germany",
+          "url": "https://dblp.org/db/conf/dexa/dexa2007.xml"
+        }
+      },
+      {
+        "id": "dwjCanox5fiACTRKacrwPJ",
+        "titulo": "DIInCX: An Approach to Discovery of Implicit Integrity Constraints from XML Data.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2017",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IRI",
+          "edicao": "IRI 2007:\nLas Vegas, NV, USA",
+          "url": "https://dblp.org/db/conf/iri/iri2007.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/153/4205"
+  },
+  {
+    "nome": "Juliana Bonato dos Santos",
+    "artigos": [
+      {
+        "id": "hcCUzKCQBNwCXyRxgWrS2P",
+        "titulo": "Web table taxonomy and formalization.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2011",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "SIGMOD Record",
+          "edicao": "SIGMOD Record, Volume 42",
+          "url": "https://dblp.org/db/journals/sigmod/sigmod42.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/91/60"
+  },
+  {
+    "nome": "Juliano Augusto Carreira",
+    "artigos": [
+      {
+        "id": "99J9a4aafS2TZ8kApQXnDE",
+        "titulo": "Continuous monitoring seed testing equipaments using internet of things.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2011",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Computers and Electronics in Agriculture",
+          "edicao": "Computers and Electronics in Agriculture, Volume 158",
+          "url": "https://dblp.org/db/journals/cea/cea158.xml"
+        }
+      },
+      {
+        "id": "3Fm2XgrGbWUjp2DK9VCY34",
+        "titulo": "Intravenous Electromedical Equipment: A Proposal to Improve Accuracy in Generating Alerts.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2011",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "CLEI",
+          "edicao": "44th CLEI 2018:\nSão Paulo, Brazil",
+          "url": "https://dblp.org/db/conf/clei/clei2018.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/91/10804"
+  },
+  {
+    "nome": "Khaue Rodrigues",
+    "artigos": [
+      {
+        "id": "k7LJH5wdDtRFtXFNjufLeN",
+        "titulo": "Many-Objective Evolutionary Algorithm Based On Decomposition With Random And Adaptive Weights.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2007",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SMC",
+          "edicao": "SMC 2019:\nBari, Italy",
+          "url": "https://dblp.org/db/conf/smc/smc2019.xml"
+        }
+      },
+      {
+        "id": "MVmYUKRzVWB5qQbZ5zZoUS",
+        "titulo": "MOEA/D with Uniformly Randomly Adaptive Weights.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2007",
+        "tipo": "Informal and Other Publications",
+        "veiculo": {
+          "nome": "CoRR",
+          "edicao": "CoRR, August 2019",
+          "url": "https://dblp.org/db/journals/corr/corr1908.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/01/3808"
+  },
+  {
+    "nome": "Larissa Lautert",
+    "artigos": [
+      {
+        "id": "Ripvuo3CG7TNrcaLPnJMSL",
+        "titulo": "-BREATH: Heat maps and probabilistic classification assisting the analysis of abnormal lung regions.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2013",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Computer Methods and Programs in Biomedicine",
+          "edicao": "Computer Methods and Programs in Biomedicine, Volume 173",
+          "url": "https://dblp.org/db/journals/cmpb/cmpb173.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/136/1410"
+  },
+  {
+    "nome": "Leonardo da Rosa",
+    "artigos": [
+      {
+        "id": "RpBNvGChB32Tbo4hazwtMM",
+        "titulo": "Securing Smart Metering applications in Untrusted Clouds with the SecureCloud Platform.",
+        "fonte": "dblp",
+        "ordem": 6,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "EuroSys",
+          "edicao": "P2DS@EuroSys 2018:\nPorto, Portugal",
+          "url": "https://dblp.org/db/conf/eurosys/p2ds2018.xml"
+        }
+      },
+      {
+        "id": "j2s8WuC9L9Kvfvqu5qyUVH",
+        "titulo": "Analyzing the Acoustic Urban Environment - A Geofencing-centered Approach in the Curitiba Metropolitan Region, Brazil.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SMARTGREENS",
+          "edicao": "5th SMARTGREENS 2016:\nRome, Italy",
+          "url": "https://dblp.org/db/conf/smartgreens/smartgreens2016.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/236/6740"
+  },
+  {
+    "nome": "Lucas R. de Farias",
+    "artigos": [
+      {
+        "id": "KzbPyubF7iQ8srtUfzD5Jk",
+        "titulo": "Secure end-to-end processing of smart metering data.",
+        "fonte": "dblp",
+        "ordem": 9,
+        "ano": "2019",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Journal of Cloud Computing",
+          "edicao": "Journal of Cloud Computing, Volume 8",
+          "url": "https://dblp.org/db/journals/jcloudc/jcloudc8.xml"
+        }
+      },
+      {
+        "id": "BfnYQF6YDEi3qpZ3VYoX55",
+        "titulo": "In-class social networks and academic performance: how good connections can improve grades.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "34th SBBD 2019:\nFortaleza, CE, Brazil",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2019.xml"
+        }
+      },
+      {
+        "id": "PjQ9bggaqHAmuQu3Zaz9qZ",
+        "titulo": "Fake News and Brazilian politics - temporal investigation based on semantic annotations and graph analysis.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "34th SBBD 2019:\nFortaleza, CE, Brazil",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2019.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/222/3898"
+  },
+  {
+    "nome": "Luis Fernando Milano Oliveira",
+    "artigos": [
+      {
+        "id": "ncR4FBwK2qXmKdRZsv6nSb",
+        "titulo": "On the Potential of Social Media Data in Urban Planning: Findings from the Beer Street in Curitiba, Brazil.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2019",
+        "tipo": "Informal and Other Publications",
+        "veiculo": {
+          "nome": "CoRR",
+          "edicao": "CoRR, April 2020",
+          "url": "https://dblp.org/db/journals/corr/corr2004.xml"
+        }
+      },
+      {
+        "id": "hDUpoveXdLuTR5kP4kULar",
+        "titulo": "Ecologically-aware Queries for Biodiversity Research.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2017",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "GeoInfo",
+          "edicao": "GeoInfo 2007:\nCampos do Jordão, São Paulo, Brazil",
+          "url": "https://dblp.org/db/conf/geoinfo/geoinfo2007.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/204/4278"
+  },
+  {
+    "nome": "Luiz Gomes Jr.",
+    "artigos": [
+      {
+        "id": "Ht79hxBNptetvSbx6qebMa",
+        "titulo": "On the relationship of code-anomaly agglomerations and architectural problems.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2018",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Journal of Software Engineering Research and Development",
+          "edicao": "Journal of Software Engineering Research and Development, Volume 3",
+          "url": "https://dblp.org/db/journals/jserd/jserd3.xml"
+        }
+      },
+      {
+        "id": "KEsYjzBKHfyCLrXfJSRjxK",
+        "titulo": "Detecting architecturally-relevant code anomalies: a case study of effectiveness and effort.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2016",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SAC",
+          "edicao": "29. SAC 2014:\nGyeongju, Korea",
+          "url": "https://dblp.org/db/conf/sac/sac2014.xml"
+        }
+      },
+      {
+        "id": "XC2mbFpLZZdkPSc3sM5kUA",
+        "titulo": "A Model to Aggregate Heterogeneous Learning Objects Repositories.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "PAAMS",
+          "edicao": "15. PAAMS 2017:\nPorto, Portugal - Workshops",
+          "url": "https://dblp.org/db/conf/paams/paams2017w.xml"
+        }
+      },
+      {
+        "id": "eyyZWtZxbnQE2s29utPix5",
+        "titulo": "A strategy for allowing meaningful and comparable scores in approximate matching.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2019",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Information Systems",
+          "edicao": "Information Systems, Volume 34, 2009",
+          "url": "https://dblp.org/db/journals/is/is34.xml"
+        }
+      },
+      {
+        "id": "Yc382tgdLBAP28xZwxq3UG",
+        "titulo": "Optimization of Query Results in Peer-to-Peer Database Supported by Semantics.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "PDCAT",
+          "edicao": "PDCAT 2011:\nGwangju, Korea",
+          "url": "https://dblp.org/db/conf/pdcat/pdcat2011.xml"
+        }
+      },
+      {
+        "id": "jAqFeuYvz44VBFXnYTPonn",
+        "titulo": "A Logical Approach to the Management of Object Identifiers in Non-conventional Database Management Systems.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2007",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "PDCAT",
+          "edicao": "PDCAT 2011:\nGwangju, Korea",
+          "url": "https://dblp.org/db/conf/pdcat/pdcat2011.xml"
+        }
+      }
+    ],
+    "url": [
+      "https://dblp.org/pid/184/0284",
+      "https://dblp.org/pid/51/3518",
+      "https://dblp.org/pid/68/6898"
+    ]
+  },
+  {
+    "nome": "Manuele Ferreira",
+    "artigos": [
+      {
+        "id": "DpmmPfBz6kXMQNvZXBTcVG",
+        "titulo": "An Ontological Approach for the Quality Assessment of Computer Science Conferences.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2015",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ER",
+          "edicao": "26th ER 2007:\nAuckland, New Zealand - Workshops",
+          "url": "https://dblp.org/db/conf/er/erw2007.xml"
+        }
+      },
+      {
+        "id": "JbX67V6LMNw5HghQ7sjjRn",
+        "titulo": "User Profile Interchange in a Service-oriented Architecture.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2014",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "CAiSE",
+          "edicao": "18. CAiSE 2006:\nLuxembourg - DISWEB",
+          "url": "https://dblp.org/db/conf/caise/disweb2006.xml"
+        }
+      },
+      {
+        "id": "8Hpxv5qgnM4L2DrU8KdQKa",
+        "titulo": "Towards an Adaptive Web Training Environment Based on Cognitive Style of Learning: An Empirical Approach.",
+        "fonte": "dblp",
+        "ordem": 5,
+        "ano": "2014",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "AH",
+          "edicao": "AH 2002:\nMálaga, Spain",
+          "url": "https://dblp.org/db/conf/ah/ah2002.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/148/4409"
+  },
+  {
+    "nome": "Marcelo Telles",
+    "artigos": [
+      {
+        "id": "K42vktYPtjnuabSzoCpDxb",
+        "titulo": "OPIS: Um Método para a Identificação e a Busca de Páginas-Objeto.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "28th SBBD 2013:\nRecife, Pernambuco, Brazil - Short Papers",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2013s.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/241/6821"
+  },
+  {
+    "nome": "Marcos Nunes",
+    "artigos": [
+      {
+        "id": "8J6dXu2TqcLgG3utpf62mh",
+        "titulo": "An Integrated Big and Fast Data Analytics Platform for Smart Urban Transportation Management.",
+        "fonte": "dblp",
+        "ordem": 12,
+        "ano": "2017",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "IEEE Access",
+          "edicao": "IEEE Access, Volume 7",
+          "url": "https://dblp.org/db/journals/access/access7.xml"
+        }
+      },
+      {
+        "id": "Jb7Uw3PWRNSbzp2PiBCyjN",
+        "titulo": "Visualização dos dados abertos da Polícia Rodoviária Federal sobre acidentes nas rodovias brasileiras.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2009",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "34th SBBD 2019:\nFortaleza, CE, Brazil",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2019.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/63/7265"
+  },
+  {
+    "nome": "Mariusa Warpechowski",
+    "artigos": [
+      {
+        "id": "oP88iiaSRX29MeQeoqrcwZ",
+        "titulo": "SPDW+: a seamless approach for capturing quality metrics in software development environments.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2007",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Software Quality Journal",
+          "edicao": "Software Quality Journal, Volume 18",
+          "url": "https://dblp.org/db/journals/sqj/sqj18.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/77/3594"
+  },
+  {
+    "nome": "Miriam Colpo",
+    "artigos": [
+      {
+        "id": "5uHvzBstwajJGRFjXSnkYk",
+        "titulo": "Contacts Deduplication in Mobile Devices Using Textual Similarity and Machine Learning.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2013",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBSI",
+          "edicao": "SBSI 2016:\nFlorianópolis, Brazil",
+          "url": "https://dblp.org/db/conf/sbsi/sbsi2016.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/181/6608"
+  },
+  {
+    "nome": "Nádia Kozievitch",
+    "artigos": [
+      {
+        "id": "eYrpzupte6GCkpZXfoyAJs",
+        "titulo": "Comunicação em bloco na exploração de grafos em bases RDF distribuídas.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "34th SBBD 2019:\nFortaleza, CE, Brazil",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2019.xml"
+        }
+      },
+      {
+        "id": "gyGMppBWdPuXXqHr6dHCwe",
+        "titulo": "Otimização de consultas SPARQL em bases RDF distribuídas.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Books and Theses",
+        "veiculo": null
+      },
+      {
+        "id": "X4e9DRrGER6jt5gepV4anz",
+        "titulo": "Exploring Controlled RDF Distribution.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "CloudCom",
+          "edicao": "CloudCom 2016:\nLuxembourg",
+          "url": "https://dblp.org/db/conf/cloudcom/cloudcom2016.xml"
+        }
+      },
+      {
+        "id": "4pLTifyr3HByxGeusp9LdL",
+        "titulo": "Exploração de Grafos RDF com Distribuição Controlada.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "30th SBBD 2015:\nRecife, Pernambuco, Brazil - Short Papers",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2015s.xml"
+        }
+      },
+      {
+        "id": "YHdmQ5pvY9zeeaJgRBrkVn",
+        "titulo": "Partitioning RDF exploiting workload information.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "WWW",
+          "edicao": "22nd WWW 2013:\nRio de Janeiro,\nBrazil - Companion Volume",
+          "url": "https://dblp.org/db/conf/www/www2013c.xml"
+        }
+      },
+      {
+        "id": "eV7euQPZcXDDvKmr94yxvF",
+        "titulo": "Knowledge and Contextual Information Management in Global Software Development: Challenges and Perspectives.",
+        "fonte": "dblp",
+        "ordem": 6,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ICGSE",
+          "edicao": "7. ICGSE - Workshops 2012:\nPorto Alegre, Rio Grande do Sul, Brazil",
+          "url": "https://dblp.org/db/conf/icgse/icgsew2012.xml"
+        }
+      },
+      {
+        "id": "5hmZcxbd5x8gvUsUuZ284Y",
+        "titulo": "Detection of Repetitive Patterns in Action Sequences with Noise in Programming by Demonstration.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "IBERAMIA",
+          "edicao": "10. IBERAMIA / 18. SBIA 2006:\nRibeirão Preto, Brazil",
+          "url": "https://dblp.org/db/conf/iberamia/iberamia2006.xml"
+        }
+      },
+      {
+        "id": "jg4FYbn9ixck5p7PBtVTjo",
+        "titulo": "Detecção de padrões repetitivos em seqüências de ações sobre ruído em aplicações por demonstração.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "CLIHC",
+          "edicao": "CLIHC 2005:\nCuernavaca, Mexico",
+          "url": "https://dblp.org/db/conf/clihc/clihc2005.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/20/8212"
+  },
+  {
+    "nome": "Patrícia Silveira",
+    "artigos": [
+      {
+        "id": "dCBikCazGy3RRAkZfdiHbp",
+        "titulo": "Mineração em Grandes Massas de Dados Utilizando Hadoop MapReduce e Algoritmos Bio-inspirados: Uma Revisão Sistemática.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2010",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Revista de Informática Teórica e Aplicada - RITA",
+          "edicao": "Revista de Informática Teórica e Aplicada - RITA, Volume 23",
+          "url": "https://dblp.org/db/journals/rita/rita23.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/07/8696"
+  },
+  {
+    "nome": "Rafael F. Machado",
+    "artigos": [
+      {
+        "id": "82gcVhcAwKo778gp52k9Nf",
+        "titulo": "Recommender Systems based on Scientific Publications: A Systematic Mapping.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2016",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ICEIS",
+          "edicao": "22nd ICEIS 2020:\nPrague, Czech Republic - Volume 1",
+          "url": "https://dblp.org/db/conf/iceis/iceis2020-1.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/266/3479"
+  },
+  {
+    "nome": "Raqueline Penteado",
+    "artigos": [
+      {
+        "id": "GFpNDvKDxgV8Yredn5xmWB",
+        "titulo": "Bag of textual graphs (BoTG): A general graph-based text representation model.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2019",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Journal of the Association for Information Science and Technology",
+          "edicao": "Journal of the Association for Information Science and Technology, Volume 70",
+          "url": "https://dblp.org/db/journals/jasis/jasis70.xml"
+        }
+      },
+      {
+        "id": "YNnCgg2hFBRuNPBTSg5wsV",
+        "titulo": "Combining URL and HTML Features for Entity Discovery in the Web.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2017",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "ACM Transactions on the Web",
+          "edicao": "ACM Transactions on the Web, Volume 13",
+          "url": "https://dblp.org/db/journals/tweb/tweb13.xml"
+        }
+      },
+      {
+        "id": "BUdhrd7xXLCvAatDDZS6UD",
+        "titulo": "Broker-Insights: An Interactive and Visual Recommendation System for Insurance Brokerage.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2016",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "Computer Graphics International",
+          "edicao": "Computer Graphics International 2019:\nCalgary, AB, Canada",
+          "url": "https://dblp.org/db/conf/cgi/cgi2019.xml"
+        }
+      },
+      {
+        "id": "DtrCW8WGhnjDjARS4v5PBa",
+        "titulo": "FFT-2PCA: A New Feature Extraction Method for Data-Based Fault Detection.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2015",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "DEXA",
+          "edicao": "30th DEXA 2019:\nLinz, Austria - Part I",
+          "url": "https://dblp.org/db/conf/dexa/dexa2019-1.xml"
+        }
+      },
+      {
+        "id": "ijqfDXamGEUqX6T7kH3Ygi",
+        "titulo": "Effective Method for Detecting Drunk Texting.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2013",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "33rd SBBD 2018:\nRio de Janeiro, RJ, Brazil - Proceeedings Companion",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2018c.xml"
+        }
+      },
+      {
+        "id": "3wwb3m4dDAZeNZTzQSg3yp",
+        "titulo": "Improving the Classification of Drunk Texting in Tweets Using Semantic Enrichment.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2012",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "WI",
+          "edicao": "17th WI 2018:\nSantiago, Chile",
+          "url": "https://dblp.org/db/conf/webi/webi2018.xml"
+        }
+      },
+      {
+        "id": "Gfp6T3mC93ir2VBiGQuE3S",
+        "titulo": "Twenty years of object-relational mapping: A survey on patterns, solutions, and their implications on application design.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2006",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Information & Software Technology",
+          "edicao": "Information & Software Technology, Volume 82",
+          "url": "https://dblp.org/db/journals/infsof/infsof82.xml"
+        }
+      },
+      {
+        "id": "DpS3mHPWCGnp88hZvRtKtS",
+        "titulo": "R-Extractor: A Method for Data Extraction from Template-Based Entity-Pages.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2005",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "COMPSAC",
+          "edicao": "41st COMPSAC 2017:\nTurin, Italy - Volume 1:\nSymposia",
+          "url": "https://dblp.org/db/conf/compsac/compsac2017-1.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/121/2219"
+  },
+  {
+    "nome": "Rebeca Schroeder",
+    "artigos": [
+      {
+        "id": "jP2XUASSVKeWR3HAuWLmEs",
+        "titulo": "Interacting With Spatial Data Warehouses Through Semantic Descriptions.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2016",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "GeoInfo",
+          "edicao": "GeoInfo 2010:\nCampos do Jordão, São Paulo, Brazil",
+          "url": "https://dblp.org/db/conf/geoinfo/geoinfo2010.xml"
+        }
+      },
+      {
+        "id": "G3jguiBXUbWPrV46sjuCmE",
+        "titulo": "Short Semantic Patterns: A Linguistic Pattern Mining Approach for Content Analysis Applied to Hate Speech.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2020",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "International Journal on Artificial Intelligence Tools",
+          "edicao": "International Journal on Artificial Intelligence Tools, Volume 29",
+          "url": "https://dblp.org/db/journals/ijait/ijait29.xml"
+        }
+      },
+      {
+        "id": "NaHmc8qnNd3TAEP7tmvYcr",
+        "titulo": "MSC+: Language pattern learning for word sense induction and disambiguation.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2018",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Knowledge Based Systems",
+          "edicao": "Knowledge Based Systems, Volume 188",
+          "url": "https://dblp.org/db/journals/kbs/kbs188.xml"
+        }
+      },
+      {
+        "id": "YmRAXbsbmP252mCSExSJnn",
+        "titulo": "OPTIC: A Deep Neural Network Approach for Entity Linking using Word and Knowledge Embeddings.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ICEIS",
+          "edicao": "22nd ICEIS 2020:\nPrague, Czech Republic - Volume 1",
+          "url": "https://dblp.org/db/conf/iceis/iceis2020-1.xml"
+        }
+      },
+      {
+        "id": "QdMTZkGAFX6KcPcV6jfp26",
+        "titulo": "A text summarization method based on fuzzy rules and applicable to automated assessment.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2018",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Expert Systems with Applications",
+          "edicao": "Expert Systems with Applications, Volume 115",
+          "url": "https://dblp.org/db/journals/eswa/eswa115.xml"
+        }
+      },
+      {
+        "id": "7xdvJwjinLb8oSEXrpApan",
+        "titulo": "A Method to Estimate Entity Performance from Mentions to Related Entities in Texts on the Web.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2017",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "WAS",
+          "edicao": "WAS 2019:\nMunich, Germany",
+          "url": "https://dblp.org/db/conf/iiwas/iiwas2019.xml"
+        }
+      },
+      {
+        "id": "dk99dxHcZHymmpELPxGdCK",
+        "titulo": "Linguistic Pattern Mining for Data Analysis in Microblog Texts using Word Embeddings.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2016",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBSI",
+          "edicao": "15th SBSI 2019:\nAracaju, Brazil",
+          "url": "https://dblp.org/db/conf/sbsi/sbsi2019.xml"
+        }
+      },
+      {
+        "id": "Qp3oJ5UcKXk5VwXTTYae7X",
+        "titulo": "Hybrid Recommender System Based on Multi-Hierarchical Ontologies.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2015",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "WebMedia",
+          "edicao": "24th WebMedia 2018:\nSalvador-BA, Brazil",
+          "url": "https://dblp.org/db/conf/webmedia/webmedia2018.xml"
+        }
+      },
+      {
+        "id": "Y2Lg5PWx7SFNmL9UJUxw7n",
+        "titulo": "A Semantic BI Process for Detecting and Analyzing Mentions of Interest for a Domain in Tweets.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2015",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "WebMedia",
+          "edicao": "24th WebMedia 2018:\nSalvador-BA, Brazil",
+          "url": "https://dblp.org/db/conf/webmedia/webmedia2018.xml"
+        }
+      },
+      {
+        "id": "Dszvt2fFopKyDFVP2PtYxS",
+        "titulo": "Individual and Group Activity Recognition in Moving Object Trajectories.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2013",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Journal of Information and Data Management",
+          "edicao": "Journal of Information and Data Management, Volume 8",
+          "url": "https://dblp.org/db/journals/jidm/jidm8.xml"
+        }
+      },
+      {
+        "id": "473nzGnWkvi9Za38iSvtdE",
+        "titulo": "Characterizing mention mismatching problems for improving recognition results.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2012",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "iiWAS",
+          "edicao": "iiWAS 2017:\nSalzburg, Austria",
+          "url": "https://dblp.org/db/conf/iiwas/iiwas2017.xml"
+        }
+      },
+      {
+        "id": "ZbVA94yiGaFeFXfziR5ure",
+        "titulo": "Editorial.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2012",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Journal of Information and Data Management",
+          "edicao": "Journal of Information and Data Management, Volume 7",
+          "url": "https://dblp.org/db/journals/jidm/jidm7.xml"
+        }
+      },
+      {
+        "id": "RnRWX3SqMuRQyDtBuqRJ7Q",
+        "titulo": "Towards activity recognition in moving object trajectories from Twitter data.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2011",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "GeoInfo",
+          "edicao": "17th GeoInfo 2016:\nCampos do Jordão, São Paulo, Brazil",
+          "url": "https://dblp.org/db/conf/geoinfo/geoinfo2016.xml"
+        }
+      },
+      {
+        "id": "MXZdZUfQcvQXyXVJZQgTLm",
+        "titulo": "Resilient composition of Web services through nondeterministic planning.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2011",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ISCC",
+          "edicao": "ISCC 2016:\nMessina, Italy",
+          "url": "https://dblp.org/db/conf/iscc/iscc2016.xml"
+        }
+      },
+      {
+        "id": "6DdBZVZVJVh38phB5dsMVU",
+        "titulo": "Analysis of Methods and Tools for Relevant Words Recognition in Microblogs.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2009",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBSI",
+          "edicao": "SBSI 2016:\nFlorianópolis, Brazil",
+          "url": "https://dblp.org/db/conf/sbsi/sbsi2016.xml"
+        }
+      },
+      {
+        "id": "ZAEmfiNMogFd42hAeWCmnE",
+        "titulo": "The Baquara",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2008",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Data & Knowledge Engineering",
+          "edicao": "Data & Knowledge Engineering, Volume 98",
+          "url": "https://dblp.org/db/journals/dke/dke98.xml"
+        }
+      },
+      {
+        "id": "j9ARvLqHzMudyBSPyj8Y32",
+        "titulo": "Approximate XML structure validation based on document-grammar tree similarity.",
+        "fonte": "dblp",
+        "ordem": 5,
+        "ano": "2008",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Information Sciences",
+          "edicao": "Information Sciences, Volume 295",
+          "url": "https://dblp.org/db/journals/isci/isci295.xml"
+        }
+      }
+    ],
+    "url": ["https://dblp.org/pid/181/1333", "https://dblp.org/pid/22/1102"]
+  },
+  {
+    "nome": "Renata Galante",
+    "artigos": [
+      {
+        "id": "9DXFV4Qktqa7PTSDVY7fVR",
+        "titulo": "Caracterização e Comparação de Campanhas Promovendo o Outubro Rosa e o Novembro Azul no Twitter.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "33rd SBBD 2018:\nRio de Janeiro, RJ, Brazil - Proceeedings Companion",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2018c.xml"
+        }
+      },
+      {
+        "id": "Ht2JseKHw5wykkm9q65FtB",
+        "titulo": "Caracterização e Comparação das Campanhas do Outubro Rosa e Novembro Azul no Twitter.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "33rd SBBD 2018:\nRio de Janeiro, RJ, Brazil",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2018.xml"
+        }
+      },
+      {
+        "id": "CsyW3SarA34cwgEY6N2bkj",
+        "titulo": "The Relationship Between Visual Attention and Simulator Sickness: A Driving Simulation Study.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "VR",
+          "edicao": "VR 2018:\nTübingen/Reutlingen, Germany",
+          "url": "https://dblp.org/db/conf/vr/vr2018.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/37/2418"
+  },
+  {
+    "nome": "Renato Deggau",
+    "artigos": [
+      {
+        "id": "YUPyMKtQ5SJQvgxQQH9nBB",
+        "titulo": "Adaptive Cross-Modal Embeddings for Image-Text Alignment.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2010",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "AAAI",
+          "edicao": "34th AAAI 2020:\nNew York, NY, USA",
+          "url": "https://dblp.org/db/conf/aaai/aaai2020.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/34/9384"
+  },
+  {
+    "nome": "Renato Fileto",
+    "artigos": [
+      {
+        "id": "JWFdAtm6yYi273Pwn8e8ys",
+        "titulo": "A smart network and compute-aware Orchestrator to enhance QoS on cloud-based multimedia services.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "International Journal of Grid and Utility Computing",
+          "edicao": "International Journal of Grid and Utility Computing, Volume 11",
+          "url": "https://dblp.org/db/journals/ijguc/ijguc11.xml"
+        }
+      },
+      {
+        "id": "2xuvmKtJf3EKuVRuGX9MKr",
+        "titulo": "Enabling Multi-domain and End-to-End Slice Orchestration for Virtualization Everything Functions (VxFs).",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "AINA",
+          "edicao": "34th AINA 2020:\nCaserta, Italy",
+          "url": "https://dblp.org/db/conf/aina/aina2020.xml"
+        }
+      },
+      {
+        "id": "j6H7HBm36m5koLWVWk52RC",
+        "titulo": "Enabling the Management and Orchestration of Virtual Networking Functions on the Edge.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "CLOSER",
+          "edicao": "10th CLOSER 2020:\nPrague, Czech Republic",
+          "url": "https://dblp.org/db/conf/closer/closer2020.xml"
+        }
+      },
+      {
+        "id": "g9wmaufV8BtFHPia5pM8YK",
+        "titulo": "5GinFIRE: An end-to-end open5G vertical network function ecosystem.",
+        "fonte": "dblp",
+        "ordem": 7,
+        "ano": "2019",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Ad Hoc Networks",
+          "edicao": "Ad Hoc Networks, Volume 93",
+          "url": "https://dblp.org/db/journals/adhoc/adhoc93.xml"
+        }
+      },
+      {
+        "id": "CEjQjovZeJ5SCKgtGv6X24",
+        "titulo": "A Flexible Network and Compute-Aware Orchestrator to Enhance QoS in NFV-Based Multimedia Services.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "AINA",
+          "edicao": "32nd AINA 2018:\nKrakow, Poland",
+          "url": "https://dblp.org/db/conf/aina/aina2018.xml"
+        }
+      },
+      {
+        "id": "6hrTChA9dyFyfECkYQk64m",
+        "titulo": "Improving Security on IoT Applications Based on the FIWARE Platform.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2019",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "AINA",
+          "edicao": "32nd AINA 2018:\nKrakow, Poland",
+          "url": "https://dblp.org/db/conf/aina/aina2018.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/35/2350"
+  },
+  {
+    "nome": "Roberto Walter",
+    "artigos": [
+      {
+        "id": "UoG2vzMdHgPxZQm6AACfFs",
+        "titulo": "Bringing SQL databases to key-based NoSQL databases: a canonical approach.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2018",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Computing",
+          "edicao": "Computing, Volume 102",
+          "url": "https://dblp.org/db/journals/computing/computing102.xml"
+        }
+      },
+      {
+        "id": "fvmpTbh8d4cuVsiyzHNx9x",
+        "titulo": "An analysis of mapping strategies for storing RDF data into NoSQL databases.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SAC",
+          "edicao": "35th SAC 2020:\nOnline event, [Brno, Czech Republic]",
+          "url": "https://dblp.org/db/conf/sac/sac2020.xml"
+        }
+      },
+      {
+        "id": "BD94LqfVSFaL7oiwhWuFDg",
+        "titulo": "MASTER: A Multiple Aspects View on Trajectories.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SEBD",
+          "edicao": "28th SEBD 2020:\nVillasimius, Sud Sardegna, Italy",
+          "url": "https://dblp.org/db/conf/sebd/sebd2020.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/225/0632"
+  },
+  {
+    "nome": "Rodrigo C. Barros",
+    "artigos": [
+      {
+        "id": "EEyTUbRQkoaexMwNJRPC8v",
+        "titulo": "NewSQL Through the Looking Glass.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "WAS",
+          "edicao": "WAS 2019:\nMunich, Germany",
+          "url": "https://dblp.org/db/conf/iiwas/iiwas2019.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/94/5793"
+  },
+  {
+    "nome": "Rodrigo Gonçalves",
+    "artigos": [
+      {
+        "id": "QMS4NW5L9gKqqkUtRDfup6",
+        "titulo": "Automated Expertise Retrieval: A Taxonomy-Based Survey and Open Issues.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "ACM Computing Surveys",
+          "edicao": "ACM Computing Surveys, Volume 52",
+          "url": "https://dblp.org/db/journals/csur/csur52.xml"
+        }
+      },
+      {
+        "id": "2nsRiEtdcdjxwBCmeosWkZ",
+        "titulo": "Approximate data instance matching: a survey.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2011",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Knowledge and Information Systems",
+          "edicao": "Knowledge and Information Systems, Volume 27",
+          "url": "https://dblp.org/db/journals/kais/kais27.xml"
+        }
+      },
+      {
+        "id": "iacBfhfjCFYQ4JpiScD2DU",
+        "titulo": "Thin-walled member plastic bifurcation analysis using generalised beam theory.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2007",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Advances in Engineering Software",
+          "edicao": "Advances in Engineering Software, Volume 38",
+          "url": "https://dblp.org/db/journals/aes/aes38.xml"
+        }
+      },
+      {
+        "id": "kcRXRMiBGhyGV8tLX53vno",
+        "titulo": "Improving XML Instances Comparison with Preprocessing Algorithms.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2007",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "DEXA",
+          "edicao": "18th DEXA 2007:\nRegensburg, Germany",
+          "url": "https://dblp.org/db/conf/dexa/dexa2007.xml"
+        }
+      },
+      {
+        "id": "kLCj6WLK7wT3vtyNHuSXcw",
+        "titulo": "Decision Making Strategies for Real-Time Train Dispatch and Control.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2007",
+        "tipo": "Parts in Books or Collections",
+        "veiculo": {
+          "nome": "Analysis and Design of Intelligent Systems using Soft Computing Techniques 2007",
+          "edicao": "2007",
+          "url": "https://dblp.org/db/series/asc/asc41.xml"
+        }
+      },
+      {
+        "id": "UYhHwPzByp3qEzd3VBzbW9",
+        "titulo": "Design pattern for the adaptive scheduling of real-time tasks with multiple versions in RTSJ.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2005",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SCCC",
+          "edicao": "25th SCCC 2005:\nValdivia, Chile",
+          "url": "https://dblp.org/db/conf/sccc/sccc2005.xml"
+        }
+      },
+      {
+        "id": "5CgPL52VNt2utwjJpsFAhY",
+        "titulo": "Predictive fuzzy clustering model for natural streamflow forecasting.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2004",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "FUZZ-IEEE",
+          "edicao": "FUZZ-IEEE 2004:\nBudapest, Hungary",
+          "url": "https://dblp.org/db/conf/fuzzIEEE/fuzzIEEE2004.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/33/1197"
+  },
+  {
+    "nome": "Rodrigo Machado",
+    "artigos": [
+      {
+        "id": "CxXo8VYUUE2YANSS6EaBPG",
+        "titulo": "Implementing fuzzy logic to simulate a process of inference on sensory stimuli of deaf people in an e-learning environment.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Computer Applications in Engineering Education",
+          "edicao": "Computer Applications in Engineering Education, Volume 24",
+          "url": "https://dblp.org/db/journals/caee/caee24.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/33/4758"
+  },
+  {
+    "nome": "Rodrigo Moreira",
+    "artigos": [
+      {
+        "id": "MM6JFAHcELr67MZFbQaep2",
+        "titulo": "UnfairDuelMerge: Merging with Even Fewer Moves.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "The Computer Journal",
+          "edicao": "The Computer Journal, Volume 63",
+          "url": "https://dblp.org/db/journals/cj/cj63.xml"
+        }
+      },
+      {
+        "id": "UdfxXghARmYfgSjZAUnUxz",
+        "titulo": "Compression of Textual Column-Oriented Data.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2020",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Computing and Informatics",
+          "edicao": "Computing and Informatics, Volume 37",
+          "url": "https://dblp.org/db/journals/cai/cai37.xml"
+        }
+      },
+      {
+        "id": "5wVAjeYUochZwFbADgQkjC",
+        "titulo": "The Other C: Correcting OCR Words in the Presence of Diacritical Marks.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "PROPOR",
+          "edicao": "13th PROPOR 2018:\nCanela, Brazil",
+          "url": "https://dblp.org/db/conf/propor/propor2018.xml"
+        }
+      },
+      {
+        "id": "T3PiphVVw5EsPJapZb3v8s",
+        "titulo": "DuelMerge: Merging with Fewer Moves.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "The Computer Journal",
+          "edicao": "The Computer Journal, Volume 60",
+          "url": "https://dblp.org/db/journals/cj/cj60.xml"
+        }
+      },
+      {
+        "id": "HbeEeQqa6Pr7NEUniwvQZs",
+        "titulo": "OntoQAI: An Ontology to Support Quality Assurance Inspections.",
+        "fonte": "dblp",
+        "ordem": 5,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBES",
+          "edicao": "29. SBES 2015:\nBelo Horizonte, MG, Brazil",
+          "url": "https://dblp.org/db/conf/sbes/sbes2015.xml"
+        }
+      },
+      {
+        "id": "7CK6o9dmU2vHX3jNJ6ZJqp",
+        "titulo": "Simple Variable Length N-grams for Probabilistic Automata Learning.",
+        "fonte": "dblp",
+        "ordem": 2,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "ICGI",
+          "edicao": "11. ICGI 2012: University of Maryland, College Park, USA",
+          "url": "https://dblp.org/db/journals/jmlr/jmlrp21.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/224/6898"
+  },
+  {
+    "nome": "Ronaldo Mello",
+    "artigos": [
+      {
+        "id": "8Mt4AxoqTQWU8HZMc2676X",
+        "titulo": "SPDW: A Software Development Process Performance Data Warehousing Environment.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SEW",
+          "edicao": "30. SEW 2006:\nLoyola College Graduate Center, Columbia, MD, USA",
+          "url": "https://dblp.org/db/conf/sew/sew2006.xml"
+        }
+      },
+      {
+        "id": "MC8zKrfFtvRfEzejENfCxt",
+        "titulo": "A Data Warehousing Environment to Monitor Metrics in Software Development Processes.",
+        "fonte": "dblp",
+        "ordem": 3,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "DEXA",
+          "edicao": "16th DEXA Workshop 2005:\nCopenhagen, Denmark",
+          "url": "https://dblp.org/db/conf/dexaw/dexaw2005.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/82/6647"
+  },
+  {
+    "nome": "Ronan Knob",
+    "artigos": [
+      {
+        "id": "Jx9T2gzhWwJLDZKuzfhpaz",
+        "titulo": "WebGIS development for base flow separation and recharge estimation.",
+        "fonte": "dblp",
+        "ordem": 4,
+        "ano": "2019",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Revista de Informática Teórica e Aplicada - RITA",
+          "edicao": "Revista de Informática Teórica e Aplicada - RITA, Volume 27",
+          "url": "https://dblp.org/db/journals/rita/rita27.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/259/0491"
+  },
+  {
+    "nome": "Rubens Guimarães",
+    "artigos": [
+      {
+        "id": "hcfnZVHKj3FDGv2N4sJET6",
+        "titulo": "On the design and development of emulation platforms for NFV-based infrastructures.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2016",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "International Journal of Grid and Utility Computing",
+          "edicao": "International Journal of Grid and Utility Computing, Volume 11",
+          "url": "https://dblp.org/db/journals/ijguc/ijguc11.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/200/6206"
+  },
+  {
+    "nome": "Sérgio Mergen",
+    "artigos": [
+      {
+        "id": "4xzM3gVPHkJeewegedZyXY",
+        "titulo": "IoTDS: A One-Class Classification Approach to Detect Botnets in Internet of Things Devices.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Sensors",
+          "edicao": "Sensors, Volume 19",
+          "url": "https://dblp.org/db/journals/sensors/sensors19.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/38/1094"
+  },
+  {
+    "nome": "Taisa C. Novello",
+    "artigos": [
+      {
+        "id": "UMQMwG4S9DvQvPrHYuBB69",
+        "titulo": "Special Issue: Life-Cycle Design (Guest Editorial).",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2006",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "AI EDAM",
+          "edicao": "AI EDAM, Volume 14",
+          "url": "https://dblp.org/db/journals/aiedam/aiedam14.xml"
+        }
+      },
+      {
+        "id": "jB2maNeTLMdL5yppKY3nFn",
+        "titulo": "A knowledge-based system integrated with numerical analysis tools for aircraft life-cycle design.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2005",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "AI EDAM",
+          "edicao": "AI EDAM, Volume 12",
+          "url": "https://dblp.org/db/journals/aiedam/aiedam12.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/82/4205"
+  },
+  {
+    "nome": "Vania Elisabete Schneider",
+    "artigos": [
+      {
+        "id": "cGwkBAD4zH5nGMJhzTWzBE",
+        "titulo": "A Query-by-Similarity Indexing Strategy for Web Forms.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "28th SBBD 2013:\nRecife, Pernambuco, Brazil - Short Papers",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2013s.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/269/7852"
+  },
+  {
+    "nome": "Vinicius F. Garcia",
+    "artigos": [
+      {
+        "id": "hp2RpyteVZMWFnXA7B4u4r",
+        "titulo": "Business Activity Clustering: A Use Case in Curitiba.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2020",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "VLDB",
+          "edicao": "LADaS@VLDB 2018:\nRio de Janeiro, Brazil",
+          "url": "https://dblp.org/db/conf/vldb/ladas2018.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/224/6851"
+  },
+  {
+    "nome": "Vitor Hugo Bezerra",
+    "artigos": [
+      {
+        "id": "4BenaZpWC5V7UhGUzYKU9G",
+        "titulo": "IoTDS: A One-Class Classification Approach to Detect Botnets in Internet of Things Devices.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2019",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "Sensors",
+          "edicao": "Sensors, Volume 19",
+          "url": "https://dblp.org/db/journals/sensors/sensors19.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/248/0124"
+  },
+  {
+    "nome": "William Marx",
+    "artigos": [
+      {
+        "id": "5aAAaRLChBuKiAhVPENB6U",
+        "titulo": "Special Issue: Life-Cycle Design (Guest Editorial).",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2000",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "AI EDAM",
+          "edicao": "AI EDAM, Volume 14",
+          "url": "https://dblp.org/db/journals/aiedam/aiedam14.xml"
+        }
+      },
+      {
+        "id": "7Zr47QMD39wfYax7bhY8Wd",
+        "titulo": "A knowledge-based system integrated with numerical analysis tools for aircraft life-cycle design.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "1998",
+        "tipo": "Journal Articles",
+        "veiculo": {
+          "nome": "AI EDAM",
+          "edicao": "AI EDAM, Volume 12",
+          "url": "https://dblp.org/db/journals/aiedam/aiedam12.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/74/6623"
+  },
+  {
+    "nome": "Willian Ventura Koerich",
+    "artigos": [
+      {
+        "id": "LhyWEvkhcAD7ZdEW6cKVZg",
+        "titulo": "A Query-by-Similarity Indexing Strategy for Web Forms.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2013",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "SBBD",
+          "edicao": "28th SBBD 2013:\nRecife, Pernambuco, Brazil - Short Papers",
+          "url": "https://dblp.org/db/conf/sbbd/sbbd2013s.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/181/6587"
+  },
+  {
+    "nome": "Yuri Bichibichi",
+    "artigos": [
+      {
+        "id": "LQeuLL7awNbxRgTjdMBUTB",
+        "titulo": "Business Activity Clustering: A Use Case in Curitiba.",
+        "fonte": "dblp",
+        "ordem": 1,
+        "ano": "2018",
+        "tipo": "Conference and Workshop Papers",
+        "veiculo": {
+          "nome": "VLDB",
+          "edicao": "LADaS@VLDB 2018:\nRio de Janeiro, Brazil",
+          "url": "https://dblp.org/db/conf/vldb/ladas2018.xml"
+        }
+      }
+    ],
+    "url": "https://dblp.org/pid/225/1836"
+  }
+]

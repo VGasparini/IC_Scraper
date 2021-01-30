@@ -1,0 +1,71 @@
+[
+  {
+    "Fabio Lopes": {
+      "variacoes_conhecidas": ["Fabio Lopes"],
+      "correspondencias_dblp": [
+        { "Fabio Seixas-Lopes": "https://dblp.org/pid/178/7786" },
+        { "Fábio L. L. Mendonça": "https://dblp.org/pid/124/2039" },
+        { "Fábio Rodrigo Lopes de Araújo": "https://dblp.org/pid/131/8340" },
+        { "Fábio Lopes Brezolin": "https://dblp.org/pid/215/7044" },
+        { "Fábio Lopes Caversan": "https://dblp.org/pid/127/0020" },
+        { "Fabio Lopes Licht": "https://dblp.org/pid/204/6575" },
+        { "Fábio Lopes": "https://dblp.org/pid/246/0334" },
+        { "Fábio J. S. Lopes": "https://dblp.org/pid/235/5331" },
+        { "Fábio S. Lopes": "https://dblp.org/pid/254/9174" },
+        { "Fabio Silva Lopes": "https://dblp.org/pid/238/7404" }
+      ]
+    }
+  },
+  {
+    "Marcelo Ferreira": {
+      "variacoes_conhecidas": ["Marcelo Ferreira"],
+      "correspondencias_dblp": [
+        { "Marcelo Alves-Ferreira": "https://dblp.org/pid/99/7110" },
+        { "Marcelo Ferreira Moreno": "https://dblp.org/pid/95/6660" },
+        {
+          "Marcelo Ferreira De Almeida Araujo": "https://dblp.org/pid/246/3459"
+        },
+        { "Marcelo Ferreira": "https://dblp.org/pid/200/1634" },
+        { "Marcelo Corsino Ferreira": "https://dblp.org/pid/47/327" },
+        { "Marcelo da Costa Ferreira": "https://dblp.org/pid/257/2557" },
+        {
+          "Marcelo Gitirana Gomes Ferreira": "https://dblp.org/pid/97/10325"
+        },
+        { "Marcelo H. S. Ferreira": "https://dblp.org/pid/230/8088" },
+        { "Marcelo J. P. Ferreira": "https://dblp.org/pid/18/946" },
+        { "Marcelo R. P. Ferreira": "https://dblp.org/pid/118/0750" },
+        {
+          "Marcelo Rodrigo Portela Ferreira": "https://dblp.org/pid/48/8220"
+        },
+        { "Marcelo U. Ferreira": "https://dblp.org/pid/269/0465" },
+        {
+          "Marcelo Ferreira da Costa Gomes": "https://dblp.org/pid/216/3952"
+        },
+        { "Marcelo Ferreira Rego": "https://dblp.org/pid/132/7134" }
+      ]
+    }
+  },
+  {
+    "Mário Martins": {
+      "variacoes_conhecidas": ["Mário Martins"],
+      "correspondencias_dblp": [
+        { "Mario Eduardo S. Martins": "https://dblp.org/pid/244/7144" },
+        { "Mario F. Martins": "https://dblp.org/pid/96/1294" },
+        { "Mário Lúcio da Silva Martins": "https://dblp.org/pid/127/0982" }
+      ]
+    }
+  },
+  {
+    "Rodrigo Gonçalves": {
+      "variacoes_conhecidas": ["Rodrigo Gonçalves"],
+      "correspondencias_dblp": [
+        { "Rodrigo Goncalves De Branco": "https://dblp.org/pid/156/6397" },
+        { "Rodrigo Gonçalves": "https://dblp.org/pid/94/5793" },
+        { "Rodrigo de Almeida Goncalves": "https://dblp.org/pid/127/0014" },
+        { "Rodrigo Franco Gonçalves": "https://dblp.org/pid/134/0759" },
+        { "Rodrigo M. S. Gonçalves": "https://dblp.org/pid/33/7290" },
+        { "Rodrigo M. T. Gonçalves": "https://dblp.org/pid/181/3621" }
+      ]
+    }
+  }
+]

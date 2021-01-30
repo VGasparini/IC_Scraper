@@ -1,0 +1,64 @@
+({
+  "André Aráujo": {
+    "variacoes_conhecidas": ["André Aráujo"],
+    "correspondencias_dblp": [
+      { "Andre Araujo": "https://dblp.org/pid/177/1567" },
+      { "André Araújo": "https://dblp.org/pid/75/11283" },
+      { "Andre A. Araujo": "https://dblp.org/pid/170/3093" },
+      { "Andre F. de Araújo": "https://dblp.org/pid/36/10816" },
+      { "André G. Araújo": "https://dblp.org/pid/226/3293" },
+      { "Andre L. Araujo": "https://dblp.org/pid/94/5510" },
+      { "André L. Meireles Araújo": "https://dblp.org/pid/237/3207" },
+      { "André Luiz Carneiro de Araújo": "https://dblp.org/pid/156/7852" },
+      { "André Magno Costa de Araújo": "https://dblp.org/pid/196/4168" },
+      { "Andre Ricardo Melo Araujo": "https://dblp.org/pid/143/2225" },
+      { "André F. Araújo de Carvalho": "https://dblp.org/pid/168/2462" },
+      { "André Domingos Araújo Souza": "https://dblp.org/pid/88/9271" }
+    ]
+  }
+},
+{
+  "Marcos Nunes": {
+    "variacoes_conhecidas": ["Marcos Nunes"],
+    "correspondencias_dblp": [
+      {
+        "Marcos Valério de Almeida Nunes": "https://dblp.org/pid/191/6119"
+      },
+      { "Marcos Antonio N. Nunes": "https://dblp.org/pid/251/6390" },
+      { "Marcos Freitas Nunes": "https://dblp.org/pid/63/7265" },
+      { "Marcos Nunes Ueno": "https://dblp.org/pid/164/5381" }
+    ]
+  }
+},
+{
+  "Miguel Soares": {
+    "variacoes_conhecidas": ["Miguel Soares"],
+    "correspondencias_dblp": [
+      { "Miguel Soares": "https://dblp.org/pid/167/4681" }
+    ]
+  }
+},
+{
+  "Patrícia Silveira": {
+    "variacoes_conhecidas": ["Patrícia Silveira"],
+    "correspondencias_dblp": [
+      { "Patricia Silveira": "https://dblp.org/pid/89/320" },
+      { "Patrícia Silveira": "https://dblp.org/pid/01/8512" },
+      { "Patricia P. Silveira": "https://dblp.org/pid/228/9483" },
+      { "Patrícia Souza Silveira": "https://dblp.org/pid/07/8696" }
+    ]
+  }
+},
+{
+  "William Pereira": {
+    "variacoes_conhecidas": ["William Pereira"],
+    "correspondencias_dblp": [
+      { "William B. Pereira": "https://dblp.org/pid/218/4601" },
+      { "William John Pereira Brobouski": "https://dblp.org/pid/242/2607" },
+      {
+        "William César de Andrade Pereira": "https://dblp.org/pid/267/1085"
+      },
+      { "William T. Pereira": "https://dblp.org/pid/260/7167" }
+    ]
+  }
+})
